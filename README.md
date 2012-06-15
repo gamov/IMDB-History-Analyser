@@ -7,7 +7,7 @@ Use this ruby script to parse your [IMDB](http://imdb.com/) rating history. It d
 - List Best Of by year for each year
 - List Besf Of by decade
 
-Movies will have there associated rating + a URL to the IMDB website.
+Movies will have their associated rating, the director(s) name and a URL to the IMDB website.
 
 ratings.csv is an example input and results.txt is the output.
 

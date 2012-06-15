@@ -150,7 +150,7 @@ File.open("ratings.csv", "r") do |infile|
     it = 1
     result.puts "\n#========= Best of #{year.to_s} (#{year.nbr_movies} movies, your average=#{AVG_ROUND_FT % year.average_rating}) ============================"
     best_of.each do |movie|
-      result.puts "#{it}. #{movie.name}: #{movie.rating}   (#{movie.url})"      
+      result.puts "#{it}. #{movie.name} (#{movie.director}): #{movie.rating}    (#{movie.url})"      
       it += 1
     end
   end
@@ -175,7 +175,7 @@ File.open("ratings.csv", "r") do |infile|
       decade_movies = decade_movies.sort.last(nbr_best).reverse #truncating the array
       it = 1
       decade_movies.each do |movie|
-        result.puts  "#{it}. #{movie.name}: #{movie.rating}   (#{movie.url})"    
+        result.puts  "#{it}. #{movie.name} (#{movie.director}): #{movie.rating}    (#{movie.url})"     
         it += 1
       end
       # reset for the next decade
