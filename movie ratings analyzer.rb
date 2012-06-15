@@ -16,7 +16,7 @@ show_only_above=8 #xxxx
 
 ### REGEX ####
 
-movie_line_regex = /"\d"/
+movie_line_regex = /^"\d*"/
 
 class Movie
   include Comparable
@@ -117,7 +117,9 @@ File.open("ratings.csv", "r") do |infile|
       end
       # puts "-----"
       next
-    end #movie processing
+    else
+      puts "Line not detected as movie line: >#{line}<"
+    end #movie processing    
   end #file read
 
   #File write

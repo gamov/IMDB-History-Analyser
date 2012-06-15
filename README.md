@@ -21,4 +21,4 @@ You must have the file 'ratings.csv that you downloaded from IMDB in the same di
 Enjoy,
 Gam.
 
-PS: Based on IMDB export format as 15.6.12
+PS: Based on IMDB export format as 15.6.12.
