@@ -1,0 +1,25 @@
+# osx noise
+.DS_Store
+profile
+
+# xcode noise
+build/*
+*.mode1
+*.mode1v3
+*.mode2v3
+*.perspective
+*.perspectivev3
+*.pbxuser
+*.xcworkspace
+xcuserdata
+
+# svn & cvs
+.svn
+CVS
+archives/imdb ratings 1.6.11.csv
+archives/imdb ratings copy.csv
+archives/imdb ratings sample.csv
+archives/movie ratings analyzer old html.rb
+imdb ratings 15.6.12.csv
+imdb ratings sample.csv
+song.rb

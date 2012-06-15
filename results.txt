@@ -1,0 +1,1140 @@
+
+Statistics based on 1386 movie votes.
+
+@@@@@ Average per year @@@@@
+Year 1898 has 2 movies, your average is: 7.00
+Year 1900 has 1 movies, your average is: 8.00
+Year 1901 has 2 movies, your average is: 7.50
+Year 1902 has 1 movies, your average is: 7.00
+Year 1917 has 5 movies, your average is: 6.80
+Year 1918 has 5 movies, your average is: 7.80
+Year 1919 has 2 movies, your average is: 7.00
+Year 1920 has 5 movies, your average is: 7.60
+Year 1921 has 6 movies, your average is: 8.00
+Year 1922 has 8 movies, your average is: 7.12
+Year 1923 has 2 movies, your average is: 8.00
+Year 1927 has 1 movies, your average is: 8.00
+Year 1936 has 1 movies, your average is: 6.00
+Year 1939 has 1 movies, your average is: 7.00
+Year 1941 has 1 movies, your average is: 7.00
+Year 1942 has 2 movies, your average is: 4.00
+Year 1943 has 2 movies, your average is: 7.00
+Year 1945 has 1 movies, your average is: 7.00
+Year 1946 has 2 movies, your average is: 6.50
+Year 1947 has 1 movies, your average is: 7.00
+Year 1950 has 3 movies, your average is: 5.67
+Year 1951 has 2 movies, your average is: 5.50
+Year 1953 has 4 movies, your average is: 7.75
+Year 1954 has 3 movies, your average is: 7.00
+Year 1955 has 5 movies, your average is: 7.00
+Year 1956 has 3 movies, your average is: 7.33
+Year 1957 has 8 movies, your average is: 7.12
+Year 1958 has 4 movies, your average is: 6.50
+Year 1959 has 4 movies, your average is: 5.00
+Year 1960 has 4 movies, your average is: 8.00
+Year 1961 has 4 movies, your average is: 5.75
+Year 1962 has 12 movies, your average is: 7.33
+Year 1963 has 10 movies, your average is: 7.30
+Year 1964 has 9 movies, your average is: 7.67
+Year 1965 has 6 movies, your average is: 6.50
+Year 1966 has 8 movies, your average is: 7.00
+Year 1967 has 10 movies, your average is: 6.70
+Year 1968 has 8 movies, your average is: 7.50
+Year 1969 has 7 movies, your average is: 6.86
+Year 1970 has 10 movies, your average is: 7.60
+Year 1971 has 11 movies, your average is: 6.36
+Year 1972 has 9 movies, your average is: 7.22
+Year 1973 has 12 movies, your average is: 7.33
+Year 1974 has 3 movies, your average is: 7.00
+Year 1975 has 11 movies, your average is: 7.64
+Year 1976 has 7 movies, your average is: 6.57
+Year 1977 has 11 movies, your average is: 6.73
+Year 1978 has 6 movies, your average is: 6.50
+Year 1979 has 11 movies, your average is: 7.00
+Year 1980 has 11 movies, your average is: 7.55
+Year 1981 has 10 movies, your average is: 7.50
+Year 1982 has 12 movies, your average is: 6.58
+Year 1983 has 11 movies, your average is: 7.18
+Year 1984 has 13 movies, your average is: 7.85
+Year 1985 has 18 movies, your average is: 7.11
+Year 1986 has 9 movies, your average is: 7.22
+Year 1987 has 8 movies, your average is: 6.88
+Year 1988 has 12 movies, your average is: 7.00
+Year 1989 has 12 movies, your average is: 6.92
+Year 1990 has 22 movies, your average is: 6.95
+Year 1991 has 15 movies, your average is: 7.13
+Year 1992 has 16 movies, your average is: 6.81
+Year 1993 has 25 movies, your average is: 6.44
+Year 1994 has 33 movies, your average is: 6.91
+Year 1995 has 30 movies, your average is: 7.07
+Year 1996 has 41 movies, your average is: 7.07
+Year 1997 has 47 movies, your average is: 6.87
+Year 1998 has 51 movies, your average is: 6.94
+Year 1999 has 67 movies, your average is: 6.85
+Year 2000 has 76 movies, your average is: 6.80
+Year 2001 has 83 movies, your average is: 6.42
+Year 2002 has 66 movies, your average is: 6.52
+Year 2003 has 62 movies, your average is: 6.39
+Year 2004 has 61 movies, your average is: 6.16
+Year 2005 has 60 movies, your average is: 6.45
+Year 2006 has 68 movies, your average is: 6.03
+Year 2007 has 46 movies, your average is: 6.41
+Year 2008 has 63 movies, your average is: 5.70
+Year 2009 has 38 movies, your average is: 6.13
+Year 2010 has 29 movies, your average is: 5.59
+Year 2011 has 13 movies, your average is: 5.69
+Year 2012 has 2 movies, your average is: 5.00
+
+Your favorite year: 1984 with average: 7.85 (with minimum 10 votes to qualify).
+
+
+@@@@@@ Best Of by year @@@@@@@
+
+#========= Best of 1898 (2 movies, your average=7.00) ============================
+1. Four Heads Are Better Than One: 8   (http://www.imdb.com/title/tt0135696/)
+2. The Temptation of St. Anthony: 6   (http://www.imdb.com/title/tt0224240/)
+
+#========= Best of 1900 (1 movies, your average=8.00) ============================
+1. Oh! What a Night; or, The Sultan's Dream: 8   (http://www.imdb.com/title/tt0227420/)
+
+#========= Best of 1901 (2 movies, your average=7.50) ============================
+1. The India Rubber Head: 8   (http://www.imdb.com/title/tt0000359/)
+2. Bluebeard: 7   (http://www.imdb.com/title/tt0131934/)
+
+#========= Best of 1902 (1 movies, your average=7.00) ============================
+1. A Trip to the Moon: 7   (http://www.imdb.com/title/tt0000417/)
+
+#========= Best of 1917 (5 movies, your average=6.80) ============================
+1. Coney Island: 8   (http://www.imdb.com/title/tt0007819/)
+2. The Butcher Boy: 7   (http://www.imdb.com/title/tt0007761/)
+3. Oh Doctor!: 7   (http://www.imdb.com/title/tt0008377/)
+4. His Wedding Night: 6   (http://www.imdb.com/title/tt0008112/)
+5. The Rough House: 6   (http://www.imdb.com/title/tt0008523/)
+
+#========= Best of 1918 (5 movies, your average=7.80) ============================
+1. The Cook: 9   (http://www.imdb.com/title/tt0008975/)
+2. The Bell Boy: 8   (http://www.imdb.com/title/tt0008874/)
+3. Out West: 8   (http://www.imdb.com/title/tt0009466/)
+4. Good Night, Nurse!: 7   (http://www.imdb.com/title/tt0009123/)
+5. Moonshine: 7   (http://www.imdb.com/title/tt0009389/)
+
+#========= Best of 1919 (2 movies, your average=7.00) ============================
+1. Back Stage: 7   (http://www.imdb.com/title/tt0009899/)
+2. The Hayseed: 7   (http://www.imdb.com/title/tt0010221/)
+
+#========= Best of 1920 (5 movies, your average=7.60) ============================
+1. One Week: 9   (http://www.imdb.com/title/tt0011541/)
+2. Neighbors: 8   (http://www.imdb.com/title/tt0011508/)
+3. The Garage: 8   (http://www.imdb.com/title/tt0010155/)
+4. The Scarecrow: 7   (http://www.imdb.com/title/tt0011656/)
+5. Convict 13: 6   (http://www.imdb.com/title/tt0011071/)
+
+#========= Best of 1921 (6 movies, your average=8.00) ============================
+1. The Goat: 9   (http://www.imdb.com/title/tt0012224/)
+2. The Play House: 8   (http://www.imdb.com/title/tt0012570/)
+3. The 'High Sign': 8   (http://www.imdb.com/title/tt0012278/)
+4. The Boat: 8   (http://www.imdb.com/title/tt0011984/)
+5. Hard Luck: 8   (http://www.imdb.com/title/tt0012253/)
+6. The Haunted House: 7   (http://www.imdb.com/title/tt0012255/)
+
+#========= Best of 1922 (8 movies, your average=7.12) ============================
+1. Cops: 8   (http://www.imdb.com/title/tt0013025/)
+2. Day Dreams: 8   (http://www.imdb.com/title/tt0013055/)
+3. Nosferatu: 7   (http://www.imdb.com/title/tt0013442/)
+4. The Electric House: 7   (http://www.imdb.com/title/tt0013099/)
+5. The Paleface: 7   (http://www.imdb.com/title/tt0012543/)
+6. The Blacksmith: 7   (http://www.imdb.com/title/tt0012945/)
+7. My Wife's Relations: 7   (http://www.imdb.com/title/tt0013422/)
+8. The Frozen North: 6   (http://www.imdb.com/title/tt0013158/)
+
+#========= Best of 1923 (2 movies, your average=8.00) ============================
+1. The Love Nest: 8   (http://www.imdb.com/title/tt0014218/)
+2. The Balloonatic: 8   (http://www.imdb.com/title/tt0013858/)
+
+#========= Best of 1927 (1 movies, your average=8.00) ============================
+1. Metropolis: 8   (http://www.imdb.com/title/tt0017136/)
+
+#========= Best of 1936 (1 movies, your average=6.00) ============================
+1. Soigne ton gauche: 6   (http://www.imdb.com/title/tt0028275/)
+
+#========= Best of 1939 (1 movies, your average=7.00) ============================
+1. The Rules of the Game: 7   (http://www.imdb.com/title/tt0031885/)
+
+#========= Best of 1941 (1 movies, your average=7.00) ============================
+1. Citizen Kane: 7   (http://www.imdb.com/title/tt0033467/)
+
+#========= Best of 1942 (2 movies, your average=4.00) ============================
+1. Cat People: 5   (http://www.imdb.com/title/tt0034587/)
+2. There Was a Father: 3   (http://www.imdb.com/title/tt0034591/)
+
+#========= Best of 1943 (2 movies, your average=7.00) ============================
+1. Sanshiro Sugata: 7   (http://www.imdb.com/title/tt0036400/)
+2. The Leopard Man: 7   (http://www.imdb.com/title/tt0036104/)
+
+#========= Best of 1945 (1 movies, your average=7.00) ============================
+1. Children of Paradise: 7   (http://www.imdb.com/title/tt0037674/)
+
+#========= Best of 1946 (2 movies, your average=6.50) ============================
+1. The Big Sleep: 7   (http://www.imdb.com/title/tt0038355/)
+2. Beauty and the Beast: 6   (http://www.imdb.com/title/tt0038348/)
+
+#========= Best of 1947 (1 movies, your average=7.00) ============================
+1. Out of the Past: 7   (http://www.imdb.com/title/tt0039689/)
+
+#========= Best of 1950 (3 movies, your average=5.67) ============================
+1. The Young and the Damned: 7   (http://www.imdb.com/title/tt0042804/)
+2. Rashomon: 6   (http://www.imdb.com/title/tt0042876/)
+3. Guernica: 4   (http://www.imdb.com/title/tt0042528/)
+
+#========= Best of 1951 (2 movies, your average=5.50) ============================
+1. Distant Drums: 6   (http://www.imdb.com/title/tt0043469/)
+2. Strangers on a Train: 5   (http://www.imdb.com/title/tt0044079/)
+
+#========= Best of 1953 (4 movies, your average=7.75) ============================
+1. The Wages of Fear: 8   (http://www.imdb.com/title/tt0046268/)
+2. Les statues meurent aussi: 8   (http://www.imdb.com/title/tt0046365/)
+3. Mr. Hulot's Holiday: 8   (http://www.imdb.com/title/tt0046487/)
+4. The War of the Worlds: 7   (http://www.imdb.com/title/tt0046534/)
+
+#========= Best of 1954 (3 movies, your average=7.00) ============================
+1. Rear Window: 8   (http://www.imdb.com/title/tt0047396/)
+2. Samurai I: Musashi Miyamoto: 7   (http://www.imdb.com/title/tt0047444/)
+3. Twenty-Four Eyes: 6   (http://www.imdb.com/title/tt0047281/)
+
+#========= Best of 1955 (5 movies, your average=7.00) ============================
+1. Night and Fog: 8   (http://www.imdb.com/title/tt0048434/)
+2. Smiles of a Summer Night: 8   (http://www.imdb.com/title/tt0048641/)
+3. Floating Clouds: 7   (http://www.imdb.com/title/tt0048757/)
+4. Kiss Me Deadly: 7   (http://www.imdb.com/title/tt0048261/)
+5. Samurai II: Duel at Ichijoji Temple: 5   (http://www.imdb.com/title/tt0048579/)
+
+#========= Best of 1956 (3 movies, your average=7.33) ============================
+1. Toute la mémoire du monde: 8   (http://www.imdb.com/title/tt0049869/)
+2. Samurai III: Duel at Ganryu Island: 7   (http://www.imdb.com/title/tt0049710/)
+3. Bob le Flambeur: 7   (http://www.imdb.com/title/tt0047892/)
+
+#========= Best of 1957 (8 movies, your average=7.12) ============================
+1. 12 Angry Men: 9   (http://www.imdb.com/title/tt0050083/)
+2. The Seventh Seal: 9   (http://www.imdb.com/title/tt0050976/)
+3. The Bridge on the River Kwai: 8   (http://www.imdb.com/title/tt0050212/)
+4. Throne of Blood: 7   (http://www.imdb.com/title/tt0050613/)
+5. Forty Guns: 7   (http://www.imdb.com/title/tt0050407/)
+6. Wild Strawberries: 6   (http://www.imdb.com/title/tt0050986/)
+7. Curse of the Demon: 6   (http://www.imdb.com/title/tt0050766/)
+8. The Kids: 5   (http://www.imdb.com/title/tt0050714/)
+
+#========= Best of 1958 (4 movies, your average=6.50) ============================
+1. Vertigo: 8   (http://www.imdb.com/title/tt0052357/)
+2. Mon Oncle: 8   (http://www.imdb.com/title/tt0050706/)
+3. Elevator to the Gallows: 6   (http://www.imdb.com/title/tt0051378/)
+4. The Musicians: 4   (http://www.imdb.com/title/tt0389182/)
+
+#========= Best of 1959 (4 movies, your average=5.00) ============================
+1. Hiroshima Mon Amour: 8   (http://www.imdb.com/title/tt0052893/)
+2. The 400 Blows: 7   (http://www.imdb.com/title/tt0053198/)
+3. Sleeping Beauty: 4   (http://www.imdb.com/title/tt0053285/)
+4. Plan 9 from Outer Space: 1   (http://www.imdb.com/title/tt0052077/)
+
+#========= Best of 1960 (4 movies, your average=8.00) ============================
+1. Psycho: 9   (http://www.imdb.com/title/tt0054215/)
+2. Breathless: 9   (http://www.imdb.com/title/tt0053472/)
+3. L'Avventura: 8   (http://www.imdb.com/title/tt0053619/)
+4. Shoot the Piano Player: 6   (http://www.imdb.com/title/tt0054389/)
+
+#========= Best of 1961 (4 movies, your average=5.75) ============================
+1. The Hustler: 7   (http://www.imdb.com/title/tt0054997/)
+2. A Woman Is a Woman: 7   (http://www.imdb.com/title/tt0055572/)
+3. Last Year at Marienbad: 5   (http://www.imdb.com/title/tt0054632/)
+4. La notte: 4   (http://www.imdb.com/title/tt0054130/)
+
+#========= Best of 1962 (12 movies, your average=7.33) ============================
+1. Cleo from 5 to 7: 9   (http://www.imdb.com/title/tt0055852/)
+2. L'eclisse: 9   (http://www.imdb.com/title/tt0056736/)
+3. Lawrence of Arabia: 8   (http://www.imdb.com/title/tt0056172/)
+4. Jules and Jim: 8   (http://www.imdb.com/title/tt0055032/)
+5. Knife in the Water: 8   (http://www.imdb.com/title/tt0056291/)
+6. La Jetée: 7   (http://www.imdb.com/title/tt0056119/)
+7. An Autumn Afternoon: 7   (http://www.imdb.com/title/tt0056444/)
+8. The Man Who Shot Liberty Valance: 7   (http://www.imdb.com/title/tt0056217/)
+9. Lolita: 7   (http://www.imdb.com/title/tt0056193/)
+10. Mamma Roma: 6   (http://www.imdb.com/title/tt0056215/)
+11. War of the Buttons: 6   (http://www.imdb.com/title/tt0054949/)
+12. Dr. No: 6   (http://www.imdb.com/title/tt0055928/)
+
+#========= Best of 1963 (10 movies, your average=7.30) ============================
+1. The Birds: 8   (http://www.imdb.com/title/tt0056869/)
+2. Les Tontons Flingueurs: 8   (http://www.imdb.com/title/tt0057591/)
+3. Shock Corridor: 8   (http://www.imdb.com/title/tt0057495/)
+4. The Bakery Girl of Monceau: 8   (http://www.imdb.com/title/tt0056884/)
+5. Contempt: 7   (http://www.imdb.com/title/tt0057345/)
+6. From Russia with Love: 7   (http://www.imdb.com/title/tt0057076/)
+7. The Pink Panther: 7   (http://www.imdb.com/title/tt0057413/)
+8. Lord of the Flies: 7   (http://www.imdb.com/title/tt0057261/)
+9. Pouic-Pouic: 7   (http://www.imdb.com/title/tt0057422/)
+10. Suzanne's Career: 6   (http://www.imdb.com/title/tt0056910/)
+
+#========= Best of 1964 (9 movies, your average=7.67) ============================
+1. A Fistful of Dollars: 9   (http://www.imdb.com/title/tt0058461/)
+2. The Gospel According to St. Matthew: 8   (http://www.imdb.com/title/tt0058715/)
+3. Diary of a Chambermaid: 8   (http://www.imdb.com/title/tt0058249/)
+4. Red Desert: 8   (http://www.imdb.com/title/tt0058003/)
+5. A Shot in the Dark: 8   (http://www.imdb.com/title/tt0058586/)
+6. Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb: 7   (http://www.imdb.com/title/tt0057012/)
+7. Goldfinger: 7   (http://www.imdb.com/title/tt0058150/)
+8. Le gendarme de Saint-Tropez: 7   (http://www.imdb.com/title/tt0058135/)
+9. The Great Spy Chase: 7   (http://www.imdb.com/title/tt0057870/)
+
+#========= Best of 1965 (6 movies, your average=6.50) ============================
+1. For a Few Dollars More: 8   (http://www.imdb.com/title/tt0059578/)
+2. The Sucker: 8   (http://www.imdb.com/title/tt0057967/)
+3. Darling: 8   (http://www.imdb.com/title/tt0059084/)
+4. Fantômas se déchaîne: 6   (http://www.imdb.com/title/tt0059168/)
+5. The Gendarme in New York: 6   (http://www.imdb.com/title/tt0060450/)
+6. Thunderball: 3   (http://www.imdb.com/title/tt0059800/)
+
+#========= Best of 1966 (8 movies, your average=7.00) ============================
+1. La Grande Vadrouille: 9   (http://www.imdb.com/title/tt0060474/)
+2. The Good, the Bad and the Ugly: 8   (http://www.imdb.com/title/tt0060196/)
+3. The Hawks and the Sparrows: 7   (http://www.imdb.com/title/tt0061132/)
+4. Fahrenheit 451: 7   (http://www.imdb.com/title/tt0060390/)
+5. Come Drink with Me: 7   (http://www.imdb.com/title/tt0059079/)
+6. The Shooting: 7   (http://www.imdb.com/title/tt0062262/)
+7. What's Up, Tiger Lily?: 6   (http://www.imdb.com/title/tt0061177/)
+8. What's Cooking in Paris: 5   (http://www.imdb.com/title/tt0061728/)
+
+#========= Best of 1967 (10 movies, your average=6.70) ============================
+1. Play Time: 9   (http://www.imdb.com/title/tt0062136/)
+2. Oscar: 8   (http://www.imdb.com/title/tt0062083/)
+3. Branded to Kill: 8   (http://www.imdb.com/title/tt0061882/)
+4. Evening Classes: 8   (http://www.imdb.com/title/tt0061524/)
+5. La Collectionneuse: 7   (http://www.imdb.com/title/tt0061495/)
+6. Poor Cow: 7   (http://www.imdb.com/title/tt0062141/)
+7. Fantômas contre Scotland Yard: 7   (http://www.imdb.com/title/tt0060400/)
+8. Bonnie and Clyde: 6   (http://www.imdb.com/title/tt0061418/)
+9. You Only Live Twice: 4   (http://www.imdb.com/title/tt0062512/)
+10. Reflections in a Golden Eye: 3   (http://www.imdb.com/title/tt0062185/)
+
+#========= Best of 1968 (8 movies, your average=7.50) ============================
+1. Once Upon a Time in the West: 9   (http://www.imdb.com/title/tt0064116/)
+2. 2001: A Space Odyssey: 9   (http://www.imdb.com/title/tt0062622/)
+3. Stolen Kisses: 8   (http://www.imdb.com/title/tt0062695/)
+4. Flesh: 8   (http://www.imdb.com/title/tt0062979/)
+5. Signs of Life: 7   (http://www.imdb.com/title/tt0063218/)
+6. The Gendarme Gets Married: 7   (http://www.imdb.com/title/tt0063005/)
+7. The Little Bather: 6   (http://www.imdb.com/title/tt0062120/)
+8. The Tattooed One: 6   (http://www.imdb.com/title/tt0063674/)
+
+#========= Best of 1969 (7 movies, your average=6.86) ============================
+1. Army of Shadows: 8   (http://www.imdb.com/title/tt0064040/)
+2. My Night at Maud's: 8   (http://www.imdb.com/title/tt0064612/)
+3. Midnight Cowboy: 7   (http://www.imdb.com/title/tt0064665/)
+4. The Damned: 7   (http://www.imdb.com/title/tt0064118/)
+5. Easy Rider: 7   (http://www.imdb.com/title/tt0064276/)
+6. Hibernatus: 6   (http://www.imdb.com/title/tt0064425/)
+7. The Wild Bunch: 5   (http://www.imdb.com/title/tt0065214/)
+
+#========= Best of 1970 (10 movies, your average=7.60) ============================
+1. Le cercle rouge: 8   (http://www.imdb.com/title/tt0065531/)
+2. Claire's Knee: 8   (http://www.imdb.com/title/tt0065772/)
+3. Bed & Board: 8   (http://www.imdb.com/title/tt0065651/)
+4. Even Dwarfs Started Small: 8   (http://www.imdb.com/title/tt0065436/)
+5. Borsalino: 8   (http://www.imdb.com/title/tt0065486/)
+6. Wanda: 8   (http://www.imdb.com/title/tt0067961/)
+7. The Gendarme Takes Off: 8   (http://www.imdb.com/title/tt0065769/)
+8. Trash: 8   (http://www.imdb.com/title/tt0066482/)
+9. L'homme orchestre: 7   (http://www.imdb.com/title/tt0065848/)
+10. Le distrait: 5   (http://www.imdb.com/title/tt0072884/)
+
+#========= Best of 1971 (11 movies, your average=6.36) ============================
+1. Two-Lane Blacktop: 9   (http://www.imdb.com/title/tt0067893/)
+2. Johnny Got His Gun: 8   (http://www.imdb.com/title/tt0067277/)
+3. Family Life: 8   (http://www.imdb.com/title/tt0068569/)
+4. Two English Girls: 8   (http://www.imdb.com/title/tt0066989/)
+5. Delusions of Grandeur: 8   (http://www.imdb.com/title/tt0067108/)
+6. The Gazebo: 8   (http://www.imdb.com/title/tt0067274/)
+7. Dirty Harry: 6   (http://www.imdb.com/title/tt0066999/)
+8. Perched on a Tree: 6   (http://www.imdb.com/title/tt0066423/)
+9. Fabryka: 5   (http://www.imdb.com/title/tt0067077/)
+10. A Clockwork Orange: 3   (http://www.imdb.com/title/tt0066921/)
+11. The Merchant of Four Seasons: 1   (http://www.imdb.com/title/tt0067227/)
+
+#========= Best of 1972 (9 movies, your average=7.22) ============================
+1. The Godfather: 8   (http://www.imdb.com/title/tt0068646/)
+2. César and Rosalie: 8   (http://www.imdb.com/title/tt0068441/)
+3. Heat: 8   (http://www.imdb.com/title/tt0068688/)
+4. Aguirre: The Wrath of God: 7   (http://www.imdb.com/title/tt0068182/)
+5. Intimate Confessions of a Chinese Courtesan: 7   (http://www.imdb.com/title/tt0068744/)
+6. Last Tango in Paris: 7   (http://www.imdb.com/title/tt0070849/)
+7. Every Thing You Always Wanted to Know About Sex * But Were Afraid to Ask: 7   (http://www.imdb.com/title/tt0068555/)
+8. The Troubles of Alfred: 7   (http://www.imdb.com/title/tt0067385/)
+9. Pink Flamingos: 6   (http://www.imdb.com/title/tt0069089/)
+
+#========= Best of 1973 (12 movies, your average=7.33) ============================
+1. Papillon: 8   (http://www.imdb.com/title/tt0070511/)
+2. The Exorcist: 8   (http://www.imdb.com/title/tt0070047/)
+3. Fantastic Planet: 8   (http://www.imdb.com/title/tt0070544/)
+4. Mean Streets: 8   (http://www.imdb.com/title/tt0070379/)
+5. The Mad Adventures of 'Rabbi' Jacob: 8   (http://www.imdb.com/title/tt0069747/)
+6. The Big Feast: 8   (http://www.imdb.com/title/tt0070130/)
+7. The Sting: 7   (http://www.imdb.com/title/tt0070735/)
+8. Day for Night: 7   (http://www.imdb.com/title/tt0070460/)
+9. Badlands: 7   (http://www.imdb.com/title/tt0069762/)
+10. Sleeper: 7   (http://www.imdb.com/title/tt0070707/)
+11. Now Where Did the Seventh Company Get to?: 6   (http://www.imdb.com/title/tt0070356/)
+12. Si mamad: 6   (http://www.imdb.com/title/tt1121093/)
+
+#========= Best of 1974 (3 movies, your average=7.00) ============================
+1. The Godfather: Part II: 7   (http://www.imdb.com/title/tt0071562/)
+2. The Enigma of Kaspar Hauser: 7   (http://www.imdb.com/title/tt0071691/)
+3. Going Places: 7   (http://www.imdb.com/title/tt0072353/)
+
+#========= Best of 1975 (11 movies, your average=7.64) ============================
+1. Barry Lyndon: 9   (http://www.imdb.com/title/tt0072684/)
+2. The Man Who Would Be King: 9   (http://www.imdb.com/title/tt0073341/)
+3. Falsche Bewegung: 9   (http://www.imdb.com/title/tt0071483/)
+4. One Flew Over the Cuckoo's Nest: 8   (http://www.imdb.com/title/tt0073486/)
+5. Monty Python and the Holy Grail: 8   (http://www.imdb.com/title/tt0071853/)
+6. Dersu Uzala: 8   (http://www.imdb.com/title/tt0071411/)
+7. Picnic at Hanging Rock: 8   (http://www.imdb.com/title/tt0073540/)
+8. The Passenger: 8   (http://www.imdb.com/title/tt0073580/)
+9. Let Joy Reign Supreme: 8   (http://www.imdb.com/title/tt0072053/)
+10. Rollerball: 5   (http://www.imdb.com/title/tt0073631/)
+11. The Story of Adele H: 4   (http://www.imdb.com/title/tt0073114/)
+
+#========= Best of 1976 (7 movies, your average=6.57) ============================
+1. All the President's Men: 8   (http://www.imdb.com/title/tt0074119/)
+2. In the Realm of the Senses: 8   (http://www.imdb.com/title/tt0074102/)
+3. Taxi Driver: 7   (http://www.imdb.com/title/tt0075314/)
+4. The Wing and the Thigh: 7   (http://www.imdb.com/title/tt0074103/)
+5. The Last Tycoon: 7   (http://www.imdb.com/title/tt0074777/)
+6. The Pink Panther Strikes Again: 5   (http://www.imdb.com/title/tt0075066/)
+7. Heart of Glass: 4   (http://www.imdb.com/title/tt0074626/)
+
+#========= Best of 1977 (11 movies, your average=6.73) ============================
+1. Annie Hall: 8   (http://www.imdb.com/title/tt0075686/)
+2. Stroszek: 8   (http://www.imdb.com/title/tt0075276/)
+3. Eraserhead: 8   (http://www.imdb.com/title/tt0074486/)
+4. The Man Who Loved Women: 8   (http://www.imdb.com/title/tt0076155/)
+5. Szpital: 8   (http://www.imdb.com/title/tt0075299/)
+6. Jabberwocky: 8   (http://www.imdb.com/title/tt0076221/)
+7. Star Wars: Episode IV - A New Hope: 6   (http://www.imdb.com/title/tt0076759/)
+8. The Duellists: 6   (http://www.imdb.com/title/tt0075968/)
+9. The Kentucky Fried Movie: 6   (http://www.imdb.com/title/tt0076257/)
+10. Close Encounters of the Third Kind: 5   (http://www.imdb.com/title/tt0075860/)
+11. Saturday Night Fever: 3   (http://www.imdb.com/title/tt0076666/)
+
+#========= Best of 1978 (6 movies, your average=6.50) ============================
+1. Days of Heaven: 9   (http://www.imdb.com/title/tt0077405/)
+2. Mountain Pass: 9   (http://www.imdb.com/title/tt0180901/)
+3. French Fried Vacation: 8   (http://www.imdb.com/title/tt0077276/)
+4. The Spat: 6   (http://www.imdb.com/title/tt0078528/)
+5. Grease: 4   (http://www.imdb.com/title/tt0077631/)
+6. Revenge of the Pink Panther: 3   (http://www.imdb.com/title/tt0078163/)
+
+#========= Best of 1979 (11 movies, your average=7.00) ============================
+1. Apocalypse Now: 9   (http://www.imdb.com/title/tt0078788/)
+2. Alien: 9   (http://www.imdb.com/title/tt0078748/)
+3. Escape from Alcatraz: 8   (http://www.imdb.com/title/tt0079116/)
+4. Les bronzés font du ski: 8   (http://www.imdb.com/title/tt0078907/)
+5. Manhattan: 7   (http://www.imdb.com/title/tt0079522/)
+6. Hair: 7   (http://www.imdb.com/title/tt0079261/)
+7. Love on the Run: 7   (http://www.imdb.com/title/tt0078771/)
+8. Mad Max: 7   (http://www.imdb.com/title/tt0079501/)
+9. The Hussy: 7   (http://www.imdb.com/title/tt0079086/)
+10. Le gendarme et les extra-terrestres: 4   (http://www.imdb.com/title/tt0079200/)
+11. Caligula: 4   (http://www.imdb.com/title/tt0080491/)
+
+#========= Best of 1980 (11 movies, your average=7.55) ============================
+1. The Shining: 8   (http://www.imdb.com/title/tt0081505/)
+2. Raging Bull: 8   (http://www.imdb.com/title/tt0081398/)
+3. The King and the Mockingbird: 8   (http://www.imdb.com/title/tt0079820/)
+4. Mon oncle d'Amérique: 8   (http://www.imdb.com/title/tt0081176/)
+5. The Last Metro: 8   (http://www.imdb.com/title/tt0080610/)
+6. The Gods Must Be Crazy: 8   (http://www.imdb.com/title/tt0080801/)
+7. Inspector Blunder: 8   (http://www.imdb.com/title/tt0080929/)
+8. Star Wars: Episode V - The Empire Strikes Back: 7   (http://www.imdb.com/title/tt0080684/)
+9. The Elephant Man: 7   (http://www.imdb.com/title/tt0080678/)
+10. Cruising: 7   (http://www.imdb.com/title/tt0080569/)
+11. Dworzec: 6   (http://www.imdb.com/title/tt0080668/)
+
+#========= Best of 1981 (10 movies, your average=7.50) ============================
+1. Das Boot: 9   (http://www.imdb.com/title/tt0082096/)
+2. Quest for Fire: 9   (http://www.imdb.com/title/tt0082484/)
+3. Coup de Torchon: 8   (http://www.imdb.com/title/tt0082206/)
+4. The Goat: 8   (http://www.imdb.com/title/tt0082183/)
+5. Garde à vue: 7   (http://www.imdb.com/title/tt0082436/)
+6. Blow Out: 7   (http://www.imdb.com/title/tt0082085/)
+7. The Woman Next Door: 7   (http://www.imdb.com/title/tt0082370/)
+8. La soupe aux choux: 7   (http://www.imdb.com/title/tt0083109/)
+9. The Bunker of the Last Gunshots: 7   (http://www.imdb.com/title/tt0129805/)
+10. Mad Max 2: The Road Warrior: 6   (http://www.imdb.com/title/tt0082694/)
+
+#========= Best of 1982 (12 movies, your average=6.58) ============================
+1. Blade Runner: 9   (http://www.imdb.com/title/tt0083658/)
+2. Fitzcarraldo: 8   (http://www.imdb.com/title/tt0083946/)
+3. Le père Noël est une ordure: 8   (http://www.imdb.com/title/tt0084555/)
+4. Burden of Dreams: 7   (http://www.imdb.com/title/tt0083702/)
+5. Scenes from the Life of Andy Warhol: Friendships and Intersections: 7   (http://www.imdb.com/title/tt0084638/)
+6. Dead Men Don't Wear Plaid: 7   (http://www.imdb.com/title/tt0083798/)
+7. TRON: 7   (http://www.imdb.com/title/tt0084827/)
+8. One from the Heart: 7   (http://www.imdb.com/title/tt0084445/)
+9. Le gendarme et les gendarmettes: 7   (http://www.imdb.com/title/tt0083996/)
+10. Ma femme s'appelle reviens: 5   (http://www.imdb.com/title/tt0082690/)
+11. Trail of the Pink Panther: 5   (http://www.imdb.com/title/tt0084814/)
+12. Quarter to Two Before Jesus Christ: 2   (http://www.imdb.com/title/tt0083824/)
+
+#========= Best of 1983 (11 movies, your average=7.18) ============================
+1. The Ballad of Narayama: 9   (http://www.imdb.com/title/tt0084390/)
+2. Scarface: 8   (http://www.imdb.com/title/tt0086250/)
+3. The Right Stuff: 8   (http://www.imdb.com/title/tt0086197/)
+4. The King of Comedy: 8   (http://www.imdb.com/title/tt0085794/)
+5. Videodrome: 8   (http://www.imdb.com/title/tt0086541/)
+6. Pauline at the Beach: 8   (http://www.imdb.com/title/tt0086087/)
+7. The Meaning of Life: 7   (http://www.imdb.com/title/tt0085959/)
+8. So Long, Stooge: 7   (http://www.imdb.com/title/tt0086420/)
+9. Confidentially Yours: 7   (http://www.imdb.com/title/tt0086551/)
+10. Revenge of the Humanoids: 5   (http://www.imdb.com/title/tt0191400/)
+11. Star Wars: Episode VI - Return of the Jedi: 4   (http://www.imdb.com/title/tt0086190/)
+
+#========= Best of 1984 (13 movies, your average=7.85) ============================
+1. Nausicaä of the Valley of the Wind: 9   (http://www.imdb.com/title/tt0087544/)
+2. Paris, Texas: 9   (http://www.imdb.com/title/tt0087884/)
+3. Blood Simple.: 9   (http://www.imdb.com/title/tt0086979/)
+4. Stranger Than Paradise: 9   (http://www.imdb.com/title/tt0088184/)
+5. Amadeus: 8   (http://www.imdb.com/title/tt0086879/)
+6. Once Upon a Time in America: 8   (http://www.imdb.com/title/tt0087843/)
+7. The Terminator: 8   (http://www.imdb.com/title/tt0088247/)
+8. The Killing Fields: 8   (http://www.imdb.com/title/tt0087553/)
+9. Ghostbusters: 7   (http://www.imdb.com/title/tt0087332/)
+10. The Declic Years: 7   (http://www.imdb.com/title/tt0175446/)
+11. A Sunday in the Country: 7   (http://www.imdb.com/title/tt0088318/)
+12. 2010: 7   (http://www.imdb.com/title/tt0086837/)
+13. La vengeance du serpent à plumes: 6   (http://www.imdb.com/title/tt0088344/)
+
+#========= Best of 1985 (18 movies, your average=7.11) ============================
+1. Das Boot: 9   (http://www.imdb.com/title/tt0081834/)
+2. Shoah: 9   (http://www.imdb.com/title/tt0090015/)
+3. Brazil: 9   (http://www.imdb.com/title/tt0088846/)
+4. Angel's Egg: 9   (http://www.imdb.com/title/tt0208502/)
+5. Mishima: A Life in Four Chapters: 8   (http://www.imdb.com/title/tt0089603/)
+6. When Father Was Away on Business: 8   (http://www.imdb.com/title/tt0089748/)
+7. Vagabond: 8   (http://www.imdb.com/title/tt0089960/)
+8. Kamui no ken: 8   (http://www.imdb.com/title/tt0088983/)
+9. Subway: 8   (http://www.imdb.com/title/tt0090095/)
+10. Les rois du gag: 8   (http://www.imdb.com/title/tt0089929/)
+11. To Live and Die in L.A.: 7   (http://www.imdb.com/title/tt0090180/)
+12. The Quiet Earth: 7   (http://www.imdb.com/title/tt0089869/)
+13. Les spécialistes: 7   (http://www.imdb.com/title/tt0088167/)
+14. Crimewave: 7   (http://www.imdb.com/title/tt0088967/)
+15. Live Aid: 6   (http://www.imdb.com/title/tt0261024/)
+
+#========= Best of 1986 (9 movies, your average=7.22) ============================
+1. Blue Velvet: 9   (http://www.imdb.com/title/tt0090756/)
+2. The Mission: 8   (http://www.imdb.com/title/tt0091530/)
+3. Zone Red: 8   (http://www.imdb.com/title/tt0101019/)
+4. Aliens: 7   (http://www.imdb.com/title/tt0090605/)
+5. Shadows in Paradise: 7   (http://www.imdb.com/title/tt0092149/)
+6. Ménage: 7   (http://www.imdb.com/title/tt0092068/)
+7. Double Gentlemen: 7   (http://www.imdb.com/title/tt0090963/)
+8. Castle in the Sky: 6   (http://www.imdb.com/title/tt0092067/)
+9. Ferris Bueller's Day Off: 6   (http://www.imdb.com/title/tt0091042/)
+
+#========= Best of 1987 (8 movies, your average=6.88) ============================
+1. Wings of Desire: 9   (http://www.imdb.com/title/tt0093191/)
+2. Predator: 8   (http://www.imdb.com/title/tt0093773/)
+3. Full Metal Jacket: 7   (http://www.imdb.com/title/tt0093058/)
+4. The Untouchables: 7   (http://www.imdb.com/title/tt0094226/)
+5. Raising Arizona: 7   (http://www.imdb.com/title/tt0093822/)
+6. The Running Man: 7   (http://www.imdb.com/title/tt0093894/)
+7. Meikyû monogatari: 6   (http://www.imdb.com/title/tt0185481/)
+8. The Living Daylights: 4   (http://www.imdb.com/title/tt0093428/)
+
+#========= Best of 1988 (12 movies, your average=7.00) ============================
+1. Grave of the Fireflies: 9   (http://www.imdb.com/title/tt0095327/)
+2. The Bear: 9   (http://www.imdb.com/title/tt0095800/)
+3. The Last Temptation of Christ: 9   (http://www.imdb.com/title/tt0095497/)
+4. My Neighbor Totoro: 8   (http://www.imdb.com/title/tt0096283/)
+5. Time of the Gypsies: 8   (http://www.imdb.com/title/tt0097223/)
+6. Mississippi Burning: 8   (http://www.imdb.com/title/tt0095647/)
+7. Ariel: 8   (http://www.imdb.com/title/tt0094675/)
+8. The Unbearable Lightness of Being: 8   (http://www.imdb.com/title/tt0096332/)
+9. The Adventures of Baron Munchausen: 7   (http://www.imdb.com/title/tt0096764/)
+10. The Big Blue: 5   (http://www.imdb.com/title/tt0095250/)
+11. Akira: 4   (http://www.imdb.com/title/tt0094625/)
+12. Cocoon: The Return: 1   (http://www.imdb.com/title/tt0094890/)
+
+#========= Best of 1989 (12 movies, your average=6.92) ============================
+1. Mystery Train: 9   (http://www.imdb.com/title/tt0097940/)
+2. Indiana Jones and the Last Crusade: 8   (http://www.imdb.com/title/tt0097576/)
+3. The Killer: 8   (http://www.imdb.com/title/tt0097202/)
+4. Things I Like, Things I Don't Like: 8   (http://www.imdb.com/title/tt0080755/)
+5. The Abyss: 8   (http://www.imdb.com/title/tt0096754/)
+6. Sex, Lies, and Videotape: 8   (http://www.imdb.com/title/tt0098724/)
+7. Do the Right Thing: 7   (http://www.imdb.com/title/tt0097216/)
+8. Casualties of War: 7   (http://www.imdb.com/title/tt0097027/)
+9. Patlabor: The Movie: 7   (http://www.imdb.com/title/tt0100339/)
+10. Licence to Kill: 7   (http://www.imdb.com/title/tt0097742/)
+11. Tango & Cash: 5   (http://www.imdb.com/title/tt0098439/)
+12. The Little Mermaid: 1   (http://www.imdb.com/title/tt0097757/)
+
+#========= Best of 1990 (22 movies, your average=6.95) ============================
+1. The Godfather: Part III: 9   (http://www.imdb.com/title/tt0099674/)
+2. The Hunt for Red October: 9   (http://www.imdb.com/title/tt0099810/)
+3. Hamlet: 9   (http://www.imdb.com/title/tt0099726/)
+4. Gisèle Kérozène: 9   (http://www.imdb.com/title/tt0097436/)
+5. Goodfellas: 8   (http://www.imdb.com/title/tt0099685/)
+6. Awakenings: 8   (http://www.imdb.com/title/tt0099077/)
+7. My Father's Glory: 8   (http://www.imdb.com/title/tt0099669/)
+8. Wild at Heart: 8   (http://www.imdb.com/title/tt0100935/)
+9. The Hairdresser's Husband: 8   (http://www.imdb.com/title/tt0100112/)
+10. No Fear, No Die: 8   (http://www.imdb.com/title/tt0100536/)
+11. Cry-Baby: 8   (http://www.imdb.com/title/tt0099329/)
+12. Total Recall: 7   (http://www.imdb.com/title/tt0100802/)
+13. Tie Me Up! Tie Me Down!: 7   (http://www.imdb.com/title/tt0101026/)
+14. Le petit criminel: 7   (http://www.imdb.com/title/tt0100357/)
+15. White Hunter Black Heart: 7   (http://www.imdb.com/title/tt0100928/)
+
+#========= Best of 1991 (15 movies, your average=7.13) ============================
+1. Terminator 2: Judgment Day: 9   (http://www.imdb.com/title/tt0103064/)
+2. Delicatessen: 9   (http://www.imdb.com/title/tt0101700/)
+3. The Double Life of Veronique: 9   (http://www.imdb.com/title/tt0101765/)
+4. Barton Fink: 8   (http://www.imdb.com/title/tt0101410/)
+5. Night on Earth: 8   (http://www.imdb.com/title/tt0102536/)
+6. Point Break: 8   (http://www.imdb.com/title/tt0102685/)
+7. Boyz n the Hood: 7   (http://www.imdb.com/title/tt0101507/)
+8. My Own Private Idaho: 7   (http://www.imdb.com/title/tt0102494/)
+9. La vie des morts: 7   (http://www.imdb.com/title/tt0100869/)
+10. Naked Lunch: 7   (http://www.imdb.com/title/tt0102511/)
+11. 'Merci la vie': 7   (http://www.imdb.com/title/tt0102436/)
+12. Bugsy: 7   (http://www.imdb.com/title/tt0101516/)
+13. A Rage in Harlem: 7   (http://www.imdb.com/title/tt0102749/)
+14. High Heels: 4   (http://www.imdb.com/title/tt0103030/)
+15. Cape Fear: 3   (http://www.imdb.com/title/tt0101540/)
+
+#========= Best of 1992 (16 movies, your average=6.81) ============================
+1. Reservoir Dogs: 9   (http://www.imdb.com/title/tt0105236/)
+2. Unforgiven: 9   (http://www.imdb.com/title/tt0105695/)
+3. La sentinelle: 9   (http://www.imdb.com/title/tt0105356/)
+4. Hard Boiled: 8   (http://www.imdb.com/title/tt0104684/)
+5. Life, and Nothing More...: 8   (http://www.imdb.com/title/tt0105888/)
+6. Porco Rosso: 8   (http://www.imdb.com/title/tt0104652/)
+7. Désiré: 8   (http://www.imdb.com/title/tt0242424/)
+8. 1492: Conquest of Paradise: 8   (http://www.imdb.com/title/tt0103594/)
+9. La vie de bohème: 7   (http://www.imdb.com/title/tt0105750/)
+10. The Crying Game: 7   (http://www.imdb.com/title/tt0104036/)
+11. Versailles Rive-Gauche: 7   (http://www.imdb.com/title/tt0105738/)
+12. El mariachi: 7   (http://www.imdb.com/title/tt0104815/)
+13. Alien³: 6   (http://www.imdb.com/title/tt0103644/)
+14. Les nuits fauves: 5   (http://www.imdb.com/title/tt0105032/)
+15. Universal Soldier: 2   (http://www.imdb.com/title/tt0105698/)
+
+#========= Best of 1993 (25 movies, your average=6.44) ============================
+1. Sonatine: 9   (http://www.imdb.com/title/tt0108188/)
+2. A Perfect World: 9   (http://www.imdb.com/title/tt0107808/)
+3. The Age of Innocence: 9   (http://www.imdb.com/title/tt0106226/)
+4. Carlito's Way: 8   (http://www.imdb.com/title/tt0106519/)
+5. Dazed and Confused: 8   (http://www.imdb.com/title/tt0106677/)
+6. Arizona Dream: 8   (http://www.imdb.com/title/tt0106307/)
+7. Caro diario: 8   (http://www.imdb.com/title/tt0109382/)
+8. Mad Dog and Glory: 8   (http://www.imdb.com/title/tt0107473/)
+9. Last Action Hero: 8   (http://www.imdb.com/title/tt0107362/)
+10. Three Colors: Blue: 7   (http://www.imdb.com/title/tt0108394/)
+11. Ninja Scroll: 7   (http://www.imdb.com/title/tt0107692/)
+12. Falling Down: 7   (http://www.imdb.com/title/tt0106856/)
+13. The Scent of Green Papaya: 7   (http://www.imdb.com/title/tt0107617/)
+14. Benny & Joon: 7   (http://www.imdb.com/title/tt0106387/)
+15. Six Degrees of Separation: 7   (http://www.imdb.com/title/tt0108149/)
+
+#========= Best of 1994 (33 movies, your average=6.91) ============================
+1. Pulp Fiction: 9   (http://www.imdb.com/title/tt0110912/)
+2. Léon: The Professional: 9   (http://www.imdb.com/title/tt0110413/)
+3. Chungking Express: 9   (http://www.imdb.com/title/tt0109424/)
+4. Il Postino: The Postman: 9   (http://www.imdb.com/title/tt0110877/)
+5. Queen Margot: 9   (http://www.imdb.com/title/tt0110963/)
+6. Natural Born Killers: 9   (http://www.imdb.com/title/tt0110632/)
+7. Dead Tired: 9   (http://www.imdb.com/title/tt0109942/)
+8. The Shawshank Redemption: 8   (http://www.imdb.com/title/tt0111161/)
+9. Quiz Show: 8   (http://www.imdb.com/title/tt0110932/)
+10. The Hudsucker Proxy: 8   (http://www.imdb.com/title/tt0110074/)
+11. True Lies: 8   (http://www.imdb.com/title/tt0111503/)
+12. Dumb & Dumber: 8   (http://www.imdb.com/title/tt0109686/)
+13. Maverick: 8   (http://www.imdb.com/title/tt0110478/)
+14. Vibroboy: 8   (http://www.imdb.com/title/tt0108485/)
+15. Rapa Nui: 8   (http://www.imdb.com/title/tt0110944/)
+
+#========= Best of 1995 (30 movies, your average=7.07) ============================
+1. Braveheart: 9   (http://www.imdb.com/title/tt0112573/)
+2. Twelve Monkeys: 9   (http://www.imdb.com/title/tt0114746/)
+3. Ghost in the Shell: 9   (http://www.imdb.com/title/tt0113568/)
+4. The City of Lost Children: 9   (http://www.imdb.com/title/tt0112682/)
+5. Memories: 9   (http://www.imdb.com/title/tt0113799/)
+6. Les Misérables: 9   (http://www.imdb.com/title/tt0113828/)
+7. Strange Days: 9   (http://www.imdb.com/title/tt0114558/)
+8. Murder in the First: 9   (http://www.imdb.com/title/tt0113870/)
+9. The Usual Suspects: 8   (http://www.imdb.com/title/tt0114814/)
+10. Se7en: 8   (http://www.imdb.com/title/tt0114369/)
+11. Heat: 8   (http://www.imdb.com/title/tt0113277/)
+12. Toy Story: 8   (http://www.imdb.com/title/tt0114709/)
+13. Dead Man Walking: 8   (http://www.imdb.com/title/tt0112818/)
+14. Fallen Angels: 8   (http://www.imdb.com/title/tt0112913/)
+15. The Three Brothers: 8   (http://www.imdb.com/title/tt0114732/)
+
+#========= Best of 1996 (41 movies, your average=7.07) ============================
+1. Fargo: 9   (http://www.imdb.com/title/tt0116282/)
+2. Trainspotting: 9   (http://www.imdb.com/title/tt0117951/)
+3. Microcosmos: 9   (http://www.imdb.com/title/tt0117040/)
+4. Breaking the Waves: 9   (http://www.imdb.com/title/tt0115751/)
+5. Family Resemblances: 9   (http://www.imdb.com/title/tt0118015/)
+6. Bernie: 9   (http://www.imdb.com/title/tt0115658/)
+7. Three Lives and Only One Death: 9   (http://www.imdb.com/title/tt0117968/)
+8. My Sex Life... or How I Got Into an Argument: 9   (http://www.imdb.com/title/tt0115928/)
+9. Hommes, femmes, mode d'emploi: 9   (http://www.imdb.com/title/tt0116555/)
+10. Le dernier chaperon rouge: 8   (http://www.imdb.com/title/tt0116079/)
+11. Ponette: 8   (http://www.imdb.com/title/tt0117359/)
+12. Kids Return: 8   (http://www.imdb.com/title/tt0116767/)
+13. The Eighth Day: 8   (http://www.imdb.com/title/tt0116581/)
+14. Ridicule: 8   (http://www.imdb.com/title/tt0117477/)
+15. Jerry Maguire: 8   (http://www.imdb.com/title/tt0116695/)
+
+#========= Best of 1997 (47 movies, your average=6.87) ============================
+1. Boogie Nights: 9   (http://www.imdb.com/title/tt0118749/)
+2. As Good as It Gets: 9   (http://www.imdb.com/title/tt0119822/)
+3. Lost Highway: 9   (http://www.imdb.com/title/tt0116922/)
+4. The Fifth Element: 9   (http://www.imdb.com/title/tt0119116/)
+5. Taste of Cherry: 9   (http://www.imdb.com/title/tt0120265/)
+6. Titanic: 9   (http://www.imdb.com/title/tt0120338/)
+7. Dobermann: 9   (http://www.imdb.com/title/tt0118996/)
+8. Alien: Resurrection: 9   (http://www.imdb.com/title/tt0118583/)
+9. Life Is Beautiful: 8   (http://www.imdb.com/title/tt0118799/)
+10. Princess Mononoke: 8   (http://www.imdb.com/title/tt0119698/)
+11. L.A. Confidential: 8   (http://www.imdb.com/title/tt0119488/)
+12. Good Will Hunting: 8   (http://www.imdb.com/title/tt0119217/)
+13. Donnie Brasco: 8   (http://www.imdb.com/title/tt0119008/)
+14. Gattaca: 8   (http://www.imdb.com/title/tt0119177/)
+15. Fireworks: 8   (http://www.imdb.com/title/tt0119250/)
+
+#========= Best of 1998 (51 movies, your average=6.94) ============================
+1. American History X: 9   (http://www.imdb.com/title/tt0120586/)
+2. Phil Collins: Live and Loose in Paris: 9   (http://www.imdb.com/title/tt0273956/)
+3. The Celebration: 9   (http://www.imdb.com/title/tt0154420/)
+4. Black Cat, White Cat: 9   (http://www.imdb.com/title/tt0118843/)
+5. Run Lola Run: 9   (http://www.imdb.com/title/tt0130827/)
+6. Rushmore: 9   (http://www.imdb.com/title/tt0128445/)
+7. Lovers of the Arctic Circle: 9   (http://www.imdb.com/title/tt0133363/)
+8. The Dinner Game: 9   (http://www.imdb.com/title/tt0119038/)
+9. The Adopted Son: 9   (http://www.imdb.com/title/tt0166503/)
+10. Late August, Early September: 9   (http://www.imdb.com/title/tt0167925/)
+11. Lock, Stock and Two Smoking Barrels: 8   (http://www.imdb.com/title/tt0120735/)
+12. The Truman Show: 8   (http://www.imdb.com/title/tt0120382/)
+13. Dark City: 8   (http://www.imdb.com/title/tt0118929/)
+14. Happiness: 8   (http://www.imdb.com/title/tt0147612/)
+15. Fear and Loathing in Las Vegas: 8   (http://www.imdb.com/title/tt0120669/)
+
+#========= Best of 1999 (67 movies, your average=6.85) ============================
+1. The Sopranos: 9   (http://www.imdb.com/title/tt0141842/)
+2. Fight Club: 9   (http://www.imdb.com/title/tt0137523/)
+3. Magnolia: 9   (http://www.imdb.com/title/tt0175880/)
+4. Toy Story 2: 9   (http://www.imdb.com/title/tt0120363/)
+5. Girl on the Bridge: 9   (http://www.imdb.com/title/tt0144201/)
+6. Man on the Moon: 9   (http://www.imdb.com/title/tt0125664/)
+7. Jin-Roh: The Wolf Brigade: 9   (http://www.imdb.com/title/tt0193253/)
+8. The Mission: 9   (http://www.imdb.com/title/tt0220644/)
+9. Les convoyeurs attendent: 9   (http://www.imdb.com/title/tt0201538/)
+10. The Matrix: 8   (http://www.imdb.com/title/tt0133093/)
+11. American Beauty: 8   (http://www.imdb.com/title/tt0169547/)
+12. The Sixth Sense: 8   (http://www.imdb.com/title/tt0167404/)
+13. The Wind Will Carry Us: 8   (http://www.imdb.com/title/tt0209463/)
+14. My Neighbors the Yamadas: 8   (http://www.imdb.com/title/tt0206013/)
+15. Human Resources: 8   (http://www.imdb.com/title/tt0220726/)
+
+#========= Best of 2000 (76 movies, your average=6.80) ============================
+1. Amores Perros: 9   (http://www.imdb.com/title/tt0245712/)
+2. In the Mood for Love: 9   (http://www.imdb.com/title/tt0118694/)
+3. O Brother, Where Art Thou?: 9   (http://www.imdb.com/title/tt0190590/)
+4. Walking on the Wild Side: 9   (http://www.imdb.com/title/tt0266031/)
+5. The Wrestlers: 9   (http://www.imdb.com/title/tt0255665/)
+6. The Million Dollar Hotel: 9   (http://www.imdb.com/title/tt0120753/)
+7. Memento: 8   (http://www.imdb.com/title/tt0209144/)
+8. Vagrant Story: 8   (http://www.imdb.com/title/tt0253879/)
+9. Requiem for a Dream: 8   (http://www.imdb.com/title/tt0180093/)
+10. Snatch.: 8   (http://www.imdb.com/title/tt0208092/)
+11. CSI: Crime Scene Investigation: 8   (http://www.imdb.com/title/tt0247082/)
+12. Yi Yi: 8   (http://www.imdb.com/title/tt0244316/)
+13. Crouching Tiger, Hidden Dragon: 8   (http://www.imdb.com/title/tt0190332/)
+14. Traffic: 8   (http://www.imdb.com/title/tt0181865/)
+15. Cast Away: 8   (http://www.imdb.com/title/tt0162222/)
+
+#========= Best of 2001 (83 movies, your average=6.42) ============================
+1. Band of Brothers: 9   (http://www.imdb.com/title/tt0185906/)
+2. The Man Who Wasn't There: 9   (http://www.imdb.com/title/tt0243133/)
+3. Powder Keg: 9   (http://www.imdb.com/title/tt0285930/)
+4. The Follow: 9   (http://www.imdb.com/title/tt0285104/)
+5. What Time Is It Over There?: 9   (http://www.imdb.com/title/tt0269746/)
+6. Monster's Ball: 9   (http://www.imdb.com/title/tt0285742/)
+7. Profils paysans: l'approche: 9   (http://www.imdb.com/title/tt0284409/)
+8. Super 8 Stories: 9   (http://www.imdb.com/title/tt0278069/)
+9. The Pornographer: 9   (http://www.imdb.com/title/tt0262699/)
+10. The Office: 8   (http://www.imdb.com/title/tt0290978/)
+11. The Lord of the Rings: The Fellowship of the Ring: 8   (http://www.imdb.com/title/tt0120737/)
+12. Amélie: 8   (http://www.imdb.com/title/tt0211915/)
+13. 24: 8   (http://www.imdb.com/title/tt0285331/)
+14. Murder on a Sunday Morning: 8   (http://www.imdb.com/title/tt0307197/)
+15. Mulholland Dr.: 8   (http://www.imdb.com/title/tt0166924/)
+
+#========= Best of 2002 (66 movies, your average=6.52) ============================
+1. The Wire: 9   (http://www.imdb.com/title/tt0306414/)
+2. Talk to Her: 9   (http://www.imdb.com/title/tt0287467/)
+3. The Man Without a Past: 9   (http://www.imdb.com/title/tt0311519/)
+4. Ten: 9   (http://www.imdb.com/title/tt0301978/)
+5. On the Run: 9   (http://www.imdb.com/title/tt0233418/)
+6. The Shield: 8   (http://www.imdb.com/title/tt0286486/)
+7. Infernal Affairs: 8   (http://www.imdb.com/title/tt0338564/)
+8. To Be and to Have: 8   (http://www.imdb.com/title/tt0318202/)
+9. 25th Hour: 8   (http://www.imdb.com/title/tt0307901/)
+10. Distant: 8   (http://www.imdb.com/title/tt0346094/)
+11. Gangs of New York: 8   (http://www.imdb.com/title/tt0217505/)
+12. L'Auberge Espagnole: 8   (http://www.imdb.com/title/tt0283900/)
+13. 24 Hour Party People: 8   (http://www.imdb.com/title/tt0274309/)
+14. Painted Fire: 8   (http://www.imdb.com/title/tt0317234/)
+15. 8 Women: 8   (http://www.imdb.com/title/tt0283832/)
+
+#========= Best of 2003 (62 movies, your average=6.39) ============================
+1. Lost in Translation: 9   (http://www.imdb.com/title/tt0335266/)
+2. Elephant: 9   (http://www.imdb.com/title/tt0363589/)
+3. Twentynine Palms: 9   (http://www.imdb.com/title/tt0315110/)
+4. Oldboy: 8   (http://www.imdb.com/title/tt0364569/)
+5. The Best of Youth: 8   (http://www.imdb.com/title/tt0346336/)
+6. Memories of Murder: 8   (http://www.imdb.com/title/tt0353969/)
+7. 21 Grams: 8   (http://www.imdb.com/title/tt0315733/)
+8. Last Life in the Universe: 8   (http://www.imdb.com/title/tt0345549/)
+9. Infernal Affairs II: 8   (http://www.imdb.com/title/tt0369060/)
+10. Kitchen Stories: 8   (http://www.imdb.com/title/tt0323872/)
+11. S21: The Khmer Rouge Death Machine: 8   (http://www.imdb.com/title/tt0368954/)
+12. Tarnation: 8   (http://www.imdb.com/title/tt0390538/)
+13. Shara: 8   (http://www.imdb.com/title/tt0363060/)
+14. Infernal Affairs: End Inferno 3: 8   (http://www.imdb.com/title/tt0374339/)
+15. Coffee and Cigarettes: 8   (http://www.imdb.com/title/tt0379217/)
+
+#========= Best of 2004 (61 movies, your average=6.16) ============================
+1. The Incredibles: 9   (http://www.imdb.com/title/tt0317705/)
+2. The Life Aquatic with Steve Zissou: 9   (http://www.imdb.com/title/tt0362270/)
+3. Lost: 8   (http://www.imdb.com/title/tt0411008/)
+4. Downfall: 8   (http://www.imdb.com/title/tt0363163/)
+5. Million Dollar Baby: 8   (http://www.imdb.com/title/tt0405159/)
+6. Howl's Moving Castle: 8   (http://www.imdb.com/title/tt0347149/)
+7. Nobody Knows: 8   (http://www.imdb.com/title/tt0408664/)
+8. Henri Langlois: The Phantom of the Cinémathèque: 8   (http://www.imdb.com/title/tt0412703/)
+9. Garden State: 8   (http://www.imdb.com/title/tt0333766/)
+10. Sideways: 8   (http://www.imdb.com/title/tt0375063/)
+11. The White Diamond: 8   (http://www.imdb.com/title/tt0435776/)
+12. The Woodsman: 8   (http://www.imdb.com/title/tt0361127/)
+13. Closer: 8   (http://www.imdb.com/title/tt0376541/)
+14. Le grand voyage: 8   (http://www.imdb.com/title/tt0361670/)
+15. Clean: 8   (http://www.imdb.com/title/tt0388838/)
+
+#========= Best of 2005 (60 movies, your average=6.45) ============================
+1. The Child: 9   (http://www.imdb.com/title/tt0456396/)
+2. Diggnation: 8   (http://www.imdb.com/title/tt0875855/)
+3. Sin City: 8   (http://www.imdb.com/title/tt0401792/)
+4. Grizzly Man: 8   (http://www.imdb.com/title/tt0427312/)
+5. Match Point: 8   (http://www.imdb.com/title/tt0416320/)
+6. Munich: 8   (http://www.imdb.com/title/tt0408306/)
+7. Brokeback Mountain: 8   (http://www.imdb.com/title/tt0388795/)
+8. Live 8: 8   (http://www.imdb.com/title/tt0462403/)
+9. Profils paysans: le quotidien: 8   (http://www.imdb.com/title/tt0442424/)
+10. The Sun: 8   (http://www.imdb.com/title/tt0439817/)
+11. Broken Flowers: 8   (http://www.imdb.com/title/tt0412019/)
+12. Be with Me: 8   (http://www.imdb.com/title/tt0463903/)
+13. Syriana: 8   (http://www.imdb.com/title/tt0365737/)
+14. Wedding Crashers: 8   (http://www.imdb.com/title/tt0396269/)
+15. 4:30: 8   (http://www.imdb.com/title/tt0497877/)
+
+#========= Best of 2006 (68 movies, your average=6.03) ============================
+1. Khadak: 9   (http://www.imdb.com/title/tt0475241/)
+2. Bamako: 9   (http://www.imdb.com/title/tt0814666/)
+3. Dexter: 8   (http://www.imdb.com/title/tt0773262/)
+4. Letters from Iwo Jima: 8   (http://www.imdb.com/title/tt0498380/)
+5. Children of Men: 8   (http://www.imdb.com/title/tt0206634/)
+6. Inside Man: 8   (http://www.imdb.com/title/tt0454848/)
+7. United 93: 8   (http://www.imdb.com/title/tt0475276/)
+8. This Film Is Not Yet Rated: 8   (http://www.imdb.com/title/tt0493459/)
+9. Volver: 8   (http://www.imdb.com/title/tt0441909/)
+10. Tekkonkinkreet: 8   (http://www.imdb.com/title/tt0831888/)
+11. Syndromes and a Century: 8   (http://www.imdb.com/title/tt0477731/)
+12. The Wind That Shakes the Barley: 8   (http://www.imdb.com/title/tt0460989/)
+13. Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan: 8   (http://www.imdb.com/title/tt0443453/)
+14. Rescue Dawn: 8   (http://www.imdb.com/title/tt0462504/)
+15. Exiled: 8   (http://www.imdb.com/title/tt0796212/)
+
+#========= Best of 2007 (46 movies, your average=6.41) ============================
+1. The Secret of the Grain: 9   (http://www.imdb.com/title/tt0487419/)
+2. Paranoid Park: 9   (http://www.imdb.com/title/tt0842929/)
+3. The Big Bang Theory: 8   (http://www.imdb.com/title/tt0898266/)
+4. No Country for Old Men: 8   (http://www.imdb.com/title/tt0477348/)
+5. Into the Wild: 8   (http://www.imdb.com/title/tt0758758/)
+6. There Will Be Blood: 8   (http://www.imdb.com/title/tt0469494/)
+7. In the Shadow of the Moon: 8   (http://www.imdb.com/title/tt0925248/)
+8. Persepolis: 8   (http://www.imdb.com/title/tt0808417/)
+9. Grindhouse: 8   (http://www.imdb.com/title/tt0462322/)
+10. Zodiac: 8   (http://www.imdb.com/title/tt0443706/)
+11. La vie en rose: 8   (http://www.imdb.com/title/tt0450188/)
+12. Lust, Caution: 8   (http://www.imdb.com/title/tt0808357/)
+13. Disengagement: 8   (http://www.imdb.com/title/tt0871512/)
+14. Fujian Blue: 8   (http://www.imdb.com/title/tt1135971/)
+15. Mad Men: 7   (http://www.imdb.com/title/tt0804503/)
+
+#========= Best of 2008 (63 movies, your average=5.70) ============================
+1. Breaking Bad: 9   (http://www.imdb.com/title/tt0903747/)
+2. The Wrestler: 9   (http://www.imdb.com/title/tt1125849/)
+3. WALL·E: 8   (http://www.imdb.com/title/tt0910970/)
+4. Gran Torino: 8   (http://www.imdb.com/title/tt1205489/)
+5. Waltz with Bashir: 8   (http://www.imdb.com/title/tt1185616/)
+6. The Curious Case of Benjamin Button: 8   (http://www.imdb.com/title/tt0421715/)
+7. Frost/Nixon: 8   (http://www.imdb.com/title/tt0870111/)
+8. Modern Life: 8   (http://www.imdb.com/title/tt0881310/)
+9. The Class: 8   (http://www.imdb.com/title/tt1068646/)
+10. La forteresse: 8   (http://www.imdb.com/title/tt1323518/)
+11. A Christmas Tale: 8   (http://www.imdb.com/title/tt0993789/)
+12. Burn After Reading: 8   (http://www.imdb.com/title/tt0887883/)
+13. Lorna's Silence: 8   (http://www.imdb.com/title/tt1186369/)
+14. Worlds Apart: 8   (http://www.imdb.com/title/tt1065318/)
+15. Yuri's Day: 8   (http://www.imdb.com/title/tt1227796/)
+
+#========= Best of 2009 (38 movies, your average=6.13) ============================
+1. Bored to Death: 9   (http://www.imdb.com/title/tt1255913/)
+2. Up: 8   (http://www.imdb.com/title/tt1049413/)
+3. District 9: 8   (http://www.imdb.com/title/tt1136608/)
+4. The Girl with the Dragon Tattoo: 8   (http://www.imdb.com/title/tt1132620/)
+5. Fantastic Mr. Fox: 8   (http://www.imdb.com/title/tt0432283/)
+6. Up in the Air: 8   (http://www.imdb.com/title/tt1193138/)
+7. The Bad Lieutenant: Port of Call - New Orleans: 8   (http://www.imdb.com/title/tt1095217/)
+8. Avatar: 7   (http://www.imdb.com/title/tt0499549/)
+9. Moon: 7   (http://www.imdb.com/title/tt1182345/)
+10. The Road: 7   (http://www.imdb.com/title/tt0898367/)
+11. I Killed My Mother: 7   (http://www.imdb.com/title/tt1424797/)
+12. Tears: 7   (http://www.imdb.com/title/tt1514431/)
+13. The Girl Who Kicked the Hornet's Nest: 7   (http://www.imdb.com/title/tt1343097/)
+14. A Serious Man: 7   (http://www.imdb.com/title/tt1019452/)
+15. Public Enemies: 7   (http://www.imdb.com/title/tt1152836/)
+
+#========= Best of 2010 (29 movies, your average=5.59) ============================
+1. The Pacific: 8   (http://www.imdb.com/title/tt0374463/)
+2. Black Swan: 8   (http://www.imdb.com/title/tt0947798/)
+3. Summer Pasture: 8   (http://www.imdb.com/title/tt1566405/)
+4. Carlos: 8   (http://www.imdb.com/title/tt1321865/)
+5. Dooman River: 8   (http://www.imdb.com/title/tt1500177/)
+6. Inception: 7   (http://www.imdb.com/title/tt1375666/)
+7. Toy Story 3: 7   (http://www.imdb.com/title/tt0435761/)
+8. The Social Network: 7   (http://www.imdb.com/title/tt1285016/)
+9. The Fighter: 7   (http://www.imdb.com/title/tt0964517/)
+10. The Names of Love: 7   (http://www.imdb.com/title/tt1646974/)
+11. Heartbreaker: 7   (http://www.imdb.com/title/tt1465487/)
+12. She's Out of My League: 7   (http://www.imdb.com/title/tt0815236/)
+13. Potiche: 7   (http://www.imdb.com/title/tt1521848/)
+14. Fog: 7   (http://www.imdb.com/title/tt1245094/)
+15. Mammuth: 7   (http://www.imdb.com/title/tt1473074/)
+
+#========= Best of 2011 (13 movies, your average=5.69) ============================
+1. Polisse: 9   (http://www.imdb.com/title/tt1661420/)
+2. In Time: 8   (http://www.imdb.com/title/tt1637688/)
+3. Grand Prix: The Killer Years: 7   (http://www.imdb.com/title/tt1954483/)
+4. Source Code: 7   (http://www.imdb.com/title/tt0945513/)
+5. African Cats: 7   (http://www.imdb.com/title/tt1223236/)
+6. The Hangover Part II: 6   (http://www.imdb.com/title/tt1411697/)
+7. Drive: 5   (http://www.imdb.com/title/tt0780504/)
+8. Midnight in Paris: 5   (http://www.imdb.com/title/tt1605783/)
+9. Mission: Impossible - Ghost Protocol: 5   (http://www.imdb.com/title/tt1229238/)
+10. Bridesmaids: 5   (http://www.imdb.com/title/tt1478338/)
+11. My Worst Nightmare: 5   (http://www.imdb.com/title/tt1718835/)
+12. Hall Pass: 3   (http://www.imdb.com/title/tt0480687/)
+13. Horrible Bosses: 2   (http://www.imdb.com/title/tt1499658/)
+
+#========= Best of 2012 (2 movies, your average=5.00) ============================
+1. Going Cardboard: A Board Game Documentary: 7   (http://www.imdb.com/title/tt2229165/)
+2. Prometheus: 3   (http://www.imdb.com/title/tt1446714/)
+
+
+
+
+@@@@@@ Best Of by decade @@@@@@
+
+#========= Best of decade 1898-1900  (3 movies, your average=7.33) ============================
+1. Four Heads Are Better Than One: 8   (http://www.imdb.com/title/tt0135696/)
+2. Oh! What a Night; or, The Sultan's Dream: 8   (http://www.imdb.com/title/tt0227420/)
+3. The Temptation of St. Anthony: 6   (http://www.imdb.com/title/tt0224240/)
+
+#========= Best of decade 1901-1910  (3 movies, your average=7.33) ============================
+1. The India Rubber Head: 8   (http://www.imdb.com/title/tt0000359/)
+2. A Trip to the Moon: 7   (http://www.imdb.com/title/tt0000417/)
+3. Bluebeard: 7   (http://www.imdb.com/title/tt0131934/)
+
+#========= Best of decade 1911-1920  (17 movies, your average=7.35) ============================
+1. One Week: 9   (http://www.imdb.com/title/tt0011541/)
+2. The Cook: 9   (http://www.imdb.com/title/tt0008975/)
+3. Neighbors: 8   (http://www.imdb.com/title/tt0011508/)
+4. The Garage: 8   (http://www.imdb.com/title/tt0010155/)
+5. The Bell Boy: 8   (http://www.imdb.com/title/tt0008874/)
+6. Out West: 8   (http://www.imdb.com/title/tt0009466/)
+7. Coney Island: 8   (http://www.imdb.com/title/tt0007819/)
+8. The Scarecrow: 7   (http://www.imdb.com/title/tt0011656/)
+9. Back Stage: 7   (http://www.imdb.com/title/tt0009899/)
+10. The Butcher Boy: 7   (http://www.imdb.com/title/tt0007761/)
+11. The Hayseed: 7   (http://www.imdb.com/title/tt0010221/)
+12. Oh Doctor!: 7   (http://www.imdb.com/title/tt0008377/)
+13. Good Night, Nurse!: 7   (http://www.imdb.com/title/tt0009123/)
+14. Moonshine: 7   (http://www.imdb.com/title/tt0009389/)
+15. Convict 13: 6   (http://www.imdb.com/title/tt0011071/)
+
+#========= Best of decade 1921-1930  (17 movies, your average=7.59) ============================
+1. The Goat: 9   (http://www.imdb.com/title/tt0012224/)
+2. Metropolis: 8   (http://www.imdb.com/title/tt0017136/)
+3. The Play House: 8   (http://www.imdb.com/title/tt0012570/)
+4. Cops: 8   (http://www.imdb.com/title/tt0013025/)
+5. The 'High Sign': 8   (http://www.imdb.com/title/tt0012278/)
+6. Hard Luck: 8   (http://www.imdb.com/title/tt0012253/)
+7. The Boat: 8   (http://www.imdb.com/title/tt0011984/)
+8. Day Dreams: 8   (http://www.imdb.com/title/tt0013055/)
+9. The Love Nest: 8   (http://www.imdb.com/title/tt0014218/)
+10. The Balloonatic: 8   (http://www.imdb.com/title/tt0013858/)
+11. Nosferatu: 7   (http://www.imdb.com/title/tt0013442/)
+12. The Electric House: 7   (http://www.imdb.com/title/tt0013099/)
+13. The Haunted House: 7   (http://www.imdb.com/title/tt0012255/)
+14. The Paleface: 7   (http://www.imdb.com/title/tt0012543/)
+15. The Blacksmith: 7   (http://www.imdb.com/title/tt0012945/)
+
+#========= Best of decade 1931-1940  (2 movies, your average=6.50) ============================
+1. The Rules of the Game: 7   (http://www.imdb.com/title/tt0031885/)
+2. Soigne ton gauche: 6   (http://www.imdb.com/title/tt0028275/)
+
+#========= Best of decade 1941-1950  (12 movies, your average=6.08) ============================
+1. Citizen Kane: 7   (http://www.imdb.com/title/tt0033467/)
+2. The Young and the Damned: 7   (http://www.imdb.com/title/tt0042804/)
+3. Children of Paradise: 7   (http://www.imdb.com/title/tt0037674/)
+4. The Big Sleep: 7   (http://www.imdb.com/title/tt0038355/)
+5. Out of the Past: 7   (http://www.imdb.com/title/tt0039689/)
+6. The Leopard Man: 7   (http://www.imdb.com/title/tt0036104/)
+7. Sanshiro Sugata: 7   (http://www.imdb.com/title/tt0036400/)
+8. Rashomon: 6   (http://www.imdb.com/title/tt0042876/)
+9. Beauty and the Beast: 6   (http://www.imdb.com/title/tt0038348/)
+10. Cat People: 5   (http://www.imdb.com/title/tt0034587/)
+11. Guernica: 4   (http://www.imdb.com/title/tt0042528/)
+12. There Was a Father: 3   (http://www.imdb.com/title/tt0034591/)
+
+#========= Best of decade 1951-1960  (37 movies, your average=6.89) ============================
+1. 12 Angry Men: 9   (http://www.imdb.com/title/tt0050083/)
+2. Psycho: 9   (http://www.imdb.com/title/tt0054215/)
+3. The Seventh Seal: 9   (http://www.imdb.com/title/tt0050976/)
+4. Breathless: 9   (http://www.imdb.com/title/tt0053472/)
+5. Rear Window: 8   (http://www.imdb.com/title/tt0047396/)
+6. Night and Fog: 8   (http://www.imdb.com/title/tt0048434/)
+7. Vertigo: 8   (http://www.imdb.com/title/tt0052357/)
+8. The Bridge on the River Kwai: 8   (http://www.imdb.com/title/tt0050212/)
+9. The Wages of Fear: 8   (http://www.imdb.com/title/tt0046268/)
+10. Hiroshima Mon Amour: 8   (http://www.imdb.com/title/tt0052893/)
+11. L'Avventura: 8   (http://www.imdb.com/title/tt0053619/)
+12. Toute la mémoire du monde: 8   (http://www.imdb.com/title/tt0049869/)
+13. Smiles of a Summer Night: 8   (http://www.imdb.com/title/tt0048641/)
+14. Mon Oncle: 8   (http://www.imdb.com/title/tt0050706/)
+15. Les statues meurent aussi: 8   (http://www.imdb.com/title/tt0046365/)
+
+#========= Best of decade 1961-1970  (84 movies, your average=7.13) ============================
+1. Once Upon a Time in the West: 9   (http://www.imdb.com/title/tt0064116/)
+2. 2001: A Space Odyssey: 9   (http://www.imdb.com/title/tt0062622/)
+3. A Fistful of Dollars: 9   (http://www.imdb.com/title/tt0058461/)
+4. Play Time: 9   (http://www.imdb.com/title/tt0062136/)
+5. La Grande Vadrouille: 9   (http://www.imdb.com/title/tt0060474/)
+6. Cleo from 5 to 7: 9   (http://www.imdb.com/title/tt0055852/)
+7. L'eclisse: 9   (http://www.imdb.com/title/tt0056736/)
+8. The Good, the Bad and the Ugly: 8   (http://www.imdb.com/title/tt0060196/)
+9. Lawrence of Arabia: 8   (http://www.imdb.com/title/tt0056172/)
+10. For a Few Dollars More: 8   (http://www.imdb.com/title/tt0059578/)
+11. Army of Shadows: 8   (http://www.imdb.com/title/tt0064040/)
+12. Le cercle rouge: 8   (http://www.imdb.com/title/tt0065531/)
+13. The Birds: 8   (http://www.imdb.com/title/tt0056869/)
+14. My Night at Maud's: 8   (http://www.imdb.com/title/tt0064612/)
+15. Jules and Jim: 8   (http://www.imdb.com/title/tt0055032/)
+
+#========= Best of decade 1971-1980  (92 movies, your average=7.03) ============================
+1. Apocalypse Now: 9   (http://www.imdb.com/title/tt0078788/)
+2. Alien: 9   (http://www.imdb.com/title/tt0078748/)
+3. Barry Lyndon: 9   (http://www.imdb.com/title/tt0072684/)
+4. Days of Heaven: 9   (http://www.imdb.com/title/tt0077405/)
+5. The Man Who Would Be King: 9   (http://www.imdb.com/title/tt0073341/)
+6. Two-Lane Blacktop: 9   (http://www.imdb.com/title/tt0067893/)
+7. Falsche Bewegung: 9   (http://www.imdb.com/title/tt0071483/)
+8. Mountain Pass: 9   (http://www.imdb.com/title/tt0180901/)
+9. The Godfather: 8   (http://www.imdb.com/title/tt0068646/)
+10. One Flew Over the Cuckoo's Nest: 8   (http://www.imdb.com/title/tt0073486/)
+11. The Shining: 8   (http://www.imdb.com/title/tt0081505/)
+12. Raging Bull: 8   (http://www.imdb.com/title/tt0081398/)
+13. Monty Python and the Holy Grail: 8   (http://www.imdb.com/title/tt0071853/)
+14. Dersu Uzala: 8   (http://www.imdb.com/title/tt0071411/)
+15. Annie Hall: 8   (http://www.imdb.com/title/tt0075686/)
+
+#========= Best of decade 1981-1990  (127 movies, your average=7.11) ============================
+1. Das Boot: 9   (http://www.imdb.com/title/tt0081834/)
+2. Das Boot: 9   (http://www.imdb.com/title/tt0082096/)
+3. Grave of the Fireflies: 9   (http://www.imdb.com/title/tt0095327/)
+4. Blade Runner: 9   (http://www.imdb.com/title/tt0083658/)
+5. Shoah: 9   (http://www.imdb.com/title/tt0090015/)
+6. Nausicaä of the Valley of the Wind: 9   (http://www.imdb.com/title/tt0087544/)
+7. Paris, Texas: 9   (http://www.imdb.com/title/tt0087884/)
+8. Brazil: 9   (http://www.imdb.com/title/tt0088846/)
+9. Wings of Desire: 9   (http://www.imdb.com/title/tt0093191/)
+10. The Ballad of Narayama: 9   (http://www.imdb.com/title/tt0084390/)
+11. Blue Velvet: 9   (http://www.imdb.com/title/tt0090756/)
+12. Blood Simple.: 9   (http://www.imdb.com/title/tt0086979/)
+13. The Hunt for Red October: 9   (http://www.imdb.com/title/tt0099810/)
+14. The Godfather: Part III: 9   (http://www.imdb.com/title/tt0099674/)
+15. The Bear: 9   (http://www.imdb.com/title/tt0095800/)
+
+#========= Best of decade 1991-2000  (401 movies, your average=6.88) ============================
+1. The Sopranos: 9   (http://www.imdb.com/title/tt0141842/)
+2. Pulp Fiction: 9   (http://www.imdb.com/title/tt0110912/)
+3. Fight Club: 9   (http://www.imdb.com/title/tt0137523/)
+4. American History X: 9   (http://www.imdb.com/title/tt0120586/)
+5. Léon: The Professional: 9   (http://www.imdb.com/title/tt0110413/)
+6. Terminator 2: Judgment Day: 9   (http://www.imdb.com/title/tt0103064/)
+7. Phil Collins: Live and Loose in Paris: 9   (http://www.imdb.com/title/tt0273956/)
+8. Reservoir Dogs: 9   (http://www.imdb.com/title/tt0105236/)
+9. Braveheart: 9   (http://www.imdb.com/title/tt0112573/)
+10. Unforgiven: 9   (http://www.imdb.com/title/tt0105695/)
+11. Amores Perros: 9   (http://www.imdb.com/title/tt0245712/)
+12. Trainspotting: 9   (http://www.imdb.com/title/tt0117951/)
+13. Fargo: 9   (http://www.imdb.com/title/tt0116282/)
+14. In the Mood for Love: 9   (http://www.imdb.com/title/tt0118694/)
+15. Twelve Monkeys: 9   (http://www.imdb.com/title/tt0114746/)
+
+#========= Best of decade 2001-2010  (576 movies, your average=6.22) ============================
+1. Band of Brothers: 9   (http://www.imdb.com/title/tt0185906/)
+2. The Wire: 9   (http://www.imdb.com/title/tt0306414/)
+3. Breaking Bad: 9   (http://www.imdb.com/title/tt0903747/)
+4. The Incredibles: 9   (http://www.imdb.com/title/tt0317705/)
+5. Talk to Her: 9   (http://www.imdb.com/title/tt0287467/)
+6. Bored to Death: 9   (http://www.imdb.com/title/tt1255913/)
+7. The Wrestler: 9   (http://www.imdb.com/title/tt1125849/)
+8. Lost in Translation: 9   (http://www.imdb.com/title/tt0335266/)
+9. The Man Who Wasn't There: 9   (http://www.imdb.com/title/tt0243133/)
+10. Powder Keg: 9   (http://www.imdb.com/title/tt0285930/)
+11. The Man Without a Past: 9   (http://www.imdb.com/title/tt0311519/)
+12. The Follow: 9   (http://www.imdb.com/title/tt0285104/)
+13. The Child: 9   (http://www.imdb.com/title/tt0456396/)
+14. The Secret of the Grain: 9   (http://www.imdb.com/title/tt0487419/)
+15. The Life Aquatic with Steve Zissou: 9   (http://www.imdb.com/title/tt0362270/)
+
+#========= Best of decade 2011-2012  (15 movies, your average=5.60) ============================
+1. Polisse: 9   (http://www.imdb.com/title/tt1661420/)
+2. In Time: 8   (http://www.imdb.com/title/tt1637688/)
+3. Grand Prix: The Killer Years: 7   (http://www.imdb.com/title/tt1954483/)
+4. Source Code: 7   (http://www.imdb.com/title/tt0945513/)
+5. African Cats: 7   (http://www.imdb.com/title/tt1223236/)
+6. Going Cardboard: A Board Game Documentary: 7   (http://www.imdb.com/title/tt2229165/)
+7. The Hangover Part II: 6   (http://www.imdb.com/title/tt1411697/)
+8. Drive: 5   (http://www.imdb.com/title/tt0780504/)
+9. Midnight in Paris: 5   (http://www.imdb.com/title/tt1605783/)
+10. Mission: Impossible - Ghost Protocol: 5   (http://www.imdb.com/title/tt1229238/)
+11. Bridesmaids: 5   (http://www.imdb.com/title/tt1478338/)
+12. My Worst Nightmare: 5   (http://www.imdb.com/title/tt1718835/)
+13. Prometheus: 3   (http://www.imdb.com/title/tt1446714/)
+14. Hall Pass: 3   (http://www.imdb.com/title/tt0480687/)
+15. Horrible Bosses: 2   (http://www.imdb.com/title/tt1499658/)
