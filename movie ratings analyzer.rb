@@ -4,8 +4,8 @@
 # bug: to_s isn't called automatically for  
 
 
-nbr_best = 15
-show_only_above=8 #xxxx
+NBR_BEST = 15
+SHOW_ONLY_ABOVE=6 
 
 #xxx add path_url in movie
 # imdb_base_url='http://www.imdb.com'
@@ -148,10 +148,10 @@ File.open("ratings.csv", "r") do |infile|
   #top movies by year
   years.keys.sort.each do |year|
     year = years[year]
-    best_of = year.movies.sort.last(nbr_best).reverse! 
+    best_of = year.movies.sort.last(NBR_BEST).reverse! 
     it = 1
     result.puts "\n#========= Best of #{year.to_s} (#{year.nbr_movies} movies, your average=#{AVG_ROUND_FT % year.average_rating}) ============================"
-    best_of.each do |movie|
+    best_of.select{|m| m.rating >= SHOW_ONLY_ABOVE}.each do |movie|
       result.puts "#{it}. #{movie.name} (#{movie.director}): #{movie.rating}    (#{movie.url})"      
       it += 1
     end
@@ -174,9 +174,9 @@ File.open("ratings.csv", "r") do |infile|
       # time to compute the decade bestof
       result.puts "\n#========= Best of decade #{decade_start}-#{year}  (#{decade_movies.length} movies, your average=#{ AVG_ROUND_FT % (decade_movies.inject(0){|sum, m| sum + m.rating }.to_f / decade_movies.length.to_f)}) ============================" #xxx puts nbr of movie and my average and imdb average
 
-      decade_movies = decade_movies.sort.last(nbr_best).reverse #truncating the array
+      decade_movies = decade_movies.sort.last(NBR_BEST).reverse #truncating the array
       it = 1
-      decade_movies.each do |movie|
+      decade_movies.select{|m| m.rating >= SHOW_ONLY_ABOVE}.each do |movie|
         result.puts  "#{it}. #{movie.name} (#{movie.director}): #{movie.rating}    (#{movie.url})"     
         it += 1
       end
