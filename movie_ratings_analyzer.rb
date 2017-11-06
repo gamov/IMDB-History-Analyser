@@ -1,11 +1,11 @@
 # Author: Gamaliel Amaudruz
-# Version: 2.0 - 15.6.12
+# Version: 2.0.1 - 6.11.17
 # Roadmap: html; rails?
 # bug: to_s isn't called automatically for  
 
 
 NBR_BEST = 15
-SHOW_ONLY_ABOVE=6 
+SHOW_ONLY_ABOVE=7 
 
 #xxx add path_url in movie
 # imdb_base_url='http://www.imdb.com'
@@ -68,8 +68,8 @@ class Year
     @name
   end
   
-  def <=>(other) 
-    @name <=> other.name 
+  def <=>(other)
+    @name <=> other&.name 
   end
 end
 
