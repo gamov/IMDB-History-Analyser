@@ -1,5 +1,5 @@
 
-Statistics based on 1491 movie votes.
+Statistics based on 1667 movie votes.
 
 @@@@@ Average per year @@@@@
 Year 1898 has 2 movies, your average is: 7.00
@@ -22,927 +22,838 @@ Year 1943 has 2 movies, your average is: 7.00
 Year 1945 has 1 movies, your average is: 7.00
 Year 1946 has 2 movies, your average is: 6.50
 Year 1947 has 1 movies, your average is: 7.00
-Year 1950 has 3 movies, your average is: 5.67
-Year 1951 has 2 movies, your average is: 5.50
+Year 1950 has 2 movies, your average is: 6.50
+Year 1951 has 3 movies, your average is: 5.00
 Year 1953 has 4 movies, your average is: 7.75
 Year 1954 has 3 movies, your average is: 7.00
-Year 1955 has 5 movies, your average is: 7.00
-Year 1956 has 3 movies, your average is: 7.33
+Year 1955 has 4 movies, your average is: 6.75
+Year 1956 has 4 movies, your average is: 7.50
 Year 1957 has 8 movies, your average is: 7.12
-Year 1958 has 4 movies, your average is: 6.50
+Year 1958 has 3 movies, your average is: 7.33
 Year 1959 has 4 movies, your average is: 5.00
-Year 1960 has 6 movies, your average is: 7.83
+Year 1960 has 7 movies, your average is: 7.29
 Year 1961 has 4 movies, your average is: 5.75
 Year 1962 has 12 movies, your average is: 7.33
 Year 1963 has 10 movies, your average is: 7.30
-Year 1964 has 9 movies, your average is: 7.67
+Year 1964 has 9 movies, your average is: 7.56
 Year 1965 has 6 movies, your average is: 6.50
 Year 1966 has 9 movies, your average is: 7.11
 Year 1967 has 10 movies, your average is: 6.70
 Year 1968 has 8 movies, your average is: 7.50
-Year 1969 has 7 movies, your average is: 6.86
+Year 1969 has 8 movies, your average is: 7.00
 Year 1970 has 10 movies, your average is: 7.60
-Year 1971 has 11 movies, your average is: 6.36
-Year 1972 has 10 movies, your average is: 7.30
-Year 1973 has 12 movies, your average is: 7.33
-Year 1974 has 3 movies, your average is: 7.00
+Year 1971 has 12 movies, your average is: 6.42
+Year 1972 has 11 movies, your average is: 6.82
+Year 1973 has 14 movies, your average is: 7.21
+Year 1974 has 5 movies, your average is: 7.00
 Year 1975 has 11 movies, your average is: 7.64
 Year 1976 has 7 movies, your average is: 6.57
-Year 1977 has 11 movies, your average is: 6.73
-Year 1978 has 6 movies, your average is: 6.50
-Year 1979 has 11 movies, your average is: 7.00
-Year 1980 has 11 movies, your average is: 7.55
-Year 1981 has 10 movies, your average is: 7.50
-Year 1982 has 13 movies, your average is: 6.69
-Year 1983 has 10 movies, your average is: 7.10
-Year 1984 has 13 movies, your average is: 7.85
-Year 1985 has 18 movies, your average is: 7.11
-Year 1986 has 10 movies, your average is: 7.50
+Year 1977 has 12 movies, your average is: 6.75
+Year 1978 has 7 movies, your average is: 6.71
+Year 1979 has 12 movies, your average is: 6.67
+Year 1980 has 13 movies, your average is: 7.62
+Year 1981 has 12 movies, your average is: 7.17
+Year 1982 has 11 movies, your average is: 6.64
+Year 1983 has 14 movies, your average is: 6.93
+Year 1984 has 15 movies, your average is: 7.80
+Year 1985 has 19 movies, your average is: 7.05
+Year 1986 has 12 movies, your average is: 7.67
 Year 1987 has 9 movies, your average is: 6.56
 Year 1988 has 12 movies, your average is: 7.00
-Year 1989 has 13 movies, your average is: 6.92
-Year 1990 has 21 movies, your average is: 6.95
+Year 1989 has 14 movies, your average is: 7.07
+Year 1990 has 23 movies, your average is: 6.83
 Year 1991 has 15 movies, your average is: 7.13
-Year 1992 has 20 movies, your average is: 6.90
-Year 1993 has 24 movies, your average is: 6.38
-Year 1994 has 35 movies, your average is: 7.09
-Year 1995 has 37 movies, your average is: 7.38
-Year 1996 has 40 movies, your average is: 7.05
-Year 1997 has 47 movies, your average is: 6.87
-Year 1998 has 55 movies, your average is: 7.09
-Year 1999 has 68 movies, your average is: 6.91
-Year 2000 has 79 movies, your average is: 6.77
-Year 2001 has 83 movies, your average is: 6.42
-Year 2002 has 67 movies, your average is: 6.55
-Year 2003 has 62 movies, your average is: 6.39
-Year 2004 has 63 movies, your average is: 6.08
-Year 2005 has 64 movies, your average is: 6.41
-Year 2006 has 71 movies, your average is: 6.10
-Year 2007 has 49 movies, your average is: 6.43
-Year 2008 has 69 movies, your average is: 5.91
-Year 2009 has 45 movies, your average is: 6.02
-Year 2010 has 42 movies, your average is: 5.83
-Year 2011 has 23 movies, your average is: 6.17
-Year 2012 has 17 movies, your average is: 5.71
-Year 2013 has 15 movies, your average is: 7.00
-Year 2014 has 1 movies, your average is: 10.00
+Year 1992 has 19 movies, your average is: 6.89
+Year 1993 has 25 movies, your average is: 6.44
+Year 1994 has 37 movies, your average is: 7.00
+Year 1995 has 39 movies, your average is: 7.36
+Year 1996 has 40 movies, your average is: 7.02
+Year 1997 has 46 movies, your average is: 6.87
+Year 1998 has 57 movies, your average is: 7.09
+Year 1999 has 69 movies, your average is: 6.87
+Year 2000 has 81 movies, your average is: 6.80
+Year 2001 has 87 movies, your average is: 6.45
+Year 2002 has 68 movies, your average is: 6.56
+Year 2003 has 63 movies, your average is: 6.43
+Year 2004 has 64 movies, your average is: 6.11
+Year 2005 has 67 movies, your average is: 6.43
+Year 2006 has 74 movies, your average is: 6.14
+Year 2007 has 55 movies, your average is: 6.49
+Year 2008 has 73 movies, your average is: 5.96
+Year 2009 has 52 movies, your average is: 6.13
+Year 2010 has 53 movies, your average is: 6.09
+Year 2011 has 34 movies, your average is: 6.15
+Year 2012 has 29 movies, your average is: 6.17
+Year 2013 has 29 movies, your average is: 6.72
+Year 2014 has 19 movies, your average is: 7.58
+Year 2015 has 12 movies, your average is: 7.58
+Year 2016 has 12 movies, your average is: 7.25
+Year 2017 has 4 movies, your average is: 5.25
+Year 2018 has 12 movies, your average is: 6.58
+Year 2019 has 7 movies, your average is: 7.14
+Year 2020 has 1 movies, your average is: 7.00
 
-Your favorite year: 1984 with average: 7.85 (with minimum 10 votes to qualify).
+Your favourite year: 1984 with average: 7.80 (minimum 10 votes to qualify).
 
 
 @@@@@@ Best Of by year @@@@@@@
 
 #========= Best of 1898 (2 movies, your average=7.00) ============================
-1. Four Heads Are Better Than One (Georges Méliès): 8    (http://www.imdb.com/title/tt0135696/)
-2. The Temptation of St. Anthony (Georges Méliès): 6    (http://www.imdb.com/title/tt0224240/)
+1. Un homme de têtes (Georges Méliès): 8    (https://www.imdb.com/title/tt0135696/)
 
 #========= Best of 1900 (1 movies, your average=8.00) ============================
-1. Oh! What a Night; or, The Sultan's Dream (Georges Méliès): 8    (http://www.imdb.com/title/tt0227420/)
+1. Le rêve du radjah ou La forêt enchantée (Georges Méliès): 8    (https://www.imdb.com/title/tt0227420/)
 
 #========= Best of 1901 (2 movies, your average=7.50) ============================
-1. The India Rubber Head (Georges Méliès): 8    (http://www.imdb.com/title/tt0000359/)
-2. Bluebeard (Georges Méliès): 7    (http://www.imdb.com/title/tt0131934/)
+1. L'homme à la tête en caoutchouc (Georges Méliès): 8    (https://www.imdb.com/title/tt0000359/)
+2. Barbe-bleue (Georges Méliès): 7    (https://www.imdb.com/title/tt0131934/)
 
 #========= Best of 1902 (1 movies, your average=7.00) ============================
-1. A Trip to the Moon (): 7    (http://www.imdb.com/title/tt0000417/)
+1. Le voyage dans la lune (Georges Méliès): 7    (https://www.imdb.com/title/tt0000417/)
 
 #========= Best of 1917 (5 movies, your average=6.80) ============================
-1. Coney Island (): 8    (http://www.imdb.com/title/tt0007819/)
-2. The Butcher Boy (Roscoe 'Fatty' Arbuckle): 7    (http://www.imdb.com/title/tt0007761/)
-3. Oh Doctor! (Roscoe 'Fatty' Arbuckle): 7    (http://www.imdb.com/title/tt0008377/)
-4. His Wedding Night (Roscoe 'Fatty' Arbuckle): 6    (http://www.imdb.com/title/tt0008112/)
-5. The Rough House (Roscoe 'Fatty' Arbuckle, Buster Keaton): 6    (http://www.imdb.com/title/tt0008523/)
+1. Coney Island (Roscoe 'Fatty' Arbuckle): 8    (https://www.imdb.com/title/tt0007819/)
+2. The Butcher Boy (Roscoe 'Fatty' Arbuckle): 7    (https://www.imdb.com/title/tt0007761/)
+3. Oh Doctor! (Roscoe 'Fatty' Arbuckle): 7    (https://www.imdb.com/title/tt0008377/)
 
 #========= Best of 1918 (5 movies, your average=7.80) ============================
-1. The Cook (Roscoe 'Fatty' Arbuckle): 9    (http://www.imdb.com/title/tt0008975/)
-2. The Bell Boy (Roscoe 'Fatty' Arbuckle): 8    (http://www.imdb.com/title/tt0008874/)
-3. Out West (Roscoe 'Fatty' Arbuckle): 8    (http://www.imdb.com/title/tt0009466/)
-4. Good Night, Nurse! (Roscoe 'Fatty' Arbuckle): 7    (http://www.imdb.com/title/tt0009123/)
-5. Moonshine (Roscoe 'Fatty' Arbuckle): 7    (http://www.imdb.com/title/tt0009389/)
+1. The Cook (Roscoe 'Fatty' Arbuckle): 9    (https://www.imdb.com/title/tt0008975/)
+2. The Bell Boy (Roscoe 'Fatty' Arbuckle): 8    (https://www.imdb.com/title/tt0008874/)
+3. Out West (Roscoe 'Fatty' Arbuckle): 8    (https://www.imdb.com/title/tt0009466/)
+4. Good Night, Nurse! (Roscoe 'Fatty' Arbuckle): 7    (https://www.imdb.com/title/tt0009123/)
+5. Moonshine (Roscoe 'Fatty' Arbuckle): 7    (https://www.imdb.com/title/tt0009389/)
 
 #========= Best of 1919 (2 movies, your average=7.00) ============================
-1. Back Stage (Roscoe 'Fatty' Arbuckle): 7    (http://www.imdb.com/title/tt0009899/)
-2. The Hayseed (Roscoe 'Fatty' Arbuckle): 7    (http://www.imdb.com/title/tt0010221/)
+1. Back Stage (Roscoe 'Fatty' Arbuckle): 7    (https://www.imdb.com/title/tt0009899/)
+2. The Hayseed (Roscoe 'Fatty' Arbuckle): 7    (https://www.imdb.com/title/tt0010221/)
 
 #========= Best of 1920 (5 movies, your average=7.60) ============================
-1. One Week (Edward F. Cline, Buster Keaton): 9    (http://www.imdb.com/title/tt0011541/)
-2. Neighbors (Edward F. Cline, Buster Keaton): 8    (http://www.imdb.com/title/tt0011508/)
-3. The Garage (Roscoe 'Fatty' Arbuckle): 8    (http://www.imdb.com/title/tt0010155/)
-4. The Scarecrow (Eddie Cline, 'Buster' Keaton): 7    (http://www.imdb.com/title/tt0011656/)
-5. Convict 13 (Edward F. Cline, Buster Keaton): 6    (http://www.imdb.com/title/tt0011071/)
+1. One Week (Edward F. Cline, Buster Keaton): 9    (https://www.imdb.com/title/tt0011541/)
+2. Neighbors (Edward F. Cline, Buster Keaton): 8    (https://www.imdb.com/title/tt0011508/)
+3. The Garage (Roscoe 'Fatty' Arbuckle): 8    (https://www.imdb.com/title/tt0010155/)
+4. The Scarecrow (Edward F. Cline, Buster Keaton): 7    (https://www.imdb.com/title/tt0011656/)
 
 #========= Best of 1921 (6 movies, your average=8.00) ============================
-1. The Goat (Buster Keaton, Mal St. Clair): 9    (http://www.imdb.com/title/tt0012224/)
-2. The Play House (Eddie Cline, 'Buster' Keaton): 8    (http://www.imdb.com/title/tt0012570/)
-3. The 'High Sign' (Eddie Cline, 'Buster' Keaton): 8    (http://www.imdb.com/title/tt0012278/)
-4. The Boat (Eddie Cline, 'Buster' Keaton): 8    (http://www.imdb.com/title/tt0011984/)
-5. Hard Luck (Edward F. Cline, Buster Keaton): 8    (http://www.imdb.com/title/tt0012253/)
-6. The Haunted House (Edward F. Cline, Buster Keaton): 7    (http://www.imdb.com/title/tt0012255/)
+1. The Goat (Malcolm St. Clair, Buster Keaton): 9    (https://www.imdb.com/title/tt0012224/)
+2. The 'High Sign' (Edward F. Cline, Buster Keaton): 8    (https://www.imdb.com/title/tt0012278/)
+3. The Play House (Edward F. Cline, Buster Keaton): 8    (https://www.imdb.com/title/tt0012570/)
+4. The Boat (Edward F. Cline, Buster Keaton): 8    (https://www.imdb.com/title/tt0011984/)
+5. Hard Luck (Edward F. Cline, Buster Keaton): 8    (https://www.imdb.com/title/tt0012253/)
+6. The Haunted House (Edward F. Cline, Buster Keaton): 7    (https://www.imdb.com/title/tt0012255/)
 
 #========= Best of 1922 (8 movies, your average=7.12) ============================
-1. Cops (Eddie Cline, 'Buster' Keaton): 8    (http://www.imdb.com/title/tt0013025/)
-2. Day Dreams (Eddie Cline, Buster Keaton): 8    (http://www.imdb.com/title/tt0013055/)
-3. Nosferatu (F.W. Murnau): 7    (http://www.imdb.com/title/tt0013442/)
-4. The Electric House (Eddie Cline, 'Buster' Keaton): 7    (http://www.imdb.com/title/tt0013099/)
-5. The Paleface (Buster Keaton): 7    (http://www.imdb.com/title/tt0012543/)
-6. The Blacksmith (Buster Keaton, Mal. St. Clair): 7    (http://www.imdb.com/title/tt0012945/)
-7. My Wife's Relations (Buster Keaton): 7    (http://www.imdb.com/title/tt0013422/)
-8. The Frozen North (Eddie Cline, Buster Keaton): 6    (http://www.imdb.com/title/tt0013158/)
+1. Cops (Edward F. Cline, Buster Keaton): 8    (https://www.imdb.com/title/tt0013025/)
+2. Day Dreams (Edward F. Cline, Buster Keaton): 8    (https://www.imdb.com/title/tt0013055/)
+3. Nosferatu, eine Symphonie des Grauens (F.W. Murnau): 7    (https://www.imdb.com/title/tt0013442/)
+4. The Electric House (Edward F. Cline, Buster Keaton): 7    (https://www.imdb.com/title/tt0013099/)
+5. The Blacksmith (Malcolm St. Clair, Buster Keaton): 7    (https://www.imdb.com/title/tt0012945/)
+6. The Paleface (Edward F. Cline, Buster Keaton): 7    (https://www.imdb.com/title/tt0012543/)
+7. My Wife's Relations (Edward F. Cline, Buster Keaton): 7    (https://www.imdb.com/title/tt0013422/)
 
 #========= Best of 1923 (2 movies, your average=8.00) ============================
-1. The Love Nest (Buster Keaton): 8    (http://www.imdb.com/title/tt0014218/)
-2. The Balloonatic (Eddie Cline, 'Buster' Keaton): 8    (http://www.imdb.com/title/tt0013858/)
+1. The Love Nest (Edward F. Cline, Buster Keaton): 8    (https://www.imdb.com/title/tt0014218/)
+2. The Balloonatic (Edward F. Cline, Buster Keaton): 8    (https://www.imdb.com/title/tt0013858/)
 
 #========= Best of 1927 (1 movies, your average=8.00) ============================
-1. Metropolis (Fritz Lang): 8    (http://www.imdb.com/title/tt0017136/)
+1. Metropolis (Fritz Lang): 8    (https://www.imdb.com/title/tt0017136/)
 
 #========= Best of 1936 (1 movies, your average=6.00) ============================
-1. Soigne ton gauche (René Clément): 6    (http://www.imdb.com/title/tt0028275/)
 
 #========= Best of 1939 (1 movies, your average=7.00) ============================
-1. The Rules of the Game (Jean Renoir): 7    (http://www.imdb.com/title/tt0031885/)
+1. La règle du jeu (Jean Renoir): 7    (https://www.imdb.com/title/tt0031885/)
 
 #========= Best of 1941 (1 movies, your average=7.00) ============================
-1. Citizen Kane (Orson Welles): 7    (http://www.imdb.com/title/tt0033467/)
+1. Citizen Kane (Orson Welles): 7    (https://www.imdb.com/title/tt0033467/)
 
 #========= Best of 1942 (2 movies, your average=4.00) ============================
 
 #========= Best of 1943 (2 movies, your average=7.00) ============================
-1. Sanshiro Sugata (Akira Kurosawa): 7    (http://www.imdb.com/title/tt0036400/)
-2. The Leopard Man (Jacques Tourneur): 7    (http://www.imdb.com/title/tt0036104/)
+1. The Leopard Man (Jacques Tourneur): 7    (https://www.imdb.com/title/tt0036104/)
+2. Sugata Sanshirô (Akira Kurosawa): 7    (https://www.imdb.com/title/tt0036400/)
 
 #========= Best of 1945 (1 movies, your average=7.00) ============================
-1. Children of Paradise (Marcel Carné): 7    (http://www.imdb.com/title/tt0037674/)
+1. Les enfants du paradis (Marcel Carné): 7    (https://www.imdb.com/title/tt0037674/)
 
 #========= Best of 1946 (2 movies, your average=6.50) ============================
-1. The Big Sleep (Howard Hawks): 7    (http://www.imdb.com/title/tt0038355/)
-2. Beauty and the Beast (Jean Cocteau): 6    (http://www.imdb.com/title/tt0038348/)
+1. The Big Sleep (Howard Hawks): 7    (https://www.imdb.com/title/tt0038355/)
 
 #========= Best of 1947 (1 movies, your average=7.00) ============================
-1. Out of the Past (Jacques Tourneur): 7    (http://www.imdb.com/title/tt0039689/)
+1. Out of the Past (Jacques Tourneur): 7    (https://www.imdb.com/title/tt0039689/)
 
-#========= Best of 1950 (3 movies, your average=5.67) ============================
-1. Los Olvidados (Luis Buñuel): 7    (http://www.imdb.com/title/tt0042804/)
-2. Rashomon (Akira Kurosawa): 6    (http://www.imdb.com/title/tt0042876/)
+#========= Best of 1950 (2 movies, your average=6.50) ============================
+1. Los olvidados (Luis Buñuel): 7    (https://www.imdb.com/title/tt0042804/)
 
-#========= Best of 1951 (2 movies, your average=5.50) ============================
-1. Distant Drums (Raoul Walsh): 6    (http://www.imdb.com/title/tt0043469/)
+#========= Best of 1951 (3 movies, your average=5.00) ============================
 
 #========= Best of 1953 (4 movies, your average=7.75) ============================
-1. The Wages of Fear (Henri-Georges Clouzot): 8    (http://www.imdb.com/title/tt0046268/)
-2. Mr. Hulot's Holiday (Jacques Tati): 8    (http://www.imdb.com/title/tt0046487/)
-3. Statues also Die (Chris Marker, Alain Resnais): 8    (http://www.imdb.com/title/tt0046365/)
-4. The War of the Worlds (Byron Haskin): 7    (http://www.imdb.com/title/tt0046534/)
+1. Le salaire de la peur (Henri-Georges Clouzot): 8    (https://www.imdb.com/title/tt0046268/)
+2. Les statues meurent aussi (Ghislain Cloquet, Chris Marker, Alain Resnais): 8    (https://www.imdb.com/title/tt0046365/)
+3. Les vacances de Monsieur Hulot (Jacques Tati): 8    (https://www.imdb.com/title/tt0046487/)
+4. The War of the Worlds (Byron Haskin): 7    (https://www.imdb.com/title/tt0046534/)
 
 #========= Best of 1954 (3 movies, your average=7.00) ============================
-1. Rear Window (Alfred Hitchcock): 8    (http://www.imdb.com/title/tt0047396/)
-2. Samurai I: Musashi Miyamoto (Hiroshi Inagaki): 7    (http://www.imdb.com/title/tt0047444/)
-3. Twenty-Four Eyes (Keisuke Kinoshita): 6    (http://www.imdb.com/title/tt0047281/)
+1. Rear Window (Alfred Hitchcock): 8    (https://www.imdb.com/title/tt0047396/)
+2. Miyamoto Musashi (Hiroshi Inagaki): 7    (https://www.imdb.com/title/tt0047444/)
 
-#========= Best of 1955 (5 movies, your average=7.00) ============================
-1. Night and Fog (Alain Resnais): 8    (http://www.imdb.com/title/tt0048434/)
-2. Smiles of a Summer Night (Ingmar Bergman): 8    (http://www.imdb.com/title/tt0048641/)
-3. Floating Clouds (Mikio Naruse): 7    (http://www.imdb.com/title/tt0048757/)
-4. Kiss Me Deadly (Robert Aldrich): 7    (http://www.imdb.com/title/tt0048261/)
+#========= Best of 1955 (4 movies, your average=6.75) ============================
+1. Sommarnattens leende (Ingmar Bergman): 8    (https://www.imdb.com/title/tt0048641/)
+2. Ukigumo (Mikio Naruse): 7    (https://www.imdb.com/title/tt0048757/)
+3. Kiss Me Deadly (Robert Aldrich): 7    (https://www.imdb.com/title/tt0048261/)
 
-#========= Best of 1956 (3 movies, your average=7.33) ============================
-1. Toute la mémoire du monde (Alain Resnais): 8    (http://www.imdb.com/title/tt0049869/)
-2. Samurai III: Duel at Ganryu Island (Hiroshi Inagaki): 7    (http://www.imdb.com/title/tt0049710/)
-3. Bob le Flambeur (Melville): 7    (http://www.imdb.com/title/tt0047892/)
+#========= Best of 1956 (4 movies, your average=7.50) ============================
+1. Nuit et brouillard (Alain Resnais): 8    (https://www.imdb.com/title/tt0048434/)
+2. Toute la mémoire du monde (Alain Resnais): 8    (https://www.imdb.com/title/tt0049869/)
+3. Bob le flambeur (Jean-Pierre Melville): 7    (https://www.imdb.com/title/tt0047892/)
+4. Miyamoto Musashi kanketsuhen: kettô Ganryûjima (Hiroshi Inagaki): 7    (https://www.imdb.com/title/tt0049710/)
 
 #========= Best of 1957 (8 movies, your average=7.12) ============================
-1. 12 Angry Men (Sidney Lumet): 9    (http://www.imdb.com/title/tt0050083/)
-2. The Seventh Seal (Ingmar Bergman): 9    (http://www.imdb.com/title/tt0050976/)
-3. The Bridge on the River Kwai (David Lean): 8    (http://www.imdb.com/title/tt0050212/)
-4. Throne of Blood (Akira Kurosawa): 7    (http://www.imdb.com/title/tt0050613/)
-5. Forty Guns (Samuel Fuller): 7    (http://www.imdb.com/title/tt0050407/)
-6. Wild Strawberries (Ingmar Bergman): 6    (http://www.imdb.com/title/tt0050986/)
-7. Curse of the Demon (Jacques Tourneur): 6    (http://www.imdb.com/title/tt0050766/)
+1. 12 Angry Men (Sidney Lumet): 9    (https://www.imdb.com/title/tt0050083/)
+2. Det sjunde inseglet (Ingmar Bergman): 9    (https://www.imdb.com/title/tt0050976/)
+3. The Bridge on the River Kwai (David Lean): 8    (https://www.imdb.com/title/tt0050212/)
+4. Kumonosu-jô (Akira Kurosawa): 7    (https://www.imdb.com/title/tt0050613/)
+5. Forty Guns (Samuel Fuller): 7    (https://www.imdb.com/title/tt0050407/)
 
-#========= Best of 1958 (4 movies, your average=6.50) ============================
-1. Vertigo (Alfred Hitchcock): 8    (http://www.imdb.com/title/tt0052357/)
-2. Mon Oncle (Jacques Tati): 8    (http://www.imdb.com/title/tt0050706/)
-3. Elevator to the Gallows (Louis Malle): 6    (http://www.imdb.com/title/tt0051378/)
+#========= Best of 1958 (3 movies, your average=7.33) ============================
+1. Vertigo (Alfred Hitchcock): 8    (https://www.imdb.com/title/tt0052357/)
+2. Mon oncle (Jacques Tati): 8    (https://www.imdb.com/title/tt0050706/)
 
 #========= Best of 1959 (4 movies, your average=5.00) ============================
-1. Hiroshima Mon Amour (Alain Resnais): 8    (http://www.imdb.com/title/tt0052893/)
-2. The 400 Blows (François Truffaut): 7    (http://www.imdb.com/title/tt0053198/)
+1. Hiroshima mon amour (Alain Resnais): 8    (https://www.imdb.com/title/tt0052893/)
+2. Les quatre cents coups (François Truffaut): 7    (https://www.imdb.com/title/tt0053198/)
 
-#========= Best of 1960 (6 movies, your average=7.83) ============================
-1. Psycho (Alfred Hitchcock): 9    (http://www.imdb.com/title/tt0054215/)
-2. Breathless (Jean-Luc Godard): 9    (http://www.imdb.com/title/tt0053472/)
-3. L'Avventura (Michelangelo Antonioni): 8    (http://www.imdb.com/title/tt0053619/)
-4. Swiss Family Robinson (Ken Annakin): 8    (http://www.imdb.com/title/tt0054357/)
-5. Purple Noon (René Clément): 7    (http://www.imdb.com/title/tt0054189/)
-6. Shoot the Piano Player (François Truffaut): 6    (http://www.imdb.com/title/tt0054389/)
+#========= Best of 1960 (7 movies, your average=7.29) ============================
+1. Psycho (Alfred Hitchcock): 9    (https://www.imdb.com/title/tt0054215/)
+2. À bout de souffle (Jean-Luc Godard): 9    (https://www.imdb.com/title/tt0053472/)
+3. L'avventura (Michelangelo Antonioni): 8    (https://www.imdb.com/title/tt0053619/)
+4. Swiss Family Robinson (Ken Annakin): 8    (https://www.imdb.com/title/tt0054357/)
+5. Plein soleil (René Clément): 7    (https://www.imdb.com/title/tt0054189/)
 
 #========= Best of 1961 (4 movies, your average=5.75) ============================
-1. The Hustler (Robert Rossen): 7    (http://www.imdb.com/title/tt0054997/)
-2. A Woman Is a Woman (Jean-Luc Godard): 7    (http://www.imdb.com/title/tt0055572/)
+1. The Hustler (Robert Rossen): 7    (https://www.imdb.com/title/tt0054997/)
+2. Une femme est une femme (Jean-Luc Godard): 7    (https://www.imdb.com/title/tt0055572/)
 
 #========= Best of 1962 (12 movies, your average=7.33) ============================
-1. Cleo from 5 to 7 (Agnès Varda): 9    (http://www.imdb.com/title/tt0055852/)
-2. L'Eclisse (Michelangelo Antonioni): 9    (http://www.imdb.com/title/tt0056736/)
-3. Lawrence of Arabia (David Lean): 8    (http://www.imdb.com/title/tt0056172/)
-4. Jules and Jim (François Truffaut): 8    (http://www.imdb.com/title/tt0055032/)
-5. Knife in the Water (Roman Polanski): 8    (http://www.imdb.com/title/tt0056291/)
-6. La Jetée (Chris Marker): 7    (http://www.imdb.com/title/tt0056119/)
-7. An Autumn Afternoon (Yasujirô Ozu): 7    (http://www.imdb.com/title/tt0056444/)
-8. The Man Who Shot Liberty Valance (John Ford): 7    (http://www.imdb.com/title/tt0056217/)
-9. Lolita (Stanley Kubrick): 7    (http://www.imdb.com/title/tt0056193/)
-10. Mamma Roma (Pier Paolo Pasolini): 6    (http://www.imdb.com/title/tt0056215/)
-11. War of the Buttons (Yves Robert): 6    (http://www.imdb.com/title/tt0054949/)
-12. Dr. No (Terence Young): 6    (http://www.imdb.com/title/tt0055928/)
+1. Cléo de 5 à 7 (Agnès Varda): 9    (https://www.imdb.com/title/tt0055852/)
+2. L'eclisse (Michelangelo Antonioni): 9    (https://www.imdb.com/title/tt0056736/)
+3. Lawrence of Arabia (David Lean): 8    (https://www.imdb.com/title/tt0056172/)
+4. Jules et Jim (François Truffaut): 8    (https://www.imdb.com/title/tt0055032/)
+5. Nóz w wodzie (Roman Polanski): 8    (https://www.imdb.com/title/tt0056291/)
+6. La jetée (Chris Marker): 7    (https://www.imdb.com/title/tt0056119/)
+7. Sanma no aji (Yasujirô Ozu): 7    (https://www.imdb.com/title/tt0056444/)
+8. The Man Who Shot Liberty Valance (John Ford): 7    (https://www.imdb.com/title/tt0056217/)
+9. Lolita (Stanley Kubrick): 7    (https://www.imdb.com/title/tt0056193/)
 
 #========= Best of 1963 (10 movies, your average=7.30) ============================
-1. Monsieur Gangster (Georges Lautner): 8    (http://www.imdb.com/title/tt0057591/)
-2. The Birds (Alfred Hitchcock): 8    (http://www.imdb.com/title/tt0056869/)
-3. Shock Corridor (Samuel Fuller): 8    (http://www.imdb.com/title/tt0057495/)
-4. The Bakery Girl of Monceau (Eric Rohmer): 8    (http://www.imdb.com/title/tt0056884/)
-5. Contempt (Jean-Luc Godard): 7    (http://www.imdb.com/title/tt0057345/)
-6. From Russia with Love (Terence Young): 7    (http://www.imdb.com/title/tt0057076/)
-7. The Pink Panther (Blake Edwards): 7    (http://www.imdb.com/title/tt0057413/)
-8. Lord of the Flies (Peter Brook): 7    (http://www.imdb.com/title/tt0057261/)
-9. Pouic-Pouic (Jean Girault): 7    (http://www.imdb.com/title/tt0057422/)
-10. Suzanne's Career (Eric Rohmer): 6    (http://www.imdb.com/title/tt0056910/)
+1. Les tontons flingueurs (Georges Lautner): 8    (https://www.imdb.com/title/tt0057591/)
+2. The Birds (Alfred Hitchcock): 8    (https://www.imdb.com/title/tt0056869/)
+3. La boulangère de Monceau (Éric Rohmer): 8    (https://www.imdb.com/title/tt0056884/)
+4. Shock Corridor (Samuel Fuller): 8    (https://www.imdb.com/title/tt0057495/)
+5. Le mépris (Jean-Luc Godard): 7    (https://www.imdb.com/title/tt0057345/)
+6. From Russia with Love (Terence Young): 7    (https://www.imdb.com/title/tt0057076/)
+7. The Pink Panther (Blake Edwards): 7    (https://www.imdb.com/title/tt0057413/)
+8. Lord of the Flies (Peter Brook): 7    (https://www.imdb.com/title/tt0057261/)
+9. Pouic-Pouic (Jean Girault): 7    (https://www.imdb.com/title/tt0057422/)
 
-#========= Best of 1964 (9 movies, your average=7.67) ============================
-1. A Fistful of Dollars (Sergio Leone): 9    (http://www.imdb.com/title/tt0058461/)
-2. The Gospel According to St. Matthew (Pier Paolo Pasolini): 8    (http://www.imdb.com/title/tt0058715/)
-3. Red Desert (Michelangelo Antonioni): 8    (http://www.imdb.com/title/tt0058003/)
-4. Diary of a Chambermaid (Luis Buñuel): 8    (http://www.imdb.com/title/tt0058249/)
-5. A Shot in the Dark (Blake Edwards): 8    (http://www.imdb.com/title/tt0058586/)
-6. Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (Stanley Kubrick): 7    (http://www.imdb.com/title/tt0057012/)
-7. Goldfinger (Guy Hamilton): 7    (http://www.imdb.com/title/tt0058150/)
-8. Le gendarme de Saint-Tropez (Jean Girault): 7    (http://www.imdb.com/title/tt0058135/)
-9. The Great Spy Chase (Georges Lautner): 7    (http://www.imdb.com/title/tt0057870/)
+#========= Best of 1964 (9 movies, your average=7.56) ============================
+1. Per un pugno di dollari (Sergio Leone): 9    (https://www.imdb.com/title/tt0058461/)
+2. Il vangelo secondo Matteo (Pier Paolo Pasolini): 8    (https://www.imdb.com/title/tt0058715/)
+3. Il deserto rosso (Michelangelo Antonioni): 8    (https://www.imdb.com/title/tt0058003/)
+4. A Shot in the Dark (Blake Edwards): 8    (https://www.imdb.com/title/tt0058586/)
+5. Le journal d'une femme de chambre (Luis Buñuel): 8    (https://www.imdb.com/title/tt0058249/)
+6. Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (Stanley Kubrick): 7    (https://www.imdb.com/title/tt0057012/)
+7. Goldfinger (Guy Hamilton): 7    (https://www.imdb.com/title/tt0058150/)
+8. Les Barbouzes (Georges Lautner): 7    (https://www.imdb.com/title/tt0057870/)
 
 #========= Best of 1965 (6 movies, your average=6.50) ============================
-1. For a Few Dollars More (Sergio Leone): 8    (http://www.imdb.com/title/tt0059578/)
-2. The Sucker (Gérard Oury): 8    (http://www.imdb.com/title/tt0057967/)
-3. Darling (John Schlesinger): 8    (http://www.imdb.com/title/tt0059084/)
-4. Fantômas se déchaîne (André Hunebelle): 6    (http://www.imdb.com/title/tt0059168/)
-5. The Gendarme in New York (Jean Girault): 6    (http://www.imdb.com/title/tt0060450/)
+1. Per qualche dollaro in più (Sergio Leone): 8    (https://www.imdb.com/title/tt0059578/)
+2. Le corniaud (Gérard Oury): 8    (https://www.imdb.com/title/tt0057967/)
+3. Darling (John Schlesinger): 8    (https://www.imdb.com/title/tt0059084/)
 
 #========= Best of 1966 (9 movies, your average=7.11) ============================
-1. La Grande Vadrouille (Gérard Oury): 9    (http://www.imdb.com/title/tt0060474/)
-2. The Good, the Bad and the Ugly (Sergio Leone): 8    (http://www.imdb.com/title/tt0060196/)
-3. The Battle of Algiers (Gillo Pontecorvo): 8    (http://www.imdb.com/title/tt0058946/)
-4. The Hawks and the Sparrows (Pier Paolo Pasolini): 7    (http://www.imdb.com/title/tt0061132/)
-5. Fahrenheit 451 (François Truffaut): 7    (http://www.imdb.com/title/tt0060390/)
-6. Come Drink with Me (King Chuan): 7    (http://www.imdb.com/title/tt0059079/)
-7. The Shooting (Monte Hellman): 7    (http://www.imdb.com/title/tt0062262/)
-8. What's Up, Tiger Lily? (Woody Allen, Senkichi Taniguchi): 6    (http://www.imdb.com/title/tt0061177/)
+1. La grande vadrouille (Gérard Oury): 9    (https://www.imdb.com/title/tt0060474/)
+2. Il buono, il brutto, il cattivo (Sergio Leone): 8    (https://www.imdb.com/title/tt0060196/)
+3. La battaglia di Algeri (Gillo Pontecorvo): 8    (https://www.imdb.com/title/tt0058946/)
+4. Uccellacci e uccellini (Pier Paolo Pasolini): 7    (https://www.imdb.com/title/tt0061132/)
+5. Fahrenheit 451 (François Truffaut): 7    (https://www.imdb.com/title/tt0060390/)
+6. Da zui xia (King Hu): 7    (https://www.imdb.com/title/tt0059079/)
+7. The Shooting (Monte Hellman): 7    (https://www.imdb.com/title/tt0062262/)
 
 #========= Best of 1967 (10 movies, your average=6.70) ============================
-1. Playtime (Jacques Tati): 9    (http://www.imdb.com/title/tt0062136/)
-2. Oscar (Édouard Molinaro): 8    (http://www.imdb.com/title/tt0062083/)
-3. Branded to Kill (Seijun Suzuki): 8    (http://www.imdb.com/title/tt0061882/)
-4. Evening Classes (Nicolas Ribowski): 8    (http://www.imdb.com/title/tt0061524/)
-5. La Collectionneuse (Eric Rohmer): 7    (http://www.imdb.com/title/tt0061495/)
-6. Poor Cow (Ken Loach): 7    (http://www.imdb.com/title/tt0062141/)
-7. Fantômas contre Scotland Yard (André Hunebelle): 7    (http://www.imdb.com/title/tt0060400/)
-8. Bonnie and Clyde (Arthur Penn): 6    (http://www.imdb.com/title/tt0061418/)
+1. Playtime (Jacques Tati): 9    (https://www.imdb.com/title/tt0062136/)
+2. Oscar (Édouard Molinaro): 8    (https://www.imdb.com/title/tt0062083/)
+3. Koroshi no rakuin (Seijun Suzuki): 8    (https://www.imdb.com/title/tt0061882/)
+4. Cours du soir (Nicolas Ribowski): 8    (https://www.imdb.com/title/tt0061524/)
+5. La collectionneuse (Éric Rohmer): 7    (https://www.imdb.com/title/tt0061495/)
+6. Poor Cow (Ken Loach): 7    (https://www.imdb.com/title/tt0062141/)
+7. Fantômas contre Scotland Yard (André Hunebelle): 7    (https://www.imdb.com/title/tt0060400/)
 
 #========= Best of 1968 (8 movies, your average=7.50) ============================
-1. Once Upon a Time in the West (Sergio Leone): 9    (http://www.imdb.com/title/tt0064116/)
-2. 2001: A Space Odyssey (Stanley Kubrick): 9    (http://www.imdb.com/title/tt0062622/)
-3. Stolen Kisses (François Truffaut): 8    (http://www.imdb.com/title/tt0062695/)
-4. Flesh (Paul Morrissey): 8    (http://www.imdb.com/title/tt0062979/)
-5. Signs of Life (Werner Herzog): 7    (http://www.imdb.com/title/tt0063218/)
-6. The Gendarme Gets Married (Jean Girault): 7    (http://www.imdb.com/title/tt0063005/)
-7. The Little Bather (Robert Dhéry): 6    (http://www.imdb.com/title/tt0062120/)
-8. The Tattooed One (Denis de la Patellière): 6    (http://www.imdb.com/title/tt0063674/)
+1. C'era una volta il West (Sergio Leone): 9    (https://www.imdb.com/title/tt0064116/)
+2. 2001: A Space Odyssey (Stanley Kubrick): 9    (https://www.imdb.com/title/tt0062622/)
+3. Baisers volés (François Truffaut): 8    (https://www.imdb.com/title/tt0062695/)
+4. Flesh (Paul Morrissey): 8    (https://www.imdb.com/title/tt0062979/)
+5. Lebenszeichen (Werner Herzog): 7    (https://www.imdb.com/title/tt0063218/)
+6. Le gendarme se marie (Jean Girault): 7    (https://www.imdb.com/title/tt0063005/)
 
-#========= Best of 1969 (7 movies, your average=6.86) ============================
-1. Army of Shadows (Jean-Pierre Melville): 8    (http://www.imdb.com/title/tt0064040/)
-2. My Night at Maud's (Eric Rohmer): 8    (http://www.imdb.com/title/tt0064612/)
-3. Midnight Cowboy (John Schlesinger): 7    (http://www.imdb.com/title/tt0064665/)
-4. The Damned (Luchino Visconti): 7    (http://www.imdb.com/title/tt0064118/)
-5. Easy Rider (Dennis Hopper): 7    (http://www.imdb.com/title/tt0064276/)
-6. Hibernatus (Édouard Molinaro): 6    (http://www.imdb.com/title/tt0064425/)
+#========= Best of 1969 (8 movies, your average=7.00) ============================
+1. L'armée des ombres (Jean-Pierre Melville): 8    (https://www.imdb.com/title/tt0064040/)
+2. Ma nuit chez Maud (Éric Rohmer): 8    (https://www.imdb.com/title/tt0064612/)
+3. On Her Majesty's Secret Service (Peter R. Hunt): 8    (https://www.imdb.com/title/tt0064757/)
+4. Midnight Cowboy (John Schlesinger): 7    (https://www.imdb.com/title/tt0064665/)
+5. La caduta degli dei (Götterdämmerung) (Luchino Visconti): 7    (https://www.imdb.com/title/tt0064118/)
+6. Easy Rider (Dennis Hopper): 7    (https://www.imdb.com/title/tt0064276/)
 
 #========= Best of 1970 (10 movies, your average=7.60) ============================
-1. Le Cercle Rouge (Jean-Pierre Melville): 8    (http://www.imdb.com/title/tt0065531/)
-2. Claire's Knee (Eric Rohmer): 8    (http://www.imdb.com/title/tt0065772/)
-3. Bed & Board (François Truffaut): 8    (http://www.imdb.com/title/tt0065651/)
-4. Borsalino (Jacques Deray): 8    (http://www.imdb.com/title/tt0065486/)
-5. Even Dwarfs Started Small (Werner Herzog): 8    (http://www.imdb.com/title/tt0065436/)
-6. Wanda (Barbara Loden): 8    (http://www.imdb.com/title/tt0067961/)
-7. Le gendarme en balade (Jean Girault): 8    (http://www.imdb.com/title/tt0065769/)
-8. Trash (Paul Morrissey): 8    (http://www.imdb.com/title/tt0066482/)
-9. L'homme orchestre (Serge Korber): 7    (http://www.imdb.com/title/tt0065848/)
+1. Le cercle rouge (Jean-Pierre Melville): 8    (https://www.imdb.com/title/tt0065531/)
+2. Le genou de Claire (Éric Rohmer): 8    (https://www.imdb.com/title/tt0065772/)
+3. Domicile conjugal (François Truffaut): 8    (https://www.imdb.com/title/tt0065651/)
+4. Wanda (Barbara Loden): 8    (https://www.imdb.com/title/tt0067961/)
+5. Borsalino (Jacques Deray): 8    (https://www.imdb.com/title/tt0065486/)
+6. Auch Zwerge haben klein angefangen (Werner Herzog): 8    (https://www.imdb.com/title/tt0065436/)
+7. Le gendarme en balade (Jean Girault): 8    (https://www.imdb.com/title/tt0065769/)
+8. Trash (Paul Morrissey): 8    (https://www.imdb.com/title/tt0066482/)
+9. L'homme orchestre (Serge Korber): 7    (https://www.imdb.com/title/tt0065848/)
 
-#========= Best of 1971 (11 movies, your average=6.36) ============================
-1. Two-Lane Blacktop (Monte Hellman): 9    (http://www.imdb.com/title/tt0067893/)
-2. Johnny Got His Gun (Dalton Trumbo): 8    (http://www.imdb.com/title/tt0067277/)
-3. Family Life (Kenneth Loach): 8    (http://www.imdb.com/title/tt0068569/)
-4. The Gazebo (Jean Girault): 8    (http://www.imdb.com/title/tt0067274/)
-5. Delusions of Grandeur (Gérard Oury): 8    (http://www.imdb.com/title/tt0067108/)
-6. Two English Girls (François Truffaut): 8    (http://www.imdb.com/title/tt0066989/)
-7. Dirty Harry (Don Siegel): 6    (http://www.imdb.com/title/tt0066999/)
-8. Perched on a Tree (Serge Korber): 6    (http://www.imdb.com/title/tt0066423/)
+#========= Best of 1971 (12 movies, your average=6.42) ============================
+1. Two-Lane Blacktop (Monte Hellman): 9    (https://www.imdb.com/title/tt0067893/)
+2. Johnny Got His Gun (Dalton Trumbo): 8    (https://www.imdb.com/title/tt0067277/)
+3. Family Life (Ken Loach): 8    (https://www.imdb.com/title/tt0068569/)
+4. Les deux Anglaises et le continent (François Truffaut): 8    (https://www.imdb.com/title/tt0066989/)
+5. La folie des grandeurs (Gérard Oury): 8    (https://www.imdb.com/title/tt0067108/)
+6. Jo (Jean Girault): 8    (https://www.imdb.com/title/tt0067274/)
 
-#========= Best of 1972 (10 movies, your average=7.30) ============================
-1. The Godfather (Francis Ford Coppola): 8    (http://www.imdb.com/title/tt0068646/)
-2. Love in the Afternoon (Eric Rohmer): 8    (http://www.imdb.com/title/tt0068205/)
-3. César and Rosalie (Claude Sautet): 8    (http://www.imdb.com/title/tt0068441/)
-4. Heat (Paul Morrissey): 8    (http://www.imdb.com/title/tt0068688/)
-5. Aguirre, the Wrath of God (Werner Herzog): 7    (http://www.imdb.com/title/tt0068182/)
-6. Intimate Confessions of a Chinese Courtesan (Chu Yuan): 7    (http://www.imdb.com/title/tt0068744/)
-7. Last Tango in Paris (Bernardo Bertolucci): 7    (http://www.imdb.com/title/tt0070849/)
-8. Everything You Always Wanted to Know About Sex * But Were Afraid to Ask (Woody Allen): 7    (http://www.imdb.com/title/tt0068555/)
-9. The Troubles of Alfred (Pierre Richard): 7    (http://www.imdb.com/title/tt0067385/)
-10. Pink Flamingos (John Waters): 6    (http://www.imdb.com/title/tt0069089/)
+#========= Best of 1972 (11 movies, your average=6.82) ============================
+1. The Godfather (Francis Ford Coppola): 9    (https://www.imdb.com/title/tt0068646/)
+2. L'amour l'après-midi (Éric Rohmer): 8    (https://www.imdb.com/title/tt0068205/)
+3. César et Rosalie (Claude Sautet): 8    (https://www.imdb.com/title/tt0068441/)
+4. Heat (Paul Morrissey): 8    (https://www.imdb.com/title/tt0068688/)
+5. Aguirre, der Zorn Gottes (Werner Herzog): 7    (https://www.imdb.com/title/tt0068182/)
+6. Ai nu (Yuen Chor): 7    (https://www.imdb.com/title/tt0068744/)
+7. Ultimo tango a Parigi (Bernardo Bertolucci): 7    (https://www.imdb.com/title/tt0070849/)
+8. Everything You Always Wanted to Know About Sex * But Were Afraid to Ask (Woody Allen): 7    (https://www.imdb.com/title/tt0068555/)
+9. Les malheurs d'Alfred (Pierre Richard): 7    (https://www.imdb.com/title/tt0067385/)
 
-#========= Best of 1973 (12 movies, your average=7.33) ============================
-1. Papillon (Franklin J. Schaffner): 8    (http://www.imdb.com/title/tt0070511/)
-2. The Exorcist (William Friedkin): 8    (http://www.imdb.com/title/tt0070047/)
-3. Fantastic Planet (René Laloux): 8    (http://www.imdb.com/title/tt0070544/)
-4. Mean Streets (Martin Scorsese): 8    (http://www.imdb.com/title/tt0070379/)
-5. The Mad Adventures of 'Rabbi' Jacob (Gérard Oury): 8    (http://www.imdb.com/title/tt0069747/)
-6. The Big Feast (Marco Ferreri): 8    (http://www.imdb.com/title/tt0070130/)
-7. The Sting (George Roy Hill): 7    (http://www.imdb.com/title/tt0070735/)
-8. Day for Night (François Truffaut): 7    (http://www.imdb.com/title/tt0070460/)
-9. Badlands (Terrence Malick): 7    (http://www.imdb.com/title/tt0069762/)
-10. Sleeper (Woody Allen): 7    (http://www.imdb.com/title/tt0070707/)
-11. Now Where Did the Seventh Company Get to? (Robert Lamoureux): 6    (http://www.imdb.com/title/tt0070356/)
-12. Si mamad (Sjuman Djaya): 6    (http://www.imdb.com/title/tt1121093/)
+#========= Best of 1973 (14 movies, your average=7.21) ============================
+1. Scener ur ett äktenskap (): 9    (https://www.imdb.com/title/tt0070644/)
+2. The Exorcist (William Friedkin): 8    (https://www.imdb.com/title/tt0070047/)
+3. Papillon (Franklin J. Schaffner): 8    (https://www.imdb.com/title/tt0070511/)
+4. La planète sauvage (René Laloux): 8    (https://www.imdb.com/title/tt0070544/)
+5. Les aventures de Rabbi Jacob (Gérard Oury): 8    (https://www.imdb.com/title/tt0069747/)
+6. Mean Streets (Martin Scorsese): 8    (https://www.imdb.com/title/tt0070379/)
+7. La grande bouffe (Marco Ferreri): 8    (https://www.imdb.com/title/tt0070130/)
+8. The Sting (George Roy Hill): 7    (https://www.imdb.com/title/tt0070735/)
+9. La nuit américaine (François Truffaut): 7    (https://www.imdb.com/title/tt0070460/)
+10. Badlands (Terrence Malick): 7    (https://www.imdb.com/title/tt0069762/)
 
-#========= Best of 1974 (3 movies, your average=7.00) ============================
-1. The Godfather: Part II (Francis Ford Coppola): 7    (http://www.imdb.com/title/tt0071562/)
-2. The Enigma of Kaspar Hauser (Werner Herzog): 7    (http://www.imdb.com/title/tt0071691/)
-3. Going Places (Bertrand Blier): 7    (http://www.imdb.com/title/tt0072353/)
+#========= Best of 1974 (5 movies, your average=7.00) ============================
+1. The Godfather: Part II (Francis Ford Coppola): 8    (https://www.imdb.com/title/tt0071562/)
+2. Jeder für sich und Gott gegen alle (Werner Herzog): 7    (https://www.imdb.com/title/tt0071691/)
+3. The Taking of Pelham One Two Three (Joseph Sargent): 7    (https://www.imdb.com/title/tt0072251/)
+4. Les valseuses (Bertrand Blier): 7    (https://www.imdb.com/title/tt0072353/)
 
 #========= Best of 1975 (11 movies, your average=7.64) ============================
-1. Barry Lyndon (Stanley Kubrick): 9    (http://www.imdb.com/title/tt0072684/)
-2. The Man Who Would Be King (John Huston): 9    (http://www.imdb.com/title/tt0073341/)
-3. The Wrong Move (Wim Wenders): 9    (http://www.imdb.com/title/tt0071483/)
-4. One Flew Over the Cuckoo's Nest (Milos Forman): 8    (http://www.imdb.com/title/tt0073486/)
-5. Monty Python and the Holy Grail (Terry Gilliam, Terry Jones): 8    (http://www.imdb.com/title/tt0071853/)
-6. Dersu Uzala (Akira Kurosava): 8    (http://www.imdb.com/title/tt0071411/)
-7. The Passenger (Michelangelo Antonioni): 8    (http://www.imdb.com/title/tt0073580/)
-8. Picnic at Hanging Rock (Peter Weir): 8    (http://www.imdb.com/title/tt0073540/)
-9. Let Joy Reign Supreme (Bertrand Tavernier): 8    (http://www.imdb.com/title/tt0072053/)
+1. Barry Lyndon (Stanley Kubrick): 9    (https://www.imdb.com/title/tt0072684/)
+2. The Man Who Would Be King (John Huston): 9    (https://www.imdb.com/title/tt0073341/)
+3. Falsche Bewegung (Wim Wenders): 9    (https://www.imdb.com/title/tt0071483/)
+4. One Flew Over the Cuckoo's Nest (Milos Forman): 8    (https://www.imdb.com/title/tt0073486/)
+5. Dersu Uzala (Akira Kurosawa): 8    (https://www.imdb.com/title/tt0071411/)
+6. Monty Python and the Holy Grail (Terry Jones, Terry Gilliam): 8    (https://www.imdb.com/title/tt0071853/)
+7. Professione: reporter (Michelangelo Antonioni): 8    (https://www.imdb.com/title/tt0073580/)
+8. Picnic at Hanging Rock (Peter Weir): 8    (https://www.imdb.com/title/tt0073540/)
+9. Que la fête commence... (Bertrand Tavernier): 8    (https://www.imdb.com/title/tt0072053/)
 
 #========= Best of 1976 (7 movies, your average=6.57) ============================
-1. All the President's Men (Alan J. Pakula): 8    (http://www.imdb.com/title/tt0074119/)
-2. In the Realm of the Senses (Nagisa Ôshima): 8    (http://www.imdb.com/title/tt0074102/)
-3. Taxi Driver (Martin Scorsese): 7    (http://www.imdb.com/title/tt0075314/)
-4. L'aile ou la cuisse (Claude Zidi): 7    (http://www.imdb.com/title/tt0074103/)
-5. The Last Tycoon (Elia Kazan): 7    (http://www.imdb.com/title/tt0074777/)
+1. All the President's Men (Alan J. Pakula): 8    (https://www.imdb.com/title/tt0074119/)
+2. Ai no korîda (Nagisa Ôshima): 8    (https://www.imdb.com/title/tt0074102/)
+3. Taxi Driver (Martin Scorsese): 7    (https://www.imdb.com/title/tt0075314/)
+4. L'aile ou la cuisse (Claude Zidi): 7    (https://www.imdb.com/title/tt0074103/)
+5. The Last Tycoon (Elia Kazan): 7    (https://www.imdb.com/title/tt0074777/)
 
-#========= Best of 1977 (11 movies, your average=6.73) ============================
-1. Annie Hall (Woody Allen): 8    (http://www.imdb.com/title/tt0075686/)
-2. Stroszek (Werner Herzog): 8    (http://www.imdb.com/title/tt0075276/)
-3. The Man Who Loved Women (François Truffaut): 8    (http://www.imdb.com/title/tt0076155/)
-4. Eraserhead (David Lynch): 8    (http://www.imdb.com/title/tt0074486/)
-5. Szpital (Krzysztof Kieslowski): 8    (http://www.imdb.com/title/tt0075299/)
-6. Jabberwocky (Terry Gilliam): 8    (http://www.imdb.com/title/tt0076221/)
-7. Star Wars (George Lucas): 6    (http://www.imdb.com/title/tt0076759/)
-8. The Duellists (Ridley Scott): 6    (http://www.imdb.com/title/tt0075968/)
-9. The Kentucky Fried Movie (John Landis): 6    (http://www.imdb.com/title/tt0076257/)
+#========= Best of 1977 (12 movies, your average=6.75) ============================
+1. Annie Hall (Woody Allen): 8    (https://www.imdb.com/title/tt0075686/)
+2. Stroszek (Werner Herzog): 8    (https://www.imdb.com/title/tt0075276/)
+3. L'homme qui aimait les femmes (François Truffaut): 8    (https://www.imdb.com/title/tt0076155/)
+4. Eraserhead (David Lynch): 8    (https://www.imdb.com/title/tt0074486/)
+5. Szpital (Krzysztof Kieslowski): 8    (https://www.imdb.com/title/tt0075299/)
+6. Jabberwocky (Terry Gilliam): 8    (https://www.imdb.com/title/tt0076221/)
+7. The Spy Who Loved Me (Lewis Gilbert): 7    (https://www.imdb.com/title/tt0076752/)
 
-#========= Best of 1978 (6 movies, your average=6.50) ============================
-1. Days of Heaven (Terrence Malick): 9    (http://www.imdb.com/title/tt0077405/)
-2. Mountain Pass (Jean-François Stévenin): 9    (http://www.imdb.com/title/tt0180901/)
-3. French Fried Vacation (Patrice Leconte): 8    (http://www.imdb.com/title/tt0077276/)
-4. The Spat (Claude Zidi): 6    (http://www.imdb.com/title/tt0078528/)
+#========= Best of 1978 (7 movies, your average=6.71) ============================
+1. Days of Heaven (Terrence Malick): 9    (https://www.imdb.com/title/tt0077405/)
+2. Passe montagne (Jean-François Stévenin): 9    (https://www.imdb.com/title/tt0180901/)
+3. Midnight Express (Alan Parker): 8    (https://www.imdb.com/title/tt0077928/)
+4. Les bronzés (Patrice Leconte): 8    (https://www.imdb.com/title/tt0077276/)
 
-#========= Best of 1979 (11 movies, your average=7.00) ============================
-1. Alien (Ridley Scott): 9    (http://www.imdb.com/title/tt0078748/)
-2. Apocalypse Now (Francis Coppola): 9    (http://www.imdb.com/title/tt0078788/)
-3. Les bronzés font du ski (Patrice Leconte): 8    (http://www.imdb.com/title/tt0078907/)
-4. Escape from Alcatraz (Donald Siegel): 8    (http://www.imdb.com/title/tt0079116/)
-5. Manhattan (Woody Allen): 7    (http://www.imdb.com/title/tt0079522/)
-6. Hair (Milos Forman): 7    (http://www.imdb.com/title/tt0079261/)
-7. The Hussy (Jacques Doillon): 7    (http://www.imdb.com/title/tt0079086/)
-8. Love on the Run (François Truffaut): 7    (http://www.imdb.com/title/tt0078771/)
-9. Mad Max (George Miller): 7    (http://www.imdb.com/title/tt0079501/)
+#========= Best of 1979 (12 movies, your average=6.67) ============================
+1. Apocalypse Now (Francis Ford Coppola): 9    (https://www.imdb.com/title/tt0078788/)
+2. Alien (Ridley Scott): 9    (https://www.imdb.com/title/tt0078748/)
+3. Escape from Alcatraz (Don Siegel): 8    (https://www.imdb.com/title/tt0079116/)
+4. Les bronzés font du ski (Patrice Leconte): 8    (https://www.imdb.com/title/tt0078907/)
+5. Manhattan (Woody Allen): 7    (https://www.imdb.com/title/tt0079522/)
+6. Hair (Milos Forman): 7    (https://www.imdb.com/title/tt0079261/)
+7. L'amour en fuite (François Truffaut): 7    (https://www.imdb.com/title/tt0078771/)
+8. Mad Max (George Miller): 7    (https://www.imdb.com/title/tt0079501/)
+9. La drôlesse (Jacques Doillon): 7    (https://www.imdb.com/title/tt0079086/)
 
-#========= Best of 1980 (11 movies, your average=7.55) ============================
-1. The Shining (Stanley Kubrick): 8    (http://www.imdb.com/title/tt0081505/)
-2. Raging Bull (Martin Scorsese): 8    (http://www.imdb.com/title/tt0081398/)
-3. Le roi et l'oiseau (Paul Grimault): 8    (http://www.imdb.com/title/tt0079820/)
-4. Mon oncle d'Amérique (Alain Resnais): 8    (http://www.imdb.com/title/tt0081176/)
-5. The Last Metro (François Truffaut): 8    (http://www.imdb.com/title/tt0080610/)
-6. The Gods Must Be Crazy (Jamie Uys): 8    (http://www.imdb.com/title/tt0080801/)
-7. Inspector Blunder (Claude Zidi): 8    (http://www.imdb.com/title/tt0080929/)
-8. Star Wars: Episode V - The Empire Strikes Back (Irvin Kershner): 7    (http://www.imdb.com/title/tt0080684/)
-9. The Elephant Man (David Lynch): 7    (http://www.imdb.com/title/tt0080678/)
-10. Cruising (William Friedkin): 7    (http://www.imdb.com/title/tt0080569/)
-11. Dworzec (Krzysztof Kieslowski): 6    (http://www.imdb.com/title/tt0080668/)
+#========= Best of 1980 (13 movies, your average=7.62) ============================
+1. Berlin Alexanderplatz (): 9    (https://www.imdb.com/title/tt0080196/)
+2. The Shining (Stanley Kubrick): 8    (https://www.imdb.com/title/tt0081505/)
+3. Raging Bull (Martin Scorsese): 8    (https://www.imdb.com/title/tt0081398/)
+4. Le roi et l'oiseau (Paul Grimault): 8    (https://www.imdb.com/title/tt0079820/)
+5. Mon oncle d'Amérique (Alain Resnais): 8    (https://www.imdb.com/title/tt0081176/)
+6. Le dernier métro (François Truffaut): 8    (https://www.imdb.com/title/tt0080610/)
+7. The Gods Must Be Crazy (Jamie Uys): 8    (https://www.imdb.com/title/tt0080801/)
+8. Inspecteur la Bavure (Claude Zidi): 8    (https://www.imdb.com/title/tt0080929/)
+9. Star Wars: Episode V - The Empire Strikes Back (Irvin Kershner): 7    (https://www.imdb.com/title/tt0080684/)
+10. The Elephant Man (David Lynch): 7    (https://www.imdb.com/title/tt0080678/)
 
-#========= Best of 1981 (10 movies, your average=7.50) ============================
-1. Das Boot (Wolfgang Petersen): 9    (http://www.imdb.com/title/tt0082096/)
-2. Quest for Fire (Jean-Jacques Annaud): 9    (http://www.imdb.com/title/tt0082484/)
-3. Coup de torchon (Bertrand Tavernier): 8    (http://www.imdb.com/title/tt0082206/)
-4. The Goat (Francis Veber): 8    (http://www.imdb.com/title/tt0082183/)
-5. Garde à vue (Claude Miller): 7    (http://www.imdb.com/title/tt0082436/)
-6. The Woman Next Door (François Truffaut): 7    (http://www.imdb.com/title/tt0082370/)
-7. Blow Out (Brian De Palma): 7    (http://www.imdb.com/title/tt0082085/)
-8. La soupe aux choux (Jean Girault): 7    (http://www.imdb.com/title/tt0083109/)
-9. The Bunker of the Last Gunshots (Marc Caro, Jean-Pierre Jeunet): 7    (http://www.imdb.com/title/tt0129805/)
-10. Mad Max 2: The Road Warrior (George Miller): 6    (http://www.imdb.com/title/tt0082694/)
+#========= Best of 1981 (12 movies, your average=7.17) ============================
+1. Das Boot (Wolfgang Petersen): 9    (https://www.imdb.com/title/tt0082096/)
+2. La guerre du feu (Jean-Jacques Annaud): 9    (https://www.imdb.com/title/tt0082484/)
+3. Coup de torchon (Bertrand Tavernier): 8    (https://www.imdb.com/title/tt0082206/)
+4. La chèvre (Francis Veber): 8    (https://www.imdb.com/title/tt0082183/)
+5. Garde à vue (Claude Miller): 7    (https://www.imdb.com/title/tt0082436/)
+6. Blow Out (Brian De Palma): 7    (https://www.imdb.com/title/tt0082085/)
+7. La femme d'à côté (François Truffaut): 7    (https://www.imdb.com/title/tt0082370/)
+8. La soupe aux choux (Jean Girault): 7    (https://www.imdb.com/title/tt0083109/)
+9. One from the Heart (Francis Ford Coppola): 7    (https://www.imdb.com/title/tt0084445/)
+10. Le bunker de la dernière rafale (Jean-Pierre Jeunet, Marc Caro): 7    (https://www.imdb.com/title/tt0129805/)
 
-#========= Best of 1982 (13 movies, your average=6.69) ============================
-1. Blade Runner (Ridley Scott): 9    (http://www.imdb.com/title/tt0083658/)
-2. Fitzcarraldo (Werner Herzog): 8    (http://www.imdb.com/title/tt0083946/)
-3. The King of Comedy (Martin Scorsese): 8    (http://www.imdb.com/title/tt0085794/)
-4. Le père Noël est une ordure (Jean-Marie Poiré): 8    (http://www.imdb.com/title/tt0084555/)
-5. Burden of Dreams (Les Blank): 7    (http://www.imdb.com/title/tt0083702/)
-6. Scenes from the Life of Andy Warhol: Friendships and Intersections (Jonas Mekas): 7    (http://www.imdb.com/title/tt0084638/)
-7. Dead Men Don't Wear Plaid (Carl Reiner): 7    (http://www.imdb.com/title/tt0083798/)
-8. TRON (Steven Lisberger): 7    (http://www.imdb.com/title/tt0084827/)
-9. One from the Heart (Francis Coppola): 7    (http://www.imdb.com/title/tt0084445/)
-10. Le gendarme et les gendarmettes (Tony Aboyantz, Jean Girault): 7    (http://www.imdb.com/title/tt0083996/)
+#========= Best of 1982 (11 movies, your average=6.64) ============================
+1. Blade Runner (Ridley Scott): 9    (https://www.imdb.com/title/tt0083658/)
+2. Fitzcarraldo (Werner Herzog): 8    (https://www.imdb.com/title/tt0083946/)
+3. The King of Comedy (Martin Scorsese): 8    (https://www.imdb.com/title/tt0085794/)
+4. Le père Noël est une ordure (Jean-Marie Poiré): 8    (https://www.imdb.com/title/tt0084555/)
+5. Burden of Dreams (Les Blank): 7    (https://www.imdb.com/title/tt0083702/)
+6. Dead Men Don't Wear Plaid (Carl Reiner): 7    (https://www.imdb.com/title/tt0083798/)
+7. TRON (Steven Lisberger): 7    (https://www.imdb.com/title/tt0084827/)
+8. Le gendarme et les gendarmettes (Jean Girault): 7    (https://www.imdb.com/title/tt0083996/)
 
-#========= Best of 1983 (10 movies, your average=7.10) ============================
-1. The Ballad of Narayama (Shôhei Imamura): 9    (http://www.imdb.com/title/tt0084390/)
-2. Scarface (Brian De Palma): 8    (http://www.imdb.com/title/tt0086250/)
-3. The Right Stuff (Philip Kaufman): 8    (http://www.imdb.com/title/tt0086197/)
-4. Pauline at the Beach (Eric Rohmer): 8    (http://www.imdb.com/title/tt0086087/)
-5. Videodrome (David Cronenberg): 8    (http://www.imdb.com/title/tt0086541/)
-6. The Meaning of Life (Terry Jones, Terry Gilliam): 7    (http://www.imdb.com/title/tt0085959/)
-7. So Long, Stooge (Claude Berri): 7    (http://www.imdb.com/title/tt0086420/)
-8. Confidentially Yours (François Truffaut): 7    (http://www.imdb.com/title/tt0086551/)
+#========= Best of 1983 (14 movies, your average=6.93) ============================
+1. Narayama bushikô (Shôhei Imamura): 9    (https://www.imdb.com/title/tt0084390/)
+2. Scarface (Brian De Palma): 8    (https://www.imdb.com/title/tt0086250/)
+3. The Right Stuff (Philip Kaufman): 8    (https://www.imdb.com/title/tt0086197/)
+4. Pauline à la plage (Éric Rohmer): 8    (https://www.imdb.com/title/tt0086087/)
+5. Videodrome (David Cronenberg): 8    (https://www.imdb.com/title/tt0086541/)
+6. Rikos ja rangaistus (Aki Kaurismäki): 8    (https://www.imdb.com/title/tt0086199/)
+7. Flashdance (Adrian Lyne): 8    (https://www.imdb.com/title/tt0085549/)
+8. The Meaning of Life (Terry Jones, Terry Gilliam): 7    (https://www.imdb.com/title/tt0085959/)
+9. Tchao pantin (Claude Berri): 7    (https://www.imdb.com/title/tt0086420/)
+10. Vivement dimanche! (François Truffaut): 7    (https://www.imdb.com/title/tt0086551/)
 
-#========= Best of 1984 (13 movies, your average=7.85) ============================
-1. Nausicaä of the Valley of the Wind (Hayao Miyazaki): 9    (http://www.imdb.com/title/tt0087544/)
-2. Paris, Texas (Wim Wenders): 9    (http://www.imdb.com/title/tt0087884/)
-3. Blood Simple. (Joel Coen): 9    (http://www.imdb.com/title/tt0086979/)
-4. Stranger Than Paradise (Jim Jarmusch): 9    (http://www.imdb.com/title/tt0088184/)
-5. Amadeus (Milos Forman): 8    (http://www.imdb.com/title/tt0086879/)
-6. Once Upon a Time in America (Sergio Leone): 8    (http://www.imdb.com/title/tt0087843/)
-7. The Terminator (James Cameron): 8    (http://www.imdb.com/title/tt0088247/)
-8. The Killing Fields (Roland Joffé): 8    (http://www.imdb.com/title/tt0087553/)
-9. Ghostbusters (Ivan Reitman): 7    (http://www.imdb.com/title/tt0087332/)
-10. A Sunday in the Country (Bertrand Tavernier): 7    (http://www.imdb.com/title/tt0088318/)
-11. The Declic Years (Raymond Depardon): 7    (http://www.imdb.com/title/tt0175446/)
-12. 2010 (Peter Hyams): 7    (http://www.imdb.com/title/tt0086837/)
-13. La vengeance du serpent à plumes (Gérard Oury): 6    (http://www.imdb.com/title/tt0088344/)
+#========= Best of 1984 (15 movies, your average=7.80) ============================
+1. Kaze no tani no Naushika (Hayao Miyazaki): 9    (https://www.imdb.com/title/tt0087544/)
+2. Paris, Texas (Wim Wenders): 9    (https://www.imdb.com/title/tt0087884/)
+3. Blood Simple (Joel Coen, Ethan Coen): 9    (https://www.imdb.com/title/tt0086979/)
+4. Stranger than Paradise (Jim Jarmusch): 9    (https://www.imdb.com/title/tt0088184/)
+5. Once Upon a Time in America (Sergio Leone): 8    (https://www.imdb.com/title/tt0087843/)
+6. Amadeus (Milos Forman): 8    (https://www.imdb.com/title/tt0086879/)
+7. The Terminator (James Cameron): 8    (https://www.imdb.com/title/tt0088247/)
+8. This Is Spinal Tap (Rob Reiner): 8    (https://www.imdb.com/title/tt0088258/)
+9. The Killing Fields (Roland Joffé): 8    (https://www.imdb.com/title/tt0087553/)
+10. Ghostbusters (Ivan Reitman): 7    (https://www.imdb.com/title/tt0087332/)
 
-#========= Best of 1985 (18 movies, your average=7.11) ============================
-1. Das Boot (Wolfgang Petersen): 9    (http://www.imdb.com/title/tt0081834/)
-2. Shoah (Claude Lanzmann): 9    (http://www.imdb.com/title/tt0090015/)
-3. Brazil (Terry Gilliam): 9    (http://www.imdb.com/title/tt0088846/)
-4. Angel's Egg (Mamoru Oshii): 9    (http://www.imdb.com/title/tt0208502/)
-5. When Father Was Away on Business (Emir Kusturica): 8    (http://www.imdb.com/title/tt0089748/)
-6. Mishima: A Life in Four Chapters (Paul Schrader): 8    (http://www.imdb.com/title/tt0089603/)
-7. Vagabond (Agnès Varda): 8    (http://www.imdb.com/title/tt0089960/)
-8. Kamui no ken (Rintaro): 8    (http://www.imdb.com/title/tt0088983/)
-9. Subway (Luc Besson): 8    (http://www.imdb.com/title/tt0090095/)
-10. Les rois du gag (Claude Zidi): 8    (http://www.imdb.com/title/tt0089929/)
-11. To Live and Die in L.A. (William Friedkin): 7    (http://www.imdb.com/title/tt0090180/)
-12. The Quiet Earth (Geoffrey Murphy): 7    (http://www.imdb.com/title/tt0089869/)
-13. Les spécialistes (Patrice Leconte): 7    (http://www.imdb.com/title/tt0088167/)
-14. Crimewave (Sam Raimi): 7    (http://www.imdb.com/title/tt0088967/)
-15. Live Aid (Vincent Scarza): 6    (http://www.imdb.com/title/tt0261024/)
+#========= Best of 1985 (19 movies, your average=7.05) ============================
+1. Das Boot (): 9    (https://www.imdb.com/title/tt0081834/)
+2. Shoah (Claude Lanzmann): 9    (https://www.imdb.com/title/tt0090015/)
+3. Brazil (Terry Gilliam): 9    (https://www.imdb.com/title/tt0088846/)
+4. Tenshi no tamago (Mamoru Oshii): 9    (https://www.imdb.com/title/tt0208502/)
+5. Mishima: A Life in Four Chapters (Paul Schrader): 8    (https://www.imdb.com/title/tt0089603/)
+6. Otac na sluzbenom putu (Emir Kusturica): 8    (https://www.imdb.com/title/tt0089748/)
+7. Sans toit ni loi (Agnès Varda): 8    (https://www.imdb.com/title/tt0089960/)
+8. Kamui no ken (Rintaro): 8    (https://www.imdb.com/title/tt0088983/)
+9. Subway (Luc Besson): 8    (https://www.imdb.com/title/tt0090095/)
+10. Les rois du gag (Claude Zidi): 8    (https://www.imdb.com/title/tt0089929/)
 
-#========= Best of 1986 (10 movies, your average=7.50) ============================
-1. Down by Law (Jim Jarmusch): 10    (http://www.imdb.com/title/tt0090967/)
-2. Blue Velvet (David Lynch): 9    (http://www.imdb.com/title/tt0090756/)
-3. The Mission (Roland Joffé): 8    (http://www.imdb.com/title/tt0091530/)
-4. Zone Red (Robert Enrico): 8    (http://www.imdb.com/title/tt0101019/)
-5. Aliens (James Cameron): 7    (http://www.imdb.com/title/tt0090605/)
-6. Shadows in Paradise (Aki Kaurismäki): 7    (http://www.imdb.com/title/tt0092149/)
-7. Ménage (Bertrand Blier): 7    (http://www.imdb.com/title/tt0092068/)
-8. Double Gentlemen (Jean-François Stévenin): 7    (http://www.imdb.com/title/tt0090963/)
-9. Castle in the Sky (Hayao Miyazaki): 6    (http://www.imdb.com/title/tt0092067/)
-10. Ferris Bueller's Day Off (John Hughes): 6    (http://www.imdb.com/title/tt0091042/)
+#========= Best of 1986 (12 movies, your average=7.67) ============================
+1. Down by Law (Jim Jarmusch): 10    (https://www.imdb.com/title/tt0090967/)
+2. Blue Velvet (David Lynch): 9    (https://www.imdb.com/title/tt0090756/)
+3. Aliens (James Cameron): 8    (https://www.imdb.com/title/tt0090605/)
+4. Der Name der Rose (Jean-Jacques Annaud): 8    (https://www.imdb.com/title/tt0091605/)
+5. The Mission (Roland Joffé): 8    (https://www.imdb.com/title/tt0091530/)
+6. Children of a Lesser God (Randa Haines): 8    (https://www.imdb.com/title/tt0090830/)
+7. Zone rouge (Robert Enrico): 8    (https://www.imdb.com/title/tt0101019/)
+8. Varjoja paratiisissa (Aki Kaurismäki): 7    (https://www.imdb.com/title/tt0092149/)
+9. Tenue de soirée (Bertrand Blier): 7    (https://www.imdb.com/title/tt0092068/)
+10. Double messieurs (Jean-François Stévenin): 7    (https://www.imdb.com/title/tt0090963/)
 
 #========= Best of 1987 (9 movies, your average=6.56) ============================
-1. Wings of Desire (Wim Wenders): 9    (http://www.imdb.com/title/tt0093191/)
-2. Predator (John McTiernan): 8    (http://www.imdb.com/title/tt0093773/)
-3. Full Metal Jacket (Stanley Kubrick): 7    (http://www.imdb.com/title/tt0093058/)
-4. The Untouchables (Brian De Palma): 7    (http://www.imdb.com/title/tt0094226/)
-5. Raising Arizona (Joel Coen): 7    (http://www.imdb.com/title/tt0093822/)
-6. The Running Man (Paul Michael Glaser): 7    (http://www.imdb.com/title/tt0093894/)
-7. Meikyû monogatari (Yoshiaki Kawajiri, Katsuhiro Ohtomo): 6    (http://www.imdb.com/title/tt0185481/)
+1. Der Himmel über Berlin (Wim Wenders): 9    (https://www.imdb.com/title/tt0093191/)
+2. Predator (John McTiernan): 8    (https://www.imdb.com/title/tt0093773/)
+3. Full Metal Jacket (Stanley Kubrick): 7    (https://www.imdb.com/title/tt0093058/)
+4. The Untouchables (Brian De Palma): 7    (https://www.imdb.com/title/tt0094226/)
+5. Raising Arizona (Joel Coen, Ethan Coen): 7    (https://www.imdb.com/title/tt0093822/)
+6. The Running Man (Paul Michael Glaser): 7    (https://www.imdb.com/title/tt0093894/)
 
 #========= Best of 1988 (12 movies, your average=7.00) ============================
-1. Grave of the Fireflies (Isao Takahata): 9    (http://www.imdb.com/title/tt0095327/)
-2. The Bear (Jean-Jacques Annaud): 9    (http://www.imdb.com/title/tt0095800/)
-3. The Last Temptation of Christ (Martin Scorsese): 9    (http://www.imdb.com/title/tt0095497/)
-4. Time of the Gypsies (Emir Kusturica): 8    (http://www.imdb.com/title/tt0097223/)
-5. My Neighbor Totoro (Hayao Miyazaki): 8    (http://www.imdb.com/title/tt0096283/)
-6. Mississippi Burning (Alan Parker): 8    (http://www.imdb.com/title/tt0095647/)
-7. Ariel (Aki Kaurismäki): 8    (http://www.imdb.com/title/tt0094675/)
-8. The Unbearable Lightness of Being (Philip Kaufman): 8    (http://www.imdb.com/title/tt0096332/)
-9. The Adventures of Baron Munchausen (Terry Gilliam): 7    (http://www.imdb.com/title/tt0096764/)
+1. Hotaru no haka (Isao Takahata): 9    (https://www.imdb.com/title/tt0095327/)
+2. L'ours (Jean-Jacques Annaud): 9    (https://www.imdb.com/title/tt0095800/)
+3. The Last Temptation of Christ (Martin Scorsese): 9    (https://www.imdb.com/title/tt0095497/)
+4. Dom za vesanje (Emir Kusturica): 8    (https://www.imdb.com/title/tt0097223/)
+5. Tonari no Totoro (Hayao Miyazaki): 8    (https://www.imdb.com/title/tt0096283/)
+6. Mississippi Burning (Alan Parker): 8    (https://www.imdb.com/title/tt0095647/)
+7. Ariel (Aki Kaurismäki): 8    (https://www.imdb.com/title/tt0094675/)
+8. The Unbearable Lightness of Being (Philip Kaufman): 8    (https://www.imdb.com/title/tt0096332/)
+9. The Adventures of Baron Munchausen (Terry Gilliam): 7    (https://www.imdb.com/title/tt0096764/)
 
-#========= Best of 1989 (13 movies, your average=6.92) ============================
-1. Mystery Train (Jim Jarmusch): 9    (http://www.imdb.com/title/tt0097940/)
-2. Indiana Jones and the Last Crusade (Steven Spielberg): 8    (http://www.imdb.com/title/tt0097576/)
-3. The Killer (John Woo): 8    (http://www.imdb.com/title/tt0097202/)
-4. Things I Like, Things I Don't Like (Jean Pierre Jeunet): 8    (http://www.imdb.com/title/tt0080755/)
-5. The Abyss (James Cameron): 8    (http://www.imdb.com/title/tt0096754/)
-6. Sex, Lies, and Videotape (Steven Soderbergh): 8    (http://www.imdb.com/title/tt0098724/)
-7. Do the Right Thing (Spike Lee): 7    (http://www.imdb.com/title/tt0097216/)
-8. Patlabor: The Movie (Mamoru Oshii): 7    (http://www.imdb.com/title/tt0100339/)
-9. Casualties of War (Brian DePalma): 7    (http://www.imdb.com/title/tt0097027/)
-10. Tie Me Up! Tie Me Down! (Pedro Almodóvar): 7    (http://www.imdb.com/title/tt0101026/)
-11. Licence to Kill (John Glen): 7    (http://www.imdb.com/title/tt0097742/)
+#========= Best of 1989 (14 movies, your average=7.07) ============================
+1. Majo no takkyûbin (Hayao Miyazaki): 9    (https://www.imdb.com/title/tt0097814/)
+2. Mystery Train (Jim Jarmusch): 9    (https://www.imdb.com/title/tt0097940/)
+3. Indiana Jones and the Last Crusade (Steven Spielberg): 8    (https://www.imdb.com/title/tt0097576/)
+4. Dip huet seung hung (John Woo): 8    (https://www.imdb.com/title/tt0097202/)
+5. Foutaises (Jean-Pierre Jeunet): 8    (https://www.imdb.com/title/tt0080755/)
+6. The Abyss (James Cameron): 8    (https://www.imdb.com/title/tt0096754/)
+7. Sex, Lies, and Videotape (Steven Soderbergh): 8    (https://www.imdb.com/title/tt0098724/)
+8. Do the Right Thing (Spike Lee): 7    (https://www.imdb.com/title/tt0097216/)
+9. Casualties of War (Brian De Palma): 7    (https://www.imdb.com/title/tt0097027/)
+10. Kidô keisatsu patorebâ: Gekijô-ban (Mamoru Oshii): 7    (https://www.imdb.com/title/tt0100339/)
 
-#========= Best of 1990 (21 movies, your average=6.95) ============================
-1. The Hunt for Red October (John McTiernan): 9    (http://www.imdb.com/title/tt0099810/)
-2. The Godfather: Part III (Francis Ford Coppola): 9    (http://www.imdb.com/title/tt0099674/)
-3. Hamlet (Franco Zeffirelli): 9    (http://www.imdb.com/title/tt0099726/)
-4. Gisèle Kérozène (Jan Kounen): 9    (http://www.imdb.com/title/tt0097436/)
-5. Goodfellas (Martin Scorsese): 8    (http://www.imdb.com/title/tt0099685/)
-6. Awakenings (Penny Marshall): 8    (http://www.imdb.com/title/tt0099077/)
-7. My Father's Glory (Yves Robert): 8    (http://www.imdb.com/title/tt0099669/)
-8. The Hairdresser's Husband (Patrice Leconte): 8    (http://www.imdb.com/title/tt0100112/)
-9. Wild at Heart (David Lynch): 8    (http://www.imdb.com/title/tt0100935/)
-10. No Fear, No Die (Claire Denis): 8    (http://www.imdb.com/title/tt0100536/)
-11. Cry-Baby (John Waters): 8    (http://www.imdb.com/title/tt0099329/)
-12. Total Recall (Paul Verhoeven): 7    (http://www.imdb.com/title/tt0100802/)
-13. The Little Gangster (Jacques Doillon): 7    (http://www.imdb.com/title/tt0100357/)
-14. La captive du désert (Raymond Depardon): 7    (http://www.imdb.com/title/tt0099218/)
-15. White Hunter Black Heart (Clint Eastwood): 7    (http://www.imdb.com/title/tt0100928/)
+#========= Best of 1990 (23 movies, your average=6.83) ============================
+1. The Hunt for Red October (John McTiernan): 9    (https://www.imdb.com/title/tt0099810/)
+2. Hamlet (Franco Zeffirelli): 9    (https://www.imdb.com/title/tt0099726/)
+3. Gisèle Kérozène (Jan Kounen): 9    (https://www.imdb.com/title/tt0097436/)
+4. Goodfellas (Martin Scorsese): 8    (https://www.imdb.com/title/tt0099685/)
+5. Awakenings (Penny Marshall): 8    (https://www.imdb.com/title/tt0099077/)
+6. La gloire de mon père (Yves Robert): 8    (https://www.imdb.com/title/tt0099669/)
+7. Le mari de la coiffeuse (Patrice Leconte): 8    (https://www.imdb.com/title/tt0100112/)
+8. Wild at Heart (David Lynch): 8    (https://www.imdb.com/title/tt0100935/)
+9. S'en fout la mort (Claire Denis): 8    (https://www.imdb.com/title/tt0100536/)
+10. Cry-Baby (John Waters): 8    (https://www.imdb.com/title/tt0099329/)
 
 #========= Best of 1991 (15 movies, your average=7.13) ============================
-1. Terminator 2: Judgment Day (James Cameron): 9    (http://www.imdb.com/title/tt0103064/)
-2. The Double Life of Veronique (Krzysztof Kieslowski): 9    (http://www.imdb.com/title/tt0101765/)
-3. Delicatessen (Marc Caro, Jean-Pierre Jeunet): 9    (http://www.imdb.com/title/tt0101700/)
-4. Barton Fink (Joel Coen): 8    (http://www.imdb.com/title/tt0101410/)
-5. Night on Earth (Jim Jarmusch): 8    (http://www.imdb.com/title/tt0102536/)
-6. Point Break (Kathryn Bigelow): 8    (http://www.imdb.com/title/tt0102685/)
-7. Boyz n the Hood (John Singleton): 7    (http://www.imdb.com/title/tt0101507/)
-8. My Own Private Idaho (Gus Van Sant): 7    (http://www.imdb.com/title/tt0102494/)
-9. Naked Lunch (David Cronenberg): 7    (http://www.imdb.com/title/tt0102511/)
-10. La vie des morts (Arnaud Desplechin): 7    (http://www.imdb.com/title/tt0100869/)
-11. 'Merci la vie' (Bertrand Blier): 7    (http://www.imdb.com/title/tt0102436/)
-12. Bugsy (Barry Levinson): 7    (http://www.imdb.com/title/tt0101516/)
-13. A Rage in Harlem (Bill Duke): 7    (http://www.imdb.com/title/tt0102749/)
+1. Terminator 2: Judgment Day (James Cameron): 9    (https://www.imdb.com/title/tt0103064/)
+2. La double vie de Véronique (Krzysztof Kieslowski): 9    (https://www.imdb.com/title/tt0101765/)
+3. Delicatessen (Jean-Pierre Jeunet, Marc Caro): 9    (https://www.imdb.com/title/tt0101700/)
+4. Night on Earth (Jim Jarmusch): 8    (https://www.imdb.com/title/tt0102536/)
+5. Barton Fink (Joel Coen, Ethan Coen): 8    (https://www.imdb.com/title/tt0101410/)
+6. Point Break (Kathryn Bigelow): 8    (https://www.imdb.com/title/tt0102685/)
+7. Boyz n the Hood (John Singleton): 7    (https://www.imdb.com/title/tt0101507/)
+8. Naked Lunch (David Cronenberg): 7    (https://www.imdb.com/title/tt0102511/)
+9. My Own Private Idaho (Gus Van Sant): 7    (https://www.imdb.com/title/tt0102494/)
+10. Bugsy (Barry Levinson): 7    (https://www.imdb.com/title/tt0101516/)
 
-#========= Best of 1992 (20 movies, your average=6.90) ============================
-1. Man Bites Dog (Rémy Belvaux, André Bonzel): 10    (http://www.imdb.com/title/tt0103905/)
-2. Reservoir Dogs (Quentin Tarantino): 9    (http://www.imdb.com/title/tt0105236/)
-3. Unforgiven (Clint Eastwood): 9    (http://www.imdb.com/title/tt0105695/)
-4. La sentinelle (Arnaud Desplechin): 9    (http://www.imdb.com/title/tt0105356/)
-5. Baraka (Ron Fricke): 8    (http://www.imdb.com/title/tt0103767/)
-6. Hard Boiled (John Woo): 8    (http://www.imdb.com/title/tt0104684/)
-7. Life, and Nothing More... (Abbas Kiarostami): 8    (http://www.imdb.com/title/tt0105888/)
-8. Porco Rosso (Hayao Miyazaki): 8    (http://www.imdb.com/title/tt0104652/)
-9. Arizona Dream (Emir Kusturica): 8    (http://www.imdb.com/title/tt0106307/)
-10. Désiré (Albert Dupontel): 8    (http://www.imdb.com/title/tt0242424/)
-11. 1492: Conquest of Paradise (Ridley Scott): 8    (http://www.imdb.com/title/tt0103594/)
-12. La Vie de Bohème (Aki Kaurismäki): 7    (http://www.imdb.com/title/tt0105750/)
-13. The Crying Game (Neil Jordan): 7    (http://www.imdb.com/title/tt0104036/)
-14. Versailles Rive-Gauche (Bruno Podalydès): 7    (http://www.imdb.com/title/tt0105738/)
-15. El mariachi (Robert Rodriguez): 7    (http://www.imdb.com/title/tt0104815/)
+#========= Best of 1992 (19 movies, your average=6.89) ============================
+1. C'est arrivé près de chez vous (Rémy Belvaux, André Bonzel, Benoît Poelvoorde): 10    (https://www.imdb.com/title/tt0103905/)
+2. Reservoir Dogs (Quentin Tarantino): 9    (https://www.imdb.com/title/tt0105236/)
+3. Unforgiven (Clint Eastwood): 9    (https://www.imdb.com/title/tt0105695/)
+4. Kurenai no buta (Hayao Miyazaki): 9    (https://www.imdb.com/title/tt0104652/)
+5. La sentinelle (Arnaud Desplechin): 9    (https://www.imdb.com/title/tt0105356/)
+6. Baraka (Ron Fricke): 8    (https://www.imdb.com/title/tt0103767/)
+7. Zendegi va digar hich (Abbas Kiarostami): 8    (https://www.imdb.com/title/tt0105888/)
+8. Lat sau san taam (John Woo): 8    (https://www.imdb.com/title/tt0104684/)
+9. Désiré (Albert Dupontel): 8    (https://www.imdb.com/title/tt0242424/)
+10. 1492: Conquest of Paradise (Ridley Scott): 8    (https://www.imdb.com/title/tt0103594/)
 
-#========= Best of 1993 (24 movies, your average=6.38) ============================
-1. Sonatine (Takeshi Kitano): 9    (http://www.imdb.com/title/tt0108188/)
-2. A Perfect World (Clint Eastwood): 9    (http://www.imdb.com/title/tt0107808/)
-3. The Age of Innocence (Martin Scorsese): 9    (http://www.imdb.com/title/tt0106226/)
-4. Carlito's Way (Brian De Palma): 8    (http://www.imdb.com/title/tt0106519/)
-5. Dazed and Confused (Richard Linklater): 8    (http://www.imdb.com/title/tt0106677/)
-6. Caro diario (Nanni Moretti): 8    (http://www.imdb.com/title/tt0109382/)
-7. Mad Dog and Glory (John McNaughton): 8    (http://www.imdb.com/title/tt0107473/)
-8. Last Action Hero (John McTiernan): 8    (http://www.imdb.com/title/tt0107362/)
-9. Three Colors: Blue (Krzysztof Kieslowski): 7    (http://www.imdb.com/title/tt0108394/)
-10. Ninja Scroll (Yoshiaki Kawajiri, Quint Lancaster): 7    (http://www.imdb.com/title/tt0107692/)
-11. Falling Down (Joel Schumacher): 7    (http://www.imdb.com/title/tt0106856/)
-12. The Scent of Green Papaya (Tran Anh Hung): 7    (http://www.imdb.com/title/tt0107617/)
-13. Benny & Joon (Jeremiah Chechik): 7    (http://www.imdb.com/title/tt0106387/)
-14. Six Degrees of Separation (Fred Schepisi): 7    (http://www.imdb.com/title/tt0108149/)
-15. Groundhog Day (Harold Ramis): 6    (http://www.imdb.com/title/tt0107048/)
+#========= Best of 1993 (25 movies, your average=6.44) ============================
+1. A Perfect World (Clint Eastwood): 9    (https://www.imdb.com/title/tt0107808/)
+2. Sonatine (Takeshi Kitano): 9    (https://www.imdb.com/title/tt0108188/)
+3. The Age of Innocence (Martin Scorsese): 9    (https://www.imdb.com/title/tt0106226/)
+4. Carlito's Way (Brian De Palma): 8    (https://www.imdb.com/title/tt0106519/)
+5. Dazed and Confused (Richard Linklater): 8    (https://www.imdb.com/title/tt0106677/)
+6. Arizona Dream (Emir Kusturica): 8    (https://www.imdb.com/title/tt0106307/)
+7. Caro diario (Nanni Moretti): 8    (https://www.imdb.com/title/tt0109382/)
+8. Last Action Hero (John McTiernan): 8    (https://www.imdb.com/title/tt0107362/)
+9. Mad Dog and Glory (John McNaughton): 8    (https://www.imdb.com/title/tt0107473/)
+10. Jûbê ninpûchô (Yoshiaki Kawajiri): 7    (https://www.imdb.com/title/tt0107692/)
 
-#========= Best of 1994 (35 movies, your average=7.09) ============================
-1. Peter Gabriel's Secret World (François Girard): 10    (http://www.imdb.com/title/tt0111109/)
-2. Voilà (Bruno Podalydès): 10    (http://www.imdb.com/title/tt0121080/)
-3. Pulp Fiction (Quentin Tarantino): 9    (http://www.imdb.com/title/tt0110912/)
-4. Léon: The Professional (Luc Besson): 9    (http://www.imdb.com/title/tt0110413/)
-5. Chungking Express (Kar Wai Wong): 9    (http://www.imdb.com/title/tt0109424/)
-6. Il Postino: The Postman (Michael Radford): 9    (http://www.imdb.com/title/tt0110877/)
-7. Queen Margot (Patrice Chéreau): 9    (http://www.imdb.com/title/tt0110963/)
-8. Natural Born Killers (Oliver Stone): 9    (http://www.imdb.com/title/tt0110632/)
-9. Dead Tired (Michel Blanc): 9    (http://www.imdb.com/title/tt0109942/)
-10. The Shawshank Redemption (Frank Darabont): 8    (http://www.imdb.com/title/tt0111161/)
-11. Quiz Show (Robert Redford): 8    (http://www.imdb.com/title/tt0110932/)
-12. The Hudsucker Proxy (Joel Coen): 8    (http://www.imdb.com/title/tt0110074/)
-13. Dumb & Dumber (Peter Farrelly): 8    (http://www.imdb.com/title/tt0109686/)
-14. True Lies (James Cameron): 8    (http://www.imdb.com/title/tt0111503/)
-15. Maverick (Richard Donner): 8    (http://www.imdb.com/title/tt0110478/)
+#========= Best of 1994 (37 movies, your average=7.00) ============================
+1. Secret World Live (François Girard): 10    (https://www.imdb.com/title/tt0111109/)
+2. Voilà (Bruno Podalydès): 10    (https://www.imdb.com/title/tt0121080/)
+3. Pulp Fiction (Quentin Tarantino): 9    (https://www.imdb.com/title/tt0110912/)
+4. Léon (Luc Besson): 9    (https://www.imdb.com/title/tt0110413/)
+5. Chung Hing sam lam (Kar-Wai Wong): 9    (https://www.imdb.com/title/tt0109424/)
+6. Il postino (Massimo Troisi, Michael Radford): 9    (https://www.imdb.com/title/tt0110877/)
+7. La Reine Margot (Patrice Chéreau): 9    (https://www.imdb.com/title/tt0110963/)
+8. Natural Born Killers (Oliver Stone): 9    (https://www.imdb.com/title/tt0110632/)
+9. Grosse fatigue (Michel Blanc): 9    (https://www.imdb.com/title/tt0109942/)
+10. The Shawshank Redemption (Frank Darabont): 8    (https://www.imdb.com/title/tt0111161/)
 
-#========= Best of 1995 (37 movies, your average=7.38) ============================
-1. Underground (Emir Kusturica): 10    (http://www.imdb.com/title/tt0114787/)
-2. Casino (Martin Scorsese): 10    (http://www.imdb.com/title/tt0112641/)
-3. Dead Man (Jim Jarmusch): 10    (http://www.imdb.com/title/tt0112817/)
-4. The Bridges of Madison County (Clint Eastwood): 10    (http://www.imdb.com/title/tt0112579/)
-5. Braveheart (Mel Gibson): 9    (http://www.imdb.com/title/tt0112573/)
-6. La Haine (Mathieu Kassovitz): 9    (http://www.imdb.com/title/tt0113247/)
-7. Twelve Monkeys (Terry Gilliam): 9    (http://www.imdb.com/title/tt0114746/)
-8. Ghost in the Shell (Mamoru Oshii): 9    (http://www.imdb.com/title/tt0113568/)
-9. The City of Lost Children (Marc Caro, Jean-Pierre Jeunet): 9    (http://www.imdb.com/title/tt0112682/)
-10. Memories (Kôji Morimoto, Katsuhiro Ohtomo): 9    (http://www.imdb.com/title/tt0113799/)
-11. Les Misérables (Claude Lelouch): 9    (http://www.imdb.com/title/tt0113828/)
-12. Murder in the First (Marc Rocco): 9    (http://www.imdb.com/title/tt0113870/)
-13. Strange Days (Kathryn Bigelow): 9    (http://www.imdb.com/title/tt0114558/)
-14. Se7en (David Fincher): 8    (http://www.imdb.com/title/tt0114369/)
-15. The Usual Suspects (Bryan Singer): 8    (http://www.imdb.com/title/tt0114814/)
+#========= Best of 1995 (39 movies, your average=7.36) ============================
+1. Casino (Martin Scorsese): 10    (https://www.imdb.com/title/tt0112641/)
+2. Underground (Emir Kusturica): 10    (https://www.imdb.com/title/tt0114787/)
+3. Dead Man (Jim Jarmusch): 10    (https://www.imdb.com/title/tt0112817/)
+4. The Bridges of Madison County (Clint Eastwood): 10    (https://www.imdb.com/title/tt0112579/)
+5. Braveheart (Mel Gibson): 9    (https://www.imdb.com/title/tt0112573/)
+6. La haine (Mathieu Kassovitz): 9    (https://www.imdb.com/title/tt0113247/)
+7. Twelve Monkeys (Terry Gilliam): 9    (https://www.imdb.com/title/tt0114746/)
+8. Kôkaku Kidôtai (Mamoru Oshii): 9    (https://www.imdb.com/title/tt0113568/)
+9. Memorîzu (Katsuhiro Ôtomo, Tensai Okamura, Kôji Morimoto): 9    (https://www.imdb.com/title/tt0113799/)
+10. La cité des enfants perdus (Jean-Pierre Jeunet, Marc Caro): 9    (https://www.imdb.com/title/tt0112682/)
 
-#========= Best of 1996 (40 movies, your average=7.05) ============================
-1. Trainspotting (Danny Boyle): 9    (http://www.imdb.com/title/tt0117951/)
-2. Fargo (Joel Coen): 9    (http://www.imdb.com/title/tt0116282/)
-3. Breaking the Waves (Lars Von Trier): 9    (http://www.imdb.com/title/tt0115751/)
-4. Microcosmos (Claude Nuridsany, Marie Pérennou): 9    (http://www.imdb.com/title/tt0117040/)
-5. Family Resemblances (Cédric Klapisch): 9    (http://www.imdb.com/title/tt0118015/)
-6. Bernie (Albert Dupontel): 9    (http://www.imdb.com/title/tt0115658/)
-7. Three Lives and Only One Death (Raoul Ruiz): 9    (http://www.imdb.com/title/tt0117968/)
-8. My Sex Life... or How I Got Into an Argument (Arnaud Desplechin): 9    (http://www.imdb.com/title/tt0115928/)
-9. Hommes, femmes, mode d'emploi (Claude Lelouch): 9    (http://www.imdb.com/title/tt0116555/)
-10. Ponette (Jacques Doillon): 8    (http://www.imdb.com/title/tt0117359/)
-11. The Eighth Day (Jaco Van Dormael): 8    (http://www.imdb.com/title/tt0116581/)
-12. Kids Return (Takeshi Kitano): 8    (http://www.imdb.com/title/tt0116767/)
-13. Ridicule (Patrice Leconte): 8    (http://www.imdb.com/title/tt0117477/)
-14. Le dernier chaperon rouge (Jan Kounen): 8    (http://www.imdb.com/title/tt0116079/)
-15. Jerry Maguire (Cameron Crowe): 8    (http://www.imdb.com/title/tt0116695/)
+#========= Best of 1996 (40 movies, your average=7.02) ============================
+1. Fargo (Joel Coen, Ethan Coen): 9    (https://www.imdb.com/title/tt0116282/)
+2. Trainspotting (Danny Boyle): 9    (https://www.imdb.com/title/tt0117951/)
+3. Microcosmos: Le peuple de l'herbe (Marie Pérennou, Claude Nuridsany): 9    (https://www.imdb.com/title/tt0117040/)
+4. Breaking the Waves (Lars von Trier): 9    (https://www.imdb.com/title/tt0115751/)
+5. Un air de famille (Cédric Klapisch): 9    (https://www.imdb.com/title/tt0118015/)
+6. Bernie (Albert Dupontel): 9    (https://www.imdb.com/title/tt0115658/)
+7. Trois vies et une seule mort (Raoul Ruiz): 9    (https://www.imdb.com/title/tt0117968/)
+8. Comment je me suis disputé... (ma vie sexuelle) (Arnaud Desplechin): 9    (https://www.imdb.com/title/tt0115928/)
+9. Hommes, femmes, mode d'emploi (Claude Lelouch): 9    (https://www.imdb.com/title/tt0116555/)
+10. Le huitième jour (Jaco Van Dormael): 8    (https://www.imdb.com/title/tt0116581/)
 
-#========= Best of 1997 (47 movies, your average=6.87) ============================
-1. Boogie Nights (Paul Thomas Anderson): 9    (http://www.imdb.com/title/tt0118749/)
-2. As Good as It Gets (James L. Brooks): 9    (http://www.imdb.com/title/tt0119822/)
-3. Titanic (James Cameron): 9    (http://www.imdb.com/title/tt0120338/)
-4. Lost Highway (David Lynch): 9    (http://www.imdb.com/title/tt0116922/)
-5. Taste of Cherry (Abbas Kiarostami): 9    (http://www.imdb.com/title/tt0120265/)
-6. The Fifth Element (Luc Besson): 9    (http://www.imdb.com/title/tt0119116/)
-7. Dobermann (Jan Kounen): 9    (http://www.imdb.com/title/tt0118996/)
-8. Alien: Resurrection (Jean-Pierre Jeunet): 9    (http://www.imdb.com/title/tt0118583/)
-9. Life Is Beautiful (Roberto Benigni): 8    (http://www.imdb.com/title/tt0118799/)
-10. Princess Mononoke (Hayao Miyazaki): 8    (http://www.imdb.com/title/tt0119698/)
-11. L.A. Confidential (Curtis Hanson): 8    (http://www.imdb.com/title/tt0119488/)
-12. Good Will Hunting (Gus Van Sant): 8    (http://www.imdb.com/title/tt0119217/)
-13. Fireworks (Takeshi Kitano): 8    (http://www.imdb.com/title/tt0119250/)
-14. Happy Together (Kar Wai Wong): 8    (http://www.imdb.com/title/tt0118845/)
-15. Gattaca (Andrew Niccol): 8    (http://www.imdb.com/title/tt0119177/)
+#========= Best of 1997 (46 movies, your average=6.87) ============================
+1. Boogie Nights (Paul Thomas Anderson): 9    (https://www.imdb.com/title/tt0118749/)
+2. Titanic (James Cameron): 9    (https://www.imdb.com/title/tt0120338/)
+3. The Fifth Element (Luc Besson): 9    (https://www.imdb.com/title/tt0119116/)
+4. As Good as It Gets (James L. Brooks): 9    (https://www.imdb.com/title/tt0119822/)
+5. Ta'm e guilass (Abbas Kiarostami): 9    (https://www.imdb.com/title/tt0120265/)
+6. Lost Highway (David Lynch): 9    (https://www.imdb.com/title/tt0116922/)
+7. Dobermann (Jan Kounen): 9    (https://www.imdb.com/title/tt0118996/)
+8. Alien: Resurrection (Jean-Pierre Jeunet): 9    (https://www.imdb.com/title/tt0118583/)
+9. La vita è bella (Roberto Benigni): 8    (https://www.imdb.com/title/tt0118799/)
+10. Mononoke-hime (Hayao Miyazaki): 8    (https://www.imdb.com/title/tt0119698/)
 
-#========= Best of 1998 (55 movies, your average=7.09) ============================
-1. The Big Lebowski (Joel Coen): 10    (http://www.imdb.com/title/tt0118715/)
-2. The Thin Red Line (Terrence Malick): 10    (http://www.imdb.com/title/tt0120863/)
-3. American History X (Tony Kaye): 9    (http://www.imdb.com/title/tt0120586/)
-4. Black Cat, White Cat (Emir Kusturica): 9    (http://www.imdb.com/title/tt0118843/)
-5. The Celebration (): 9    (http://www.imdb.com/title/tt0154420/)
-6. Phil Collins: Live and Loose in Paris (David Mallet): 9    (http://www.imdb.com/title/tt0273956/)
-7. Lovers of the Arctic Circle (Julio Medem): 9    (http://www.imdb.com/title/tt0133363/)
-8. Rushmore (Wes Anderson): 9    (http://www.imdb.com/title/tt0128445/)
-9. Run Lola Run (Tom Tykwer): 9    (http://www.imdb.com/title/tt0130827/)
-10. The Dinner Game (Francis Veber): 9    (http://www.imdb.com/title/tt0119038/)
-11. The Adopted Son (Aktan Abdykalykov): 9    (http://www.imdb.com/title/tt0166503/)
-12. Late August, Early September (Olivier Assayas): 9    (http://www.imdb.com/title/tt0167925/)
-13. Lock, Stock and Two Smoking Barrels (Guy Ritchie): 8    (http://www.imdb.com/title/tt0120735/)
-14. The Truman Show (Peter Weir): 8    (http://www.imdb.com/title/tt0120382/)
-15. Happiness (Todd Solondz): 8    (http://www.imdb.com/title/tt0147612/)
+#========= Best of 1998 (57 movies, your average=7.09) ============================
+1. The Big Lebowski (Joel Coen, Ethan Coen): 10    (https://www.imdb.com/title/tt0118715/)
+2. The Thin Red Line (Terrence Malick): 10    (https://www.imdb.com/title/tt0120863/)
+3. American History X (Tony Kaye): 9    (https://www.imdb.com/title/tt0120586/)
+4. Phil Collins: Live and Loose in Paris (David Mallet): 9    (https://www.imdb.com/title/tt0273956/)
+5. Crna macka, beli macor (Emir Kusturica): 9    (https://www.imdb.com/title/tt0118843/)
+6. Festen (Thomas Vinterberg): 9    (https://www.imdb.com/title/tt0154420/)
+7. Rushmore (Wes Anderson): 9    (https://www.imdb.com/title/tt0128445/)
+8. Le dîner de cons (Francis Veber): 9    (https://www.imdb.com/title/tt0119038/)
+9. Los amantes del Círculo Polar (Julio Medem): 9    (https://www.imdb.com/title/tt0133363/)
+10. Lola rennt (Tom Tykwer): 9    (https://www.imdb.com/title/tt0130827/)
 
-#========= Best of 1999 (68 movies, your average=6.91) ============================
-1. Ghost Dog: The Way of the Samurai (Jim Jarmusch): 10    (http://www.imdb.com/title/tt0165798/)
-2. The Sopranos (): 9    (http://www.imdb.com/title/tt0141842/)
-3. Fight Club (David Fincher): 9    (http://www.imdb.com/title/tt0137523/)
-4. Magnolia (Paul Thomas Anderson): 9    (http://www.imdb.com/title/tt0175880/)
-5. Toy Story 2 (John Lasseter, Ash Brannon): 9    (http://www.imdb.com/title/tt0120363/)
-6. Jin-Roh: The Wolf Brigade (Hiroyuki Okiura): 9    (http://www.imdb.com/title/tt0193253/)
-7. Girl on the Bridge (Patrice Leconte): 9    (http://www.imdb.com/title/tt0144201/)
-8. Man on the Moon (Milos Forman): 9    (http://www.imdb.com/title/tt0125664/)
-9. The Mission (Johnnie To): 9    (http://www.imdb.com/title/tt0220644/)
-10. Les convoyeurs attendent (Benoît Mariage): 9    (http://www.imdb.com/title/tt0201538/)
-11. The Matrix (The Wachowski Brothers, The Wachowski Brothers): 8    (http://www.imdb.com/title/tt0133093/)
-12. American Beauty (Sam Mendes): 8    (http://www.imdb.com/title/tt0169547/)
-13. The Sixth Sense (M. Night Shyamalan): 8    (http://www.imdb.com/title/tt0167404/)
-14. Sarah McLachlan: Mirrorball (Sophie Muller): 8    (http://www.imdb.com/title/tt0500132/)
-15. The Wind Will Carry Us (Abbas Kiarostami): 8    (http://www.imdb.com/title/tt0209463/)
+#========= Best of 1999 (69 movies, your average=6.87) ============================
+1. Ghost Dog: The Way of the Samurai (Jim Jarmusch): 10    (https://www.imdb.com/title/tt0165798/)
+2. The Sopranos (): 9    (https://www.imdb.com/title/tt0141842/)
+3. Fight Club (David Fincher): 9    (https://www.imdb.com/title/tt0137523/)
+4. Magnolia (Paul Thomas Anderson): 9    (https://www.imdb.com/title/tt0175880/)
+5. La fille sur le pont (Patrice Leconte): 9    (https://www.imdb.com/title/tt0144201/)
+6. Cheung foh (Johnnie To): 9    (https://www.imdb.com/title/tt0220644/)
+7. Man on the Moon (Milos Forman): 9    (https://www.imdb.com/title/tt0125664/)
+8. Jin-Rô (Hiroyuki Okiura): 9    (https://www.imdb.com/title/tt0193253/)
+9. Les convoyeurs attendent (Benoît Mariage): 9    (https://www.imdb.com/title/tt0201538/)
+10. The Matrix (Lilly Wachowski, Lana Wachowski): 8    (https://www.imdb.com/title/tt0133093/)
 
-#========= Best of 2000 (79 movies, your average=6.77) ============================
-1. Amores Perros (Alejandro González Iñárritu): 9    (http://www.imdb.com/title/tt0245712/)
-2. In the Mood for Love (Kar Wai Wong): 9    (http://www.imdb.com/title/tt0118694/)
-3. O Brother, Where Art Thou? (Joel Coen): 9    (http://www.imdb.com/title/tt0190590/)
-4. Walking on the Wild Side (Dominique Abel, Fiona Gordon): 9    (http://www.imdb.com/title/tt0266031/)
-5. The Wrestlers (Buddhadev Dasgupta): 9    (http://www.imdb.com/title/tt0255665/)
-6. The Million Dollar Hotel (Wim Wenders): 9    (http://www.imdb.com/title/tt0120753/)
-7. Memento (Christopher Nolan): 8    (http://www.imdb.com/title/tt0209144/)
-8. Snatch. (Guy Ritchie): 8    (http://www.imdb.com/title/tt0208092/)
-9. Requiem for a Dream (Darren Aronofsky): 8    (http://www.imdb.com/title/tt0180093/)
-10. Vagrant Story (Yasumi Matsuno): 8    (http://www.imdb.com/title/tt0253879/)
-11. Yi Yi (Edward Yang): 8    (http://www.imdb.com/title/tt0244316/)
-12. Crouching Tiger, Hidden Dragon (Ang Lee): 8    (http://www.imdb.com/title/tt0190332/)
-13. Traffic (Steven Soderbergh): 8    (http://www.imdb.com/title/tt0181865/)
-14. Cast Away (Robert Zemeckis): 8    (http://www.imdb.com/title/tt0162222/)
-15. Bread and Tulips (Silvio Soldini): 8    (http://www.imdb.com/title/tt0237539/)
+#========= Best of 2000 (81 movies, your average=6.80) ============================
+1. Amores perros (Alejandro G. Iñárritu): 9    (https://www.imdb.com/title/tt0245712/)
+2. Faa yeung nin wa (Kar-Wai Wong): 9    (https://www.imdb.com/title/tt0118694/)
+3. O Brother, Where Art Thou? (Joel Coen, Ethan Coen): 9    (https://www.imdb.com/title/tt0190590/)
+4. Best in Show (Christopher Guest): 9    (https://www.imdb.com/title/tt0218839/)
+5. Walking on the Wild Side (Fiona Gordon, Dominique Abel): 9    (https://www.imdb.com/title/tt0266031/)
+6. Uttara (Buddhadev Dasgupta): 9    (https://www.imdb.com/title/tt0255665/)
+7. The Million Dollar Hotel (Wim Wenders): 9    (https://www.imdb.com/title/tt0120753/)
+8. Vagrant Story (Yasumi Matsuno): 8    (https://www.imdb.com/title/tt0253879/)
+9. Memento (Christopher Nolan): 8    (https://www.imdb.com/title/tt0209144/)
+10. Requiem for a Dream (Darren Aronofsky): 8    (https://www.imdb.com/title/tt0180093/)
 
-#========= Best of 2001 (83 movies, your average=6.42) ============================
-1. Band of Brothers (): 9    (http://www.imdb.com/title/tt0185906/)
-2. Powder Keg (Alejandro González Iñárritu): 9    (http://www.imdb.com/title/tt0285930/)
-3. The Follow (WKW): 9    (http://www.imdb.com/title/tt0285104/)
-4. The Man Who Wasn't There (Joel Coen): 9    (http://www.imdb.com/title/tt0243133/)
-5. Profils paysans: l'approche (Raymond Depardon): 9    (http://www.imdb.com/title/tt0284409/)
-6. What Time Is It Over There? (Ming-liang Tsai): 9    (http://www.imdb.com/title/tt0269746/)
-7. Monster's Ball (Marc Forster): 9    (http://www.imdb.com/title/tt0285742/)
-8. Super 8 Stories (Emir Kusturica): 9    (http://www.imdb.com/title/tt0278069/)
-9. The Pornographer (Bertrand Bonello): 9    (http://www.imdb.com/title/tt0262699/)
-10. The Lord of the Rings: The Fellowship of the Ring (Peter Jackson): 8    (http://www.imdb.com/title/tt0120737/)
-11. The Office (): 8    (http://www.imdb.com/title/tt0290978/)
-12. 24 (): 8    (http://www.imdb.com/title/tt0285331/)
-13. Amélie (Jean-Pierre Jeunet): 8    (http://www.imdb.com/title/tt0211915/)
-14. Murder on a Sunday Morning (Jean-Xavier de Lestrade): 8    (http://www.imdb.com/title/tt0307197/)
-15. Monsters, Inc. (Pete Docter, David Silverman): 8    (http://www.imdb.com/title/tt0198781/)
+#========= Best of 2001 (87 movies, your average=6.45) ============================
+1. Band of Brothers (): 9    (https://www.imdb.com/title/tt0185906/)
+2. Six Feet Under (): 9    (https://www.imdb.com/title/tt0248654/)
+3. Powder Keg (Alejandro G. Iñárritu): 9    (https://www.imdb.com/title/tt0285930/)
+4. The Man Who Wasn't There (Joel Coen, Ethan Coen): 9    (https://www.imdb.com/title/tt0243133/)
+5. Profils paysans: l'approche (Raymond Depardon): 9    (https://www.imdb.com/title/tt0284409/)
+6. The Follow (Kar-Wai Wong): 9    (https://www.imdb.com/title/tt0285104/)
+7. Ni na bian ji dian (Ming-liang Tsai): 9    (https://www.imdb.com/title/tt0269746/)
+8. Monster's Ball (Marc Forster): 9    (https://www.imdb.com/title/tt0285742/)
+9. Super 8 Stories (Emir Kusturica): 9    (https://www.imdb.com/title/tt0278069/)
+10. Le pornographe (Bertrand Bonello): 9    (https://www.imdb.com/title/tt0262699/)
 
-#========= Best of 2002 (67 movies, your average=6.55) ============================
-1. The Wire (): 9    (http://www.imdb.com/title/tt0306414/)
-2. Talk to Her (Pedro Almodóvar): 9    (http://www.imdb.com/title/tt0287467/)
-3. The Man Without a Past (Aki Kaurismäki): 9    (http://www.imdb.com/title/tt0311519/)
-4. Ten (Abbas Kiarostami): 9    (http://www.imdb.com/title/tt0301978/)
-5. On the Run (Lucas Belvaux): 9    (http://www.imdb.com/title/tt0233418/)
-6. Firefly (): 8    (http://www.imdb.com/title/tt0303461/)
-7. The Shield (): 8    (http://www.imdb.com/title/tt0286486/)
-8. Infernal Affairs (Andrew Lau, Alan Mak): 8    (http://www.imdb.com/title/tt0338564/)
-9. To Be and to Have (Nicolas Philibert): 8    (http://www.imdb.com/title/tt0318202/)
-10. 25th Hour (Spike Lee): 8    (http://www.imdb.com/title/tt0307901/)
-11. Distant (Nuri Bilge Ceylan): 8    (http://www.imdb.com/title/tt0346094/)
-12. The Son (Jean-Pierre Dardenne, Luc Dardenne): 8    (http://www.imdb.com/title/tt0291172/)
-13. Gangs of New York (Martin Scorsese): 8    (http://www.imdb.com/title/tt0217505/)
-14. 24 Hour Party People (Michael Winterbottom): 8    (http://www.imdb.com/title/tt0274309/)
-15. L'Auberge Espagnole (Cédric Klapisch): 8    (http://www.imdb.com/title/tt0283900/)
+#========= Best of 2002 (68 movies, your average=6.56) ============================
+1. The Wire (): 9    (https://www.imdb.com/title/tt0306414/)
+2. Hable con ella (Pedro Almodóvar): 9    (https://www.imdb.com/title/tt0287467/)
+3. Mies vailla menneisyyttä (Aki Kaurismäki): 9    (https://www.imdb.com/title/tt0311519/)
+4. Dah (Abbas Kiarostami): 9    (https://www.imdb.com/title/tt0301978/)
+5. Cavale (Lucas Belvaux): 9    (https://www.imdb.com/title/tt0233418/)
+6. Firefly (): 8    (https://www.imdb.com/title/tt0303461/)
+7. The Shield (): 8    (https://www.imdb.com/title/tt0286486/)
+8. Mou gaan dou (Andrew Lau, Alan Mak): 8    (https://www.imdb.com/title/tt0338564/)
+9. Être et avoir (Nicolas Philibert): 8    (https://www.imdb.com/title/tt0318202/)
+10. Uzak (Nuri Bilge Ceylan): 8    (https://www.imdb.com/title/tt0346094/)
 
-#========= Best of 2003 (62 movies, your average=6.39) ============================
-1. Lost in Translation (Sofia Coppola): 9    (http://www.imdb.com/title/tt0335266/)
-2. Elephant (Gus Van Sant): 9    (http://www.imdb.com/title/tt0363589/)
-3. Twentynine Palms (Bruno Dumont): 9    (http://www.imdb.com/title/tt0315110/)
-4. The Best of Youth (Marco Tullio Giordana): 8    (http://www.imdb.com/title/tt0346336/)
-5. Oldboy (Chan-wook Park): 8    (http://www.imdb.com/title/tt0364569/)
-6. Memories of Murder (Joon-ho Bong): 8    (http://www.imdb.com/title/tt0353969/)
-7. Shara (Naomi Kawase): 8    (http://www.imdb.com/title/tt0363060/)
-8. 21 Grams (Alejandro González Iñárritu): 8    (http://www.imdb.com/title/tt0315733/)
-9. Last Life in the Universe (Pen-Ek Ratanaruang): 8    (http://www.imdb.com/title/tt0345549/)
-10. Kitchen Stories (Bent Hamer): 8    (http://www.imdb.com/title/tt0323872/)
-11. Infernal Affairs 2 (Andrew Lau, Alan Mak): 8    (http://www.imdb.com/title/tt0369060/)
-12. S21: The Khmer Rouge Death Machine (Rithy Panh): 8    (http://www.imdb.com/title/tt0368954/)
-13. Tarnation (Jonathan Caouette): 8    (http://www.imdb.com/title/tt0390538/)
-14. Coffee and Cigarettes (Jim Jarmusch): 8    (http://www.imdb.com/title/tt0379217/)
-15. Games of Love and Chance (Abdellatif Kechiche): 8    (http://www.imdb.com/title/tt0338977/)
+#========= Best of 2003 (63 movies, your average=6.43) ============================
+1. Touching the Void (Kevin Macdonald): 9    (https://www.imdb.com/title/tt0379557/)
+2. Lost in Translation (Sofia Coppola): 9    (https://www.imdb.com/title/tt0335266/)
+3. Elephant (Gus Van Sant): 9    (https://www.imdb.com/title/tt0363589/)
+4. Twentynine Palms (Bruno Dumont): 9    (https://www.imdb.com/title/tt0315110/)
+5. La meglio gioventù (Marco Tullio Giordana): 8    (https://www.imdb.com/title/tt0346336/)
+6. Oldeuboi (Chan-wook Park): 8    (https://www.imdb.com/title/tt0364569/)
+7. Salinui chueok (Bong Joon Ho): 8    (https://www.imdb.com/title/tt0353969/)
+8. 21 Grams (Alejandro G. Iñárritu): 8    (https://www.imdb.com/title/tt0315733/)
+9. Ruang rak noi nid mahasan (Pen-Ek Ratanaruang): 8    (https://www.imdb.com/title/tt0345549/)
+10. Sharasôju (Naomi Kawase): 8    (https://www.imdb.com/title/tt0363060/)
 
-#========= Best of 2004 (63 movies, your average=6.08) ============================
-1. The Incredibles (Brad Bird): 9    (http://www.imdb.com/title/tt0317705/)
-2. The Life Aquatic with Steve Zissou (Wes Anderson): 9    (http://www.imdb.com/title/tt0362270/)
-3. Lost (): 8    (http://www.imdb.com/title/tt0411008/)
-4. Downfall (Oliver Hirschbiegel): 8    (http://www.imdb.com/title/tt0363163/)
-5. Howl's Moving Castle (Hayao Miyazaki): 8    (http://www.imdb.com/title/tt0347149/)
-6. Nobody Knows (Hirokazu Koreeda): 8    (http://www.imdb.com/title/tt0408664/)
-7. Million Dollar Baby (Clint Eastwood): 8    (http://www.imdb.com/title/tt0405159/)
-8. Garden State (Zach Braff): 8    (http://www.imdb.com/title/tt0333766/)
-9. The White Diamond (Werner Herzog): 8    (http://www.imdb.com/title/tt0435776/)
-10. Henri Langlois: The Phantom of the Cinémathèque (Jacques Richard): 8    (http://www.imdb.com/title/tt0412703/)
-11. Sideways (Alexander Payne): 8    (http://www.imdb.com/title/tt0375063/)
-12. Closer (Mike Nichols): 8    (http://www.imdb.com/title/tt0376541/)
-13. Earth from Above (Renaud Delourme): 8    (http://www.imdb.com/title/tt0423363/)
-14. Le grand voyage (Ismaël Ferroukhi): 8    (http://www.imdb.com/title/tt0361670/)
-15. The Woodsman (Nicole Kassell): 8    (http://www.imdb.com/title/tt0361127/)
+#========= Best of 2004 (64 movies, your average=6.11) ============================
+1. The Incredibles (Brad Bird): 9    (https://www.imdb.com/title/tt0317705/)
+2. The Life Aquatic with Steve Zissou (Wes Anderson): 9    (https://www.imdb.com/title/tt0362270/)
+3. Lost (): 8    (https://www.imdb.com/title/tt0411008/)
+4. Der Untergang (Oliver Hirschbiegel): 8    (https://www.imdb.com/title/tt0363163/)
+5. Hauru no ugoku shiro (Hayao Miyazaki): 8    (https://www.imdb.com/title/tt0347149/)
+6. Million Dollar Baby (Clint Eastwood): 8    (https://www.imdb.com/title/tt0405159/)
+7. Dare mo shiranai (Hirokazu Koreeda): 8    (https://www.imdb.com/title/tt0408664/)
+8. Before Sunset (Richard Linklater): 8    (https://www.imdb.com/title/tt0381681/)
+9. Le fantôme d'Henri Langlois (Jacques Richard): 8    (https://www.imdb.com/title/tt0412703/)
+10. La Terre vue du ciel (Renaud Delourme): 8    (https://www.imdb.com/title/tt0423363/)
 
-#========= Best of 2005 (64 movies, your average=6.41) ============================
-1. The Child (Jean-Pierre Dardenne, Luc Dardenne): 9    (http://www.imdb.com/title/tt0456396/)
-2. Sin City (Frank Miller, Robert Rodriguez): 8    (http://www.imdb.com/title/tt0401792/)
-3. Diggnation (): 8    (http://www.imdb.com/title/tt0875855/)
-4. Grizzly Man (Werner Herzog): 8    (http://www.imdb.com/title/tt0427312/)
-5. Munich (Steven Spielberg): 8    (http://www.imdb.com/title/tt0408306/)
-6. Brokeback Mountain (Ang Lee): 8    (http://www.imdb.com/title/tt0388795/)
-7. Match Point (Woody Allen): 8    (http://www.imdb.com/title/tt0416320/)
-8. Profils paysans: le quotidien (Raymond Depardon): 8    (http://www.imdb.com/title/tt0442424/)
-9. Live 8 (Bruce Gowers, Nick Hopkin): 8    (http://www.imdb.com/title/tt0462403/)
-10. The Sun (Aleksandr Sokurov): 8    (http://www.imdb.com/title/tt0439817/)
-11. Be with Me (Eric Khoo): 8    (http://www.imdb.com/title/tt0463903/)
-12. Broken Flowers (Jim Jarmusch): 8    (http://www.imdb.com/title/tt0412019/)
-13. Syriana (Stephen Gaghan): 8    (http://www.imdb.com/title/tt0365737/)
-14. Wedding Crashers (David Dobkin): 8    (http://www.imdb.com/title/tt0396269/)
-15. 4:30 (Royston Tan): 8    (http://www.imdb.com/title/tt0497877/)
+#========= Best of 2005 (67 movies, your average=6.43) ============================
+1. L'enfant (Luc Dardenne, Jean-Pierre Dardenne): 9    (https://www.imdb.com/title/tt0456396/)
+2. Diggnation (): 8    (https://www.imdb.com/title/tt0875855/)
+3. Sin City (Frank Miller, Quentin Tarantino, Robert Rodriguez): 8    (https://www.imdb.com/title/tt0401792/)
+4. Grizzly Man (Werner Herzog): 8    (https://www.imdb.com/title/tt0427312/)
+5. Brokeback Mountain (Ang Lee): 8    (https://www.imdb.com/title/tt0388795/)
+6. Profils paysans: le quotidien (Raymond Depardon): 8    (https://www.imdb.com/title/tt0442424/)
+7. Match Point (Woody Allen): 8    (https://www.imdb.com/title/tt0416320/)
+8. Live 8 (Michael Maier, Nick Hopkin, Bruce Gowers, Geoff Posner, Richard Valentine, Paul Flattery, Claire Popplewell, Michael Watt): 8    (https://www.imdb.com/title/tt0462403/)
+9. Munich (Steven Spielberg): 8    (https://www.imdb.com/title/tt0408306/)
+10. Solntse (Aleksandr Sokurov): 8    (https://www.imdb.com/title/tt0439817/)
 
-#========= Best of 2006 (71 movies, your average=6.10) ============================
-1. Khadak (Peter Brosens, Jessica Hope Woodworth): 9    (http://www.imdb.com/title/tt0475241/)
-2. Bamako (Abderrahmane Sissako): 9    (http://www.imdb.com/title/tt0814666/)
-3. Dexter (): 8    (http://www.imdb.com/title/tt0773262/)
-4. The Battle of Chernobyl (Thomas Johnson): 8    (http://www.imdb.com/title/tt1832484/)
-5. Letters from Iwo Jima (Clint Eastwood): 8    (http://www.imdb.com/title/tt0498380/)
-6. Children of Men (Alfonso Cuarón): 8    (http://www.imdb.com/title/tt0206634/)
-7. Inside Man (Spike Lee): 8    (http://www.imdb.com/title/tt0454848/)
-8. Tekkonkinkreet (Maikeru Ariasu): 8    (http://www.imdb.com/title/tt0831888/)
-9. United 93 (Paul Greengrass): 8    (http://www.imdb.com/title/tt0475276/)
-10. This Film Is Not Yet Rated (Kirby Dick): 8    (http://www.imdb.com/title/tt0493459/)
-11. The Wind That Shakes the Barley (Ken Loach): 8    (http://www.imdb.com/title/tt0460989/)
-12. Volver (Pedro Almodóvar): 8    (http://www.imdb.com/title/tt0441909/)
-13. Syndromes and a Century (Apichatpong Weerasethakul): 8    (http://www.imdb.com/title/tt0477731/)
-14. Rescue Dawn (Werner Herzog): 8    (http://www.imdb.com/title/tt0462504/)
-15. Exiled (Johnnie To): 8    (http://www.imdb.com/title/tt0796212/)
+#========= Best of 2006 (74 movies, your average=6.14) ============================
+1. Planet Earth (): 10    (https://www.imdb.com/title/tt0795176/)
+2. Khadak (Jessica Woodworth, Peter Brosens): 9    (https://www.imdb.com/title/tt0475241/)
+3. Bamako (Abderrahmane Sissako): 9    (https://www.imdb.com/title/tt0814666/)
+4. Dexter (): 8    (https://www.imdb.com/title/tt0773262/)
+5. The Battle of Chernobyl (Thomas Johnson): 8    (https://www.imdb.com/title/tt1832484/)
+6. Letters from Iwo Jima (Clint Eastwood): 8    (https://www.imdb.com/title/tt0498380/)
+7. Children of Men (Alfonso Cuarón): 8    (https://www.imdb.com/title/tt0206634/)
+8. Inside Man (Spike Lee): 8    (https://www.imdb.com/title/tt0454848/)
+9. Tekkon kinkurîto (Michael Arias): 8    (https://www.imdb.com/title/tt0831888/)
+10. Volver (Pedro Almodóvar): 8    (https://www.imdb.com/title/tt0441909/)
 
-#========= Best of 2007 (49 movies, your average=6.43) ============================
-1. The Big Bang Theory (): 9    (http://www.imdb.com/title/tt0898266/)
-2. The Secret of the Grain (Abdellatif Kechiche): 9    (http://www.imdb.com/title/tt0487419/)
-3. Paranoid Park (Gus Van Sant): 9    (http://www.imdb.com/title/tt0842929/)
-4. Into the Wild (Sean Penn): 8    (http://www.imdb.com/title/tt0758758/)
-5. No Country for Old Men (Ethan Coen, Joel Coen): 8    (http://www.imdb.com/title/tt0477348/)
-6. There Will Be Blood (Paul Thomas Anderson): 8    (http://www.imdb.com/title/tt0469494/)
-7. In the Shadow of the Moon (David Sington): 8    (http://www.imdb.com/title/tt0925248/)
-8. Persepolis (Vincent Paronnaud, Marjane Satrapi): 8    (http://www.imdb.com/title/tt0808417/)
-9. Grindhouse (Robert Rodriguez, Eli Roth): 8    (http://www.imdb.com/title/tt0462322/)
-10. La Vie en Rose (Olivier Dahan): 8    (http://www.imdb.com/title/tt0450188/)
-11. Zodiac (David Fincher): 8    (http://www.imdb.com/title/tt0443706/)
-12. Lust, Caution (Ang Lee): 8    (http://www.imdb.com/title/tt0808357/)
-13. Terror's Advocate (Barbet Schroeder): 8    (http://www.imdb.com/title/tt1032854/)
-14. Fujian Blue (Weng Shou Ming): 8    (http://www.imdb.com/title/tt1135971/)
-15. Disengagement (Amos Gitai): 8    (http://www.imdb.com/title/tt0871512/)
+#========= Best of 2007 (55 movies, your average=6.49) ============================
+1. The Big Bang Theory (): 9    (https://www.imdb.com/title/tt0898266/)
+2. La graine et le mulet (Abdellatif Kechiche): 9    (https://www.imdb.com/title/tt0487419/)
+3. Paranoid Park (Gus Van Sant): 9    (https://www.imdb.com/title/tt0842929/)
+4. Forbrydelsen (): 8    (https://www.imdb.com/title/tt0826760/)
+5. Californication (): 8    (https://www.imdb.com/title/tt0904208/)
+6. There Will Be Blood (Paul Thomas Anderson): 8    (https://www.imdb.com/title/tt0469494/)
+7. Into the Wild (Sean Penn): 8    (https://www.imdb.com/title/tt0758758/)
+8. No Country for Old Men (Joel Coen, Ethan Coen): 8    (https://www.imdb.com/title/tt0477348/)
+9. Persepolis (Marjane Satrapi, Vincent Paronnaud): 8    (https://www.imdb.com/title/tt0808417/)
+10. In the Shadow of the Moon (David Sington): 8    (https://www.imdb.com/title/tt0925248/)
 
-#========= Best of 2008 (69 movies, your average=5.91) ============================
-1. Breaking Bad (): 10    (http://www.imdb.com/title/tt0903747/)
-2. Terminator: The Sarah Connor Chronicles: Today Is the Day: Part 2 (Guy Norman Bee): 9    (http://www.imdb.com/title/tt1329930/)
-3. The Wrestler (Darren Aronofsky): 9    (http://www.imdb.com/title/tt1125849/)
-4. 24 City (Zhangke Jia): 9    (http://www.imdb.com/title/tt1103963/)
-5. WALL·E (Andrew Stanton): 8    (http://www.imdb.com/title/tt0910970/)
-6. Gran Torino (Clint Eastwood): 8    (http://www.imdb.com/title/tt1205489/)
-7. Waltz with Bashir (Ari Folman): 8    (http://www.imdb.com/title/tt1185616/)
-8. Frost/Nixon (Ron Howard): 8    (http://www.imdb.com/title/tt0870111/)
-9. The Curious Case of Benjamin Button (David Fincher): 8    (http://www.imdb.com/title/tt0421715/)
-10. Terminator: The Sarah Connor Chronicles (): 8    (http://www.imdb.com/title/tt0851851/)
-11. The Class (Laurent Cantet): 8    (http://www.imdb.com/title/tt1068646/)
-12. Modern Life (Raymond Depardon): 8    (http://www.imdb.com/title/tt0881310/)
-13. Worlds Apart (Niels Arden Oplev): 8    (http://www.imdb.com/title/tt1065318/)
-14. A Christmas Tale (Arnaud Desplechin): 8    (http://www.imdb.com/title/tt0993789/)
-15. La forteresse (Fernand Melgar): 8    (http://www.imdb.com/title/tt1323518/)
+#========= Best of 2008 (73 movies, your average=5.96) ============================
+1. Breaking Bad (): 10    (https://www.imdb.com/title/tt0903747/)
+2. The Wrestler (Darren Aronofsky): 9    (https://www.imdb.com/title/tt1125849/)
+3. Er shi si cheng ji (Zhangke Jia): 9    (https://www.imdb.com/title/tt1103963/)
+4. WALL·E (Andrew Stanton): 8    (https://www.imdb.com/title/tt0910970/)
+5. Gran Torino (Clint Eastwood): 8    (https://www.imdb.com/title/tt1205489/)
+6. Vals Im Bashir (Ari Folman): 8    (https://www.imdb.com/title/tt1185616/)
+7. The Curious Case of Benjamin Button (David Fincher): 8    (https://www.imdb.com/title/tt0421715/)
+8. Profils paysans: La Vie moderne (Raymond Depardon): 8    (https://www.imdb.com/title/tt0881310/)
+9. Frost/Nixon (Ron Howard): 8    (https://www.imdb.com/title/tt0870111/)
+10. Man on Wire (James Marsh): 8    (https://www.imdb.com/title/tt1155592/)
 
-#========= Best of 2009 (45 movies, your average=6.02) ============================
-1. Bored to Death (): 9    (http://www.imdb.com/title/tt1255913/)
-2. Up (Pete Docter, Bob Peterson): 8    (http://www.imdb.com/title/tt1049413/)
-3. District 9 (Neill Blomkamp): 8    (http://www.imdb.com/title/tt1136608/)
-4. The Girl with the Dragon Tattoo (Niels Arden Oplev): 8    (http://www.imdb.com/title/tt1132620/)
-5. Fantastic Mr. Fox (Wes Anderson): 8    (http://www.imdb.com/title/tt0432283/)
-6. Up in the Air (Jason Reitman): 8    (http://www.imdb.com/title/tt1193138/)
-7. Crazy Heart (Scott Cooper): 8    (http://www.imdb.com/title/tt1263670/)
-8. The Bad Lieutenant: Port of Call - New Orleans (Werner Herzog): 8    (http://www.imdb.com/title/tt1095217/)
-9. Moon (Duncan Jones): 7    (http://www.imdb.com/title/tt1182345/)
-10. Avatar (James Cameron): 7    (http://www.imdb.com/title/tt0499549/)
-11. I Killed My Mother (Xavier Dolan): 7    (http://www.imdb.com/title/tt1424797/)
-12. The Road (John Hillcoat): 7    (http://www.imdb.com/title/tt0898367/)
-13. Hung (): 7    (http://www.imdb.com/title/tt1229413/)
-14. The Girl Who Kicked the Hornet's Nest (Daniel Alfredson): 7    (http://www.imdb.com/title/tt1343097/)
-15. Objectified (Gary Hustwit): 7    (http://www.imdb.com/title/tt1241325/)
+#========= Best of 2009 (52 movies, your average=6.13) ============================
+1. Terminator: The Sarah Connor Chronicles: Today Is the Day: Part 2 (Guy Norman Bee): 9    (https://www.imdb.com/title/tt1329930/)
+2. Bored to Death (): 9    (https://www.imdb.com/title/tt1255913/)
+3. Life (): 8    (https://www.imdb.com/title/tt1533395/)
+4. Up (Pete Docter, Bob Peterson): 8    (https://www.imdb.com/title/tt1049413/)
+5. Fantastic Mr. Fox (Wes Anderson): 8    (https://www.imdb.com/title/tt0432283/)
+6. District 9 (Neill Blomkamp): 8    (https://www.imdb.com/title/tt1136608/)
+7. Män som hatar kvinnor (Niels Arden Oplev): 8    (https://www.imdb.com/title/tt1132620/)
+8. Up in the Air (Jason Reitman): 8    (https://www.imdb.com/title/tt1193138/)
+9. Crazy Heart (Scott Cooper): 8    (https://www.imdb.com/title/tt1263670/)
+10. Hadewijch (Bruno Dumont): 8    (https://www.imdb.com/title/tt1257562/)
 
-#========= Best of 2010 (42 movies, your average=5.83) ============================
-1. Into Eternity: A Film for the Future (Michael Madsen): 10    (http://www.imdb.com/title/tt1194612/)
-2. Cave of Forgotten Dreams (Werner Herzog): 10    (http://www.imdb.com/title/tt1664894/)
-3. Certified Copy (Abbas Kiarostami): 10    (http://www.imdb.com/title/tt1020773/)
-4. Treme (): 9    (http://www.imdb.com/title/tt1279972/)
-5. The Pacific (): 8    (http://www.imdb.com/title/tt0374463/)
-6. Black Swan (Darren Aronofsky): 8    (http://www.imdb.com/title/tt0947798/)
-7. Summer Pasture (Lynn True, Nelson Walker III): 8    (http://www.imdb.com/title/tt1566405/)
-8. Carlos (): 8    (http://www.imdb.com/title/tt1321865/)
-9. Dooman River (Lu Zhang): 8    (http://www.imdb.com/title/tt1500177/)
-10. Inception (Christopher Nolan): 7    (http://www.imdb.com/title/tt1375666/)
-11. Toy Story 3 (Lee Unkrich): 7    (http://www.imdb.com/title/tt0435761/)
-12. The Fighter (David O. Russell): 7    (http://www.imdb.com/title/tt0964517/)
-13. The Social Network (David Fincher): 7    (http://www.imdb.com/title/tt1285016/)
-14. The Names of Love (Michel Leclerc): 7    (http://www.imdb.com/title/tt1646974/)
-15. Elsewhere (Frédéric Pelle): 7    (http://www.imdb.com/title/tt1572775/)
+#========= Best of 2010 (53 movies, your average=6.09) ============================
+1. Treme (): 10    (https://www.imdb.com/title/tt1279972/)
+2. Cave of Forgotten Dreams (Werner Herzog): 10    (https://www.imdb.com/title/tt1664894/)
+3. Copie conforme (Abbas Kiarostami): 10    (https://www.imdb.com/title/tt1020773/)
+4. Into Eternity: A Film for the Future (Michael Madsen): 9    (https://www.imdb.com/title/tt1194612/)
+5. Borgen (): 8    (https://www.imdb.com/title/tt1526318/)
+6. The Pacific (): 8    (https://www.imdb.com/title/tt0374463/)
+7. Black Swan (Darren Aronofsky): 8    (https://www.imdb.com/title/tt0947798/)
+8. The King's Speech (Tom Hooper): 8    (https://www.imdb.com/title/tt1504320/)
+9. Summer Pasture (Lynn True, Nelson Walker III, Tsering Perlo): 8    (https://www.imdb.com/title/tt1566405/)
+10. 127 Hours (Danny Boyle): 8    (https://www.imdb.com/title/tt1542344/)
 
-#========= Best of 2011 (23 movies, your average=6.17) ============================
-1. Urbanized (Gary Hustwit): 9    (http://www.imdb.com/title/tt1701976/)
-2. Polisse (Maïwenn): 9    (http://www.imdb.com/title/tt1661420/)
-3. Fastest (Mark Neale): 8    (http://www.imdb.com/title/tt1721677/)
-4. The Kid with a Bike (Jean-Pierre Dardenne, Luc Dardenne): 8    (http://www.imdb.com/title/tt1827512/)
-5. The Artist (Michel Hazanavicius): 7    (http://www.imdb.com/title/tt1655442/)
-6. Grand Prix: The Killer Years (Richard Heap): 7    (http://www.imdb.com/title/tt1954483/)
-7. Moneyball (Bennett Miller): 7    (http://www.imdb.com/title/tt1210166/)
-8. The Raid: Redemption (Gareth Huw Evans): 7    (http://www.imdb.com/title/tt1899353/)
-9. Headhunters (Morten Tyldum): 7    (http://www.imdb.com/title/tt1614989/)
-10. Source Code (Duncan Jones): 7    (http://www.imdb.com/title/tt0945513/)
-11. African Cats (Alastair Fothergill, Keith Scholey): 7    (http://www.imdb.com/title/tt1223236/)
-12. Contagion (Steven Soderbergh): 7    (http://www.imdb.com/title/tt1598778/)
-13. In Time (Andrew Niccol): 7    (http://www.imdb.com/title/tt1637688/)
-14. The Hangover Part II (Todd Phillips): 6    (http://www.imdb.com/title/tt1411697/)
+#========= Best of 2011 (34 movies, your average=6.15) ============================
+1. Urbanized (Gary Hustwit): 9    (https://www.imdb.com/title/tt1701976/)
+2. Polisse (Maïwenn): 9    (https://www.imdb.com/title/tt1661420/)
+3. Perfect Sense (David Mackenzie): 9    (https://www.imdb.com/title/tt1439572/)
+4. Intouchables (Olivier Nakache, Éric Toledano): 8    (https://www.imdb.com/title/tt1675434/)
+5. Fastest (Mark Neale): 8    (https://www.imdb.com/title/tt1721677/)
+6. The Slap (): 8    (https://www.imdb.com/title/tt1823011/)
+7. Le gamin au vélo (Luc Dardenne, Jean-Pierre Dardenne): 8    (https://www.imdb.com/title/tt1827512/)
+8. Another Earth (Mike Cahill): 8    (https://www.imdb.com/title/tt1549572/)
+9. Grand Prix: The Killer Years (Richard Heap): 7    (https://www.imdb.com/title/tt1954483/)
+10. The Artist (Michel Hazanavicius): 7    (https://www.imdb.com/title/tt1655442/)
 
-#========= Best of 2012 (17 movies, your average=5.71) ============================
-1. Äkta människor (): 9    (http://www.imdb.com/title/tt2180271/)
-2. The Dark Knight Rises (Christopher Nolan): 8    (http://www.imdb.com/title/tt1345836/)
-3. Moonrise Kingdom (Wes Anderson): 8    (http://www.imdb.com/title/tt1748122/)
-4. Silver Linings Playbook (David O. Russell): 7    (http://www.imdb.com/title/tt1045658/)
-5. Indie Game: The Movie (Lisanne Pajot, James Swirsky): 7    (http://www.imdb.com/title/tt1942884/)
-6. Holy Motors (Leos Carax): 7    (http://www.imdb.com/title/tt2076220/)
-7. Going Cardboard: A Board Game Documentary (Lorien Green): 7    (http://www.imdb.com/title/tt2229165/)
-8. Looper (Rian Johnson): 6    (http://www.imdb.com/title/tt1276104/)
-9. Robot & Frank (Jake Schreier): 6    (http://www.imdb.com/title/tt1990314/)
+#========= Best of 2012 (29 movies, your average=6.17) ============================
+1. Äkta människor (): 9    (https://www.imdb.com/title/tt2180271/)
+2. Hiver nomade (Manuel von Stürler): 9    (https://www.imdb.com/title/tt2215113/)
+3. Django Unchained (Quentin Tarantino): 8    (https://www.imdb.com/title/tt1853728/)
+4. The Dark Knight Rises (Christopher Nolan): 8    (https://www.imdb.com/title/tt1345836/)
+5. Moonrise Kingdom (Wes Anderson): 8    (https://www.imdb.com/title/tt1748122/)
+6. Argo (Ben Affleck): 8    (https://www.imdb.com/title/tt1024648/)
+7. Like Someone in Love (Shay Modaressi, Abbas Kiarostami): 8    (https://www.imdb.com/title/tt1843287/)
+8. Reality (Matteo Garrone): 8    (https://www.imdb.com/title/tt1846487/)
+9. Les Revenants (): 7    (https://www.imdb.com/title/tt2521668/)
+10. Silver Linings Playbook (David O. Russell): 7    (https://www.imdb.com/title/tt1045658/)
 
-#========= Best of 2013 (15 movies, your average=7.00) ============================
-1. Dallas Buyers Club (Jean-Marc Vallée): 9    (http://www.imdb.com/title/tt0790636/)
-2. Top of the Lake (): 9    (http://www.imdb.com/title/tt2103085/)
-3. House of Cards (): 8    (http://www.imdb.com/title/tt1856010/)
-4. Her (Spike Jonze): 8    (http://www.imdb.com/title/tt1798709/)
-5. Gravity (Alfonso Cuarón): 8    (http://www.imdb.com/title/tt1454468/)
-6. Nebraska (Alexander Payne): 8    (http://www.imdb.com/title/tt1821549/)
-7. American Hustle (David O. Russell): 8    (http://www.imdb.com/title/tt1800241/)
-8. Ilo Ilo (Anthony Chen): 8    (http://www.imdb.com/title/tt2901736/)
-9. 12 Years a Slave (Steve McQueen): 7    (http://www.imdb.com/title/tt2024544/)
-10. The Wind Rises (Hayao Miyazaki): 7    (http://www.imdb.com/title/tt2013293/)
-11. Oblivion (Joseph Kosinski): 7    (http://www.imdb.com/title/tt1483013/)
-12. The Wolf of Wall Street (Martin Scorsese): 6    (http://www.imdb.com/title/tt0993846/)
-13. 9-Month Stretch (Albert Dupontel): 6    (http://www.imdb.com/title/tt2853614/)
+#========= Best of 2013 (29 movies, your average=6.72) ============================
+1. Dallas Buyers Club (Jean-Marc Vallée): 9    (https://www.imdb.com/title/tt0790636/)
+2. Top of the Lake (): 9    (https://www.imdb.com/title/tt2103085/)
+3. Africa (): 8    (https://www.imdb.com/title/tt2571774/)
+4. House of Cards (): 8    (https://www.imdb.com/title/tt1856010/)
+5. The Americans (): 8    (https://www.imdb.com/title/tt2149175/)
+6. Utopia (): 8    (https://www.imdb.com/title/tt2384811/)
+7. Her (Spike Jonze): 8    (https://www.imdb.com/title/tt1798709/)
+8. Before Midnight (Richard Linklater): 8    (https://www.imdb.com/title/tt2209418/)
+9. Gravity (Alfonso Cuarón): 8    (https://www.imdb.com/title/tt1454468/)
+10. Nebraska (Alexander Payne): 8    (https://www.imdb.com/title/tt1821549/)
 
-#========= Best of 2014 (1 movies, your average=10.00) ============================
-1. The Grand Budapest Hotel (Wes Anderson): 10    (http://www.imdb.com/title/tt2278388/)
+#========= Best of 2014 (19 movies, your average=7.58) ============================
+1. The Grand Budapest Hotel (Wes Anderson): 10    (https://www.imdb.com/title/tt2278388/)
+2. True Detective (): 9    (https://www.imdb.com/title/tt2356777/)
+3. Fargo (): 9    (https://www.imdb.com/title/tt2802850/)
+4. The Leftovers (): 9    (https://www.imdb.com/title/tt2699128/)
+5. Mommy (Xavier Dolan): 9    (https://www.imdb.com/title/tt3612616/)
+6. Boyhood (Richard Linklater): 9    (https://www.imdb.com/title/tt1065073/)
+7. Ex Machina (Alex Garland): 9    (https://www.imdb.com/title/tt0470752/)
+8. P'tit Quinquin (): 9    (https://www.imdb.com/title/tt3053694/)
+9. The Barkley Marathons: The Race That Eats Its Young (Annika Iltis, Timothy James Kane): 8    (https://www.imdb.com/title/tt2400291/)
+10. From Bedrooms to Billions (Anthony Caulfield, Nicola Caulfield): 8    (https://www.imdb.com/title/tt2404567/)
+
+#========= Best of 2015 (12 movies, your average=7.58) ============================
+1. Mad Max: Fury Road (George Miller): 9    (https://www.imdb.com/title/tt1392190/)
+2. Demain (Cyril Dion, Mélanie Laurent): 9    (https://www.imdb.com/title/tt4449576/)
+3. Dheepan (Jacques Audiard): 9    (https://www.imdb.com/title/tt4082068/)
+4. Mr. Robot (): 8    (https://www.imdb.com/title/tt4158110/)
+5. Inside Out (Pete Docter, Ronnie Del Carmen): 7    (https://www.imdb.com/title/tt2096673/)
+6. Spotlight (Tom McCarthy): 7    (https://www.imdb.com/title/tt1895587/)
+7. The Man in the High Castle (): 7    (https://www.imdb.com/title/tt1740299/)
+8. The Big Short (Adam McKay): 7    (https://www.imdb.com/title/tt1596363/)
+9. Okkupert (): 7    (https://www.imdb.com/title/tt4192998/)
+10. Unbreakable Kimmy Schmidt (): 7    (https://www.imdb.com/title/tt3339966/)
+
+#========= Best of 2016 (12 movies, your average=7.25) ============================
+1. The Young Pope (): 8    (https://www.imdb.com/title/tt3655448/)
+2. From Bedrooms to Billions: The Amiga Years! (Anthony Caulfield, Nicola Caulfield): 8    (https://www.imdb.com/title/tt4603210/)
+3. Into the Inferno (Werner Herzog): 8    (https://www.imdb.com/title/tt4846318/)
+4. Gimme Danger (Jim Jarmusch): 8    (https://www.imdb.com/title/tt1714917/)
+5. Ma Loute (Bruno Dumont): 8    (https://www.imdb.com/title/tt4726636/)
+6. Stranger Things (): 7    (https://www.imdb.com/title/tt4574334/)
+7. Arrival (Denis Villeneuve): 7    (https://www.imdb.com/title/tt2543164/)
+8. Paterson (Jim Jarmusch): 7    (https://www.imdb.com/title/tt5247022/)
+9. Lo and Behold: Reveries of the Connected World (Werner Herzog): 7    (https://www.imdb.com/title/tt5275828/)
+10. La fille inconnue (Luc Dardenne, Jean-Pierre Dardenne): 7    (https://www.imdb.com/title/tt4630550/)
+
+#========= Best of 2017 (4 movies, your average=5.25) ============================
+1. The Deuce (): 8    (https://www.imdb.com/title/tt4998350/)
+2. The Handmaid's Tale (): 7    (https://www.imdb.com/title/tt5834204/)
+
+#========= Best of 2018 (12 movies, your average=6.58) ============================
+1. Wild Wild Country (): 9    (https://www.imdb.com/title/tt7768848/)
+2. BlacKkKlansman (Spike Lee): 9    (https://www.imdb.com/title/tt7349662/)
+3. Free Solo (Jimmy Chin, Elizabeth Chai Vasarhelyi): 8    (https://www.imdb.com/title/tt7775622/)
+4. Isle of Dogs (Wes Anderson): 7    (https://www.imdb.com/title/tt5104604/)
+5. Rams (Gary Hustwit): 7    (https://www.imdb.com/title/tt8423080/)
+6. Coincoin et les z'inhumains (): 7    (https://www.imdb.com/title/tt8030700/)
+
+#========= Best of 2019 (7 movies, your average=7.14) ============================
+1. Chernobyl (): 8    (https://www.imdb.com/title/tt7366338/)
+2. Formula 1: Drive to Survive (): 8    (https://www.imdb.com/title/tt8289930/)
+3. Gisaengchung (Bong Joon Ho): 8    (https://www.imdb.com/title/tt6751668/)
+4. Varda par Agnès (): 7    (https://www.imdb.com/title/tt9530198/)
+5. Richard Jewell (Clint Eastwood): 7    (https://www.imdb.com/title/tt3513548/)
+6. The Dead Don't Die (Jim Jarmusch): 7    (https://www.imdb.com/title/tt8695030/)
+
+#========= Best of 2020 (1 movies, your average=7.00) ============================
+1. Neviadomi ray (Darya Yurkevich): 7    (https://www.imdb.com/title/tt12113608/)
 
 
 
@@ -950,179 +861,130 @@ Your favorite year: 1984 with average: 7.85 (with minimum 10 votes to qualify).
 @@@@@@ Best Of by decade @@@@@@
 
 #========= Best of decade 1898-1900  (3 movies, your average=7.33) ============================
-1. Four Heads Are Better Than One (Georges Méliès): 8    (http://www.imdb.com/title/tt0135696/)
-2. Oh! What a Night; or, The Sultan's Dream (Georges Méliès): 8    (http://www.imdb.com/title/tt0227420/)
-3. The Temptation of St. Anthony (Georges Méliès): 6    (http://www.imdb.com/title/tt0224240/)
+1. Un homme de têtes (Georges Méliès): 8    (https://www.imdb.com/title/tt0135696/)
+2. Le rêve du radjah ou La forêt enchantée (Georges Méliès): 8    (https://www.imdb.com/title/tt0227420/)
 
 #========= Best of decade 1901-1910  (3 movies, your average=7.33) ============================
-1. The India Rubber Head (Georges Méliès): 8    (http://www.imdb.com/title/tt0000359/)
-2. A Trip to the Moon (): 7    (http://www.imdb.com/title/tt0000417/)
-3. Bluebeard (Georges Méliès): 7    (http://www.imdb.com/title/tt0131934/)
+1. L'homme à la tête en caoutchouc (Georges Méliès): 8    (https://www.imdb.com/title/tt0000359/)
+2. Le voyage dans la lune (Georges Méliès): 7    (https://www.imdb.com/title/tt0000417/)
+3. Barbe-bleue (Georges Méliès): 7    (https://www.imdb.com/title/tt0131934/)
 
 #========= Best of decade 1911-1920  (17 movies, your average=7.35) ============================
-1. One Week (Edward F. Cline, Buster Keaton): 9    (http://www.imdb.com/title/tt0011541/)
-2. The Cook (Roscoe 'Fatty' Arbuckle): 9    (http://www.imdb.com/title/tt0008975/)
-3. Neighbors (Edward F. Cline, Buster Keaton): 8    (http://www.imdb.com/title/tt0011508/)
-4. The Garage (Roscoe 'Fatty' Arbuckle): 8    (http://www.imdb.com/title/tt0010155/)
-5. The Bell Boy (Roscoe 'Fatty' Arbuckle): 8    (http://www.imdb.com/title/tt0008874/)
-6. Coney Island (): 8    (http://www.imdb.com/title/tt0007819/)
-7. Out West (Roscoe 'Fatty' Arbuckle): 8    (http://www.imdb.com/title/tt0009466/)
-8. The Scarecrow (Eddie Cline, 'Buster' Keaton): 7    (http://www.imdb.com/title/tt0011656/)
-9. Back Stage (Roscoe 'Fatty' Arbuckle): 7    (http://www.imdb.com/title/tt0009899/)
-10. The Butcher Boy (Roscoe 'Fatty' Arbuckle): 7    (http://www.imdb.com/title/tt0007761/)
-11. Good Night, Nurse! (Roscoe 'Fatty' Arbuckle): 7    (http://www.imdb.com/title/tt0009123/)
-12. The Hayseed (Roscoe 'Fatty' Arbuckle): 7    (http://www.imdb.com/title/tt0010221/)
-13. Oh Doctor! (Roscoe 'Fatty' Arbuckle): 7    (http://www.imdb.com/title/tt0008377/)
-14. Moonshine (Roscoe 'Fatty' Arbuckle): 7    (http://www.imdb.com/title/tt0009389/)
-15. Convict 13 (Edward F. Cline, Buster Keaton): 6    (http://www.imdb.com/title/tt0011071/)
+1. One Week (Edward F. Cline, Buster Keaton): 9    (https://www.imdb.com/title/tt0011541/)
+2. The Cook (Roscoe 'Fatty' Arbuckle): 9    (https://www.imdb.com/title/tt0008975/)
+3. Neighbors (Edward F. Cline, Buster Keaton): 8    (https://www.imdb.com/title/tt0011508/)
+4. The Bell Boy (Roscoe 'Fatty' Arbuckle): 8    (https://www.imdb.com/title/tt0008874/)
+5. The Garage (Roscoe 'Fatty' Arbuckle): 8    (https://www.imdb.com/title/tt0010155/)
+6. Out West (Roscoe 'Fatty' Arbuckle): 8    (https://www.imdb.com/title/tt0009466/)
+7. Coney Island (Roscoe 'Fatty' Arbuckle): 8    (https://www.imdb.com/title/tt0007819/)
+8. The Scarecrow (Edward F. Cline, Buster Keaton): 7    (https://www.imdb.com/title/tt0011656/)
+9. Back Stage (Roscoe 'Fatty' Arbuckle): 7    (https://www.imdb.com/title/tt0009899/)
+10. The Butcher Boy (Roscoe 'Fatty' Arbuckle): 7    (https://www.imdb.com/title/tt0007761/)
 
 #========= Best of decade 1921-1930  (17 movies, your average=7.59) ============================
-1. The Goat (Buster Keaton, Mal St. Clair): 9    (http://www.imdb.com/title/tt0012224/)
-2. Metropolis (Fritz Lang): 8    (http://www.imdb.com/title/tt0017136/)
-3. The Play House (Eddie Cline, 'Buster' Keaton): 8    (http://www.imdb.com/title/tt0012570/)
-4. Cops (Eddie Cline, 'Buster' Keaton): 8    (http://www.imdb.com/title/tt0013025/)
-5. The 'High Sign' (Eddie Cline, 'Buster' Keaton): 8    (http://www.imdb.com/title/tt0012278/)
-6. Hard Luck (Edward F. Cline, Buster Keaton): 8    (http://www.imdb.com/title/tt0012253/)
-7. The Boat (Eddie Cline, 'Buster' Keaton): 8    (http://www.imdb.com/title/tt0011984/)
-8. The Love Nest (Buster Keaton): 8    (http://www.imdb.com/title/tt0014218/)
-9. Day Dreams (Eddie Cline, Buster Keaton): 8    (http://www.imdb.com/title/tt0013055/)
-10. The Balloonatic (Eddie Cline, 'Buster' Keaton): 8    (http://www.imdb.com/title/tt0013858/)
-11. Nosferatu (F.W. Murnau): 7    (http://www.imdb.com/title/tt0013442/)
-12. The Electric House (Eddie Cline, 'Buster' Keaton): 7    (http://www.imdb.com/title/tt0013099/)
-13. The Haunted House (Edward F. Cline, Buster Keaton): 7    (http://www.imdb.com/title/tt0012255/)
-14. The Paleface (Buster Keaton): 7    (http://www.imdb.com/title/tt0012543/)
-15. The Blacksmith (Buster Keaton, Mal. St. Clair): 7    (http://www.imdb.com/title/tt0012945/)
+1. The Goat (Malcolm St. Clair, Buster Keaton): 9    (https://www.imdb.com/title/tt0012224/)
+2. Metropolis (Fritz Lang): 8    (https://www.imdb.com/title/tt0017136/)
+3. The 'High Sign' (Edward F. Cline, Buster Keaton): 8    (https://www.imdb.com/title/tt0012278/)
+4. Cops (Edward F. Cline, Buster Keaton): 8    (https://www.imdb.com/title/tt0013025/)
+5. The Play House (Edward F. Cline, Buster Keaton): 8    (https://www.imdb.com/title/tt0012570/)
+6. The Boat (Edward F. Cline, Buster Keaton): 8    (https://www.imdb.com/title/tt0011984/)
+7. Hard Luck (Edward F. Cline, Buster Keaton): 8    (https://www.imdb.com/title/tt0012253/)
+8. Day Dreams (Edward F. Cline, Buster Keaton): 8    (https://www.imdb.com/title/tt0013055/)
+9. The Love Nest (Edward F. Cline, Buster Keaton): 8    (https://www.imdb.com/title/tt0014218/)
+10. The Balloonatic (Edward F. Cline, Buster Keaton): 8    (https://www.imdb.com/title/tt0013858/)
 
 #========= Best of decade 1931-1940  (2 movies, your average=6.50) ============================
-1. The Rules of the Game (Jean Renoir): 7    (http://www.imdb.com/title/tt0031885/)
-2. Soigne ton gauche (René Clément): 6    (http://www.imdb.com/title/tt0028275/)
+1. La règle du jeu (Jean Renoir): 7    (https://www.imdb.com/title/tt0031885/)
 
-#========= Best of decade 1941-1950  (12 movies, your average=6.08) ============================
-1. Citizen Kane (Orson Welles): 7    (http://www.imdb.com/title/tt0033467/)
-2. Children of Paradise (Marcel Carné): 7    (http://www.imdb.com/title/tt0037674/)
-3. Los Olvidados (Luis Buñuel): 7    (http://www.imdb.com/title/tt0042804/)
-4. Out of the Past (Jacques Tourneur): 7    (http://www.imdb.com/title/tt0039689/)
-5. The Big Sleep (Howard Hawks): 7    (http://www.imdb.com/title/tt0038355/)
-6. Sanshiro Sugata (Akira Kurosawa): 7    (http://www.imdb.com/title/tt0036400/)
-7. The Leopard Man (Jacques Tourneur): 7    (http://www.imdb.com/title/tt0036104/)
-8. Rashomon (Akira Kurosawa): 6    (http://www.imdb.com/title/tt0042876/)
-9. Beauty and the Beast (Jean Cocteau): 6    (http://www.imdb.com/title/tt0038348/)
+#========= Best of decade 1941-1950  (11 movies, your average=6.27) ============================
+1. Les enfants du paradis (Marcel Carné): 7    (https://www.imdb.com/title/tt0037674/)
+2. Los olvidados (Luis Buñuel): 7    (https://www.imdb.com/title/tt0042804/)
+3. Citizen Kane (Orson Welles): 7    (https://www.imdb.com/title/tt0033467/)
+4. Out of the Past (Jacques Tourneur): 7    (https://www.imdb.com/title/tt0039689/)
+5. The Big Sleep (Howard Hawks): 7    (https://www.imdb.com/title/tt0038355/)
+6. The Leopard Man (Jacques Tourneur): 7    (https://www.imdb.com/title/tt0036104/)
+7. Sugata Sanshirô (Akira Kurosawa): 7    (https://www.imdb.com/title/tt0036400/)
 
-#========= Best of decade 1951-1960  (39 movies, your average=6.92) ============================
-1. 12 Angry Men (Sidney Lumet): 9    (http://www.imdb.com/title/tt0050083/)
-2. Psycho (Alfred Hitchcock): 9    (http://www.imdb.com/title/tt0054215/)
-3. The Seventh Seal (Ingmar Bergman): 9    (http://www.imdb.com/title/tt0050976/)
-4. Breathless (Jean-Luc Godard): 9    (http://www.imdb.com/title/tt0053472/)
-5. Night and Fog (Alain Resnais): 8    (http://www.imdb.com/title/tt0048434/)
-6. Rear Window (Alfred Hitchcock): 8    (http://www.imdb.com/title/tt0047396/)
-7. Vertigo (Alfred Hitchcock): 8    (http://www.imdb.com/title/tt0052357/)
-8. The Wages of Fear (Henri-Georges Clouzot): 8    (http://www.imdb.com/title/tt0046268/)
-9. The Bridge on the River Kwai (David Lean): 8    (http://www.imdb.com/title/tt0050212/)
-10. L'Avventura (Michelangelo Antonioni): 8    (http://www.imdb.com/title/tt0053619/)
-11. Hiroshima Mon Amour (Alain Resnais): 8    (http://www.imdb.com/title/tt0052893/)
-12. Mon Oncle (Jacques Tati): 8    (http://www.imdb.com/title/tt0050706/)
-13. Smiles of a Summer Night (Ingmar Bergman): 8    (http://www.imdb.com/title/tt0048641/)
-14. Toute la mémoire du monde (Alain Resnais): 8    (http://www.imdb.com/title/tt0049869/)
-15. Mr. Hulot's Holiday (Jacques Tati): 8    (http://www.imdb.com/title/tt0046487/)
+#========= Best of decade 1951-1960  (40 movies, your average=6.85) ============================
+1. 12 Angry Men (Sidney Lumet): 9    (https://www.imdb.com/title/tt0050083/)
+2. Psycho (Alfred Hitchcock): 9    (https://www.imdb.com/title/tt0054215/)
+3. Det sjunde inseglet (Ingmar Bergman): 9    (https://www.imdb.com/title/tt0050976/)
+4. À bout de souffle (Jean-Luc Godard): 9    (https://www.imdb.com/title/tt0053472/)
+5. Nuit et brouillard (Alain Resnais): 8    (https://www.imdb.com/title/tt0048434/)
+6. Rear Window (Alfred Hitchcock): 8    (https://www.imdb.com/title/tt0047396/)
+7. Vertigo (Alfred Hitchcock): 8    (https://www.imdb.com/title/tt0052357/)
+8. The Bridge on the River Kwai (David Lean): 8    (https://www.imdb.com/title/tt0050212/)
+9. Le salaire de la peur (Henri-Georges Clouzot): 8    (https://www.imdb.com/title/tt0046268/)
+10. L'avventura (Michelangelo Antonioni): 8    (https://www.imdb.com/title/tt0053619/)
 
-#========= Best of decade 1961-1970  (85 movies, your average=7.14) ============================
-1. Once Upon a Time in the West (Sergio Leone): 9    (http://www.imdb.com/title/tt0064116/)
-2. 2001: A Space Odyssey (Stanley Kubrick): 9    (http://www.imdb.com/title/tt0062622/)
-3. La Grande Vadrouille (Gérard Oury): 9    (http://www.imdb.com/title/tt0060474/)
-4. A Fistful of Dollars (Sergio Leone): 9    (http://www.imdb.com/title/tt0058461/)
-5. Playtime (Jacques Tati): 9    (http://www.imdb.com/title/tt0062136/)
-6. Cleo from 5 to 7 (Agnès Varda): 9    (http://www.imdb.com/title/tt0055852/)
-7. L'Eclisse (Michelangelo Antonioni): 9    (http://www.imdb.com/title/tt0056736/)
-8. The Good, the Bad and the Ugly (Sergio Leone): 8    (http://www.imdb.com/title/tt0060196/)
-9. For a Few Dollars More (Sergio Leone): 8    (http://www.imdb.com/title/tt0059578/)
-10. Lawrence of Arabia (David Lean): 8    (http://www.imdb.com/title/tt0056172/)
-11. The Battle of Algiers (Gillo Pontecorvo): 8    (http://www.imdb.com/title/tt0058946/)
-12. Army of Shadows (Jean-Pierre Melville): 8    (http://www.imdb.com/title/tt0064040/)
-13. Le Cercle Rouge (Jean-Pierre Melville): 8    (http://www.imdb.com/title/tt0065531/)
-14. Monsieur Gangster (Georges Lautner): 8    (http://www.imdb.com/title/tt0057591/)
-15. My Night at Maud's (Eric Rohmer): 8    (http://www.imdb.com/title/tt0064612/)
+#========= Best of decade 1961-1970  (86 movies, your average=7.14) ============================
+1. C'era una volta il West (Sergio Leone): 9    (https://www.imdb.com/title/tt0064116/)
+2. 2001: A Space Odyssey (Stanley Kubrick): 9    (https://www.imdb.com/title/tt0062622/)
+3. Per un pugno di dollari (Sergio Leone): 9    (https://www.imdb.com/title/tt0058461/)
+4. Cléo de 5 à 7 (Agnès Varda): 9    (https://www.imdb.com/title/tt0055852/)
+5. La grande vadrouille (Gérard Oury): 9    (https://www.imdb.com/title/tt0060474/)
+6. L'eclisse (Michelangelo Antonioni): 9    (https://www.imdb.com/title/tt0056736/)
+7. Playtime (Jacques Tati): 9    (https://www.imdb.com/title/tt0062136/)
+8. Il buono, il brutto, il cattivo (Sergio Leone): 8    (https://www.imdb.com/title/tt0060196/)
+9. Lawrence of Arabia (David Lean): 8    (https://www.imdb.com/title/tt0056172/)
+10. Per qualche dollaro in più (Sergio Leone): 8    (https://www.imdb.com/title/tt0059578/)
 
-#========= Best of decade 1971-1980  (93 movies, your average=7.04) ============================
-1. Apocalypse Now (Francis Coppola): 9    (http://www.imdb.com/title/tt0078788/)
-2. Alien (Ridley Scott): 9    (http://www.imdb.com/title/tt0078748/)
-3. Barry Lyndon (Stanley Kubrick): 9    (http://www.imdb.com/title/tt0072684/)
-4. Days of Heaven (Terrence Malick): 9    (http://www.imdb.com/title/tt0077405/)
-5. The Man Who Would Be King (John Huston): 9    (http://www.imdb.com/title/tt0073341/)
-6. Two-Lane Blacktop (Monte Hellman): 9    (http://www.imdb.com/title/tt0067893/)
-7. Mountain Pass (Jean-François Stévenin): 9    (http://www.imdb.com/title/tt0180901/)
-8. The Wrong Move (Wim Wenders): 9    (http://www.imdb.com/title/tt0071483/)
-9. The Godfather (Francis Ford Coppola): 8    (http://www.imdb.com/title/tt0068646/)
-10. One Flew Over the Cuckoo's Nest (Milos Forman): 8    (http://www.imdb.com/title/tt0073486/)
-11. The Shining (Stanley Kubrick): 8    (http://www.imdb.com/title/tt0081505/)
-12. Monty Python and the Holy Grail (Terry Gilliam, Terry Jones): 8    (http://www.imdb.com/title/tt0071853/)
-13. Raging Bull (Martin Scorsese): 8    (http://www.imdb.com/title/tt0081398/)
-14. Annie Hall (Woody Allen): 8    (http://www.imdb.com/title/tt0075686/)
-15. Dersu Uzala (Akira Kurosava): 8    (http://www.imdb.com/title/tt0071411/)
+#========= Best of decade 1971-1980  (104 movies, your average=6.97) ============================
+1. The Godfather (Francis Ford Coppola): 9    (https://www.imdb.com/title/tt0068646/)
+2. Berlin Alexanderplatz (): 9    (https://www.imdb.com/title/tt0080196/)
+3. Apocalypse Now (Francis Ford Coppola): 9    (https://www.imdb.com/title/tt0078788/)
+4. Alien (Ridley Scott): 9    (https://www.imdb.com/title/tt0078748/)
+5. Scener ur ett äktenskap (): 9    (https://www.imdb.com/title/tt0070644/)
+6. Barry Lyndon (Stanley Kubrick): 9    (https://www.imdb.com/title/tt0072684/)
+7. Days of Heaven (Terrence Malick): 9    (https://www.imdb.com/title/tt0077405/)
+8. The Man Who Would Be King (John Huston): 9    (https://www.imdb.com/title/tt0073341/)
+9. Two-Lane Blacktop (Monte Hellman): 9    (https://www.imdb.com/title/tt0067893/)
+10. Falsche Bewegung (Wim Wenders): 9    (https://www.imdb.com/title/tt0071483/)
 
-#========= Best of decade 1981-1990  (129 movies, your average=7.11) ============================
-1. Down by Law (Jim Jarmusch): 10    (http://www.imdb.com/title/tt0090967/)
-2. Das Boot (Wolfgang Petersen): 9    (http://www.imdb.com/title/tt0081834/)
-3. Das Boot (Wolfgang Petersen): 9    (http://www.imdb.com/title/tt0082096/)
-4. Grave of the Fireflies (Isao Takahata): 9    (http://www.imdb.com/title/tt0095327/)
-5. Blade Runner (Ridley Scott): 9    (http://www.imdb.com/title/tt0083658/)
-6. Nausicaä of the Valley of the Wind (Hayao Miyazaki): 9    (http://www.imdb.com/title/tt0087544/)
-7. Paris, Texas (Wim Wenders): 9    (http://www.imdb.com/title/tt0087884/)
-8. Wings of Desire (Wim Wenders): 9    (http://www.imdb.com/title/tt0093191/)
-9. Shoah (Claude Lanzmann): 9    (http://www.imdb.com/title/tt0090015/)
-10. Brazil (Terry Gilliam): 9    (http://www.imdb.com/title/tt0088846/)
-11. The Ballad of Narayama (Shôhei Imamura): 9    (http://www.imdb.com/title/tt0084390/)
-12. Blue Velvet (David Lynch): 9    (http://www.imdb.com/title/tt0090756/)
-13. The Bear (Jean-Jacques Annaud): 9    (http://www.imdb.com/title/tt0095800/)
-14. Blood Simple. (Joel Coen): 9    (http://www.imdb.com/title/tt0086979/)
-15. Stranger Than Paradise (Jim Jarmusch): 9    (http://www.imdb.com/title/tt0088184/)
+#========= Best of decade 1981-1990  (141 movies, your average=7.08) ============================
+1. Down by Law (Jim Jarmusch): 10    (https://www.imdb.com/title/tt0090967/)
+2. Das Boot (): 9    (https://www.imdb.com/title/tt0081834/)
+3. Shoah (Claude Lanzmann): 9    (https://www.imdb.com/title/tt0090015/)
+4. Hotaru no haka (Isao Takahata): 9    (https://www.imdb.com/title/tt0095327/)
+5. Das Boot (Wolfgang Petersen): 9    (https://www.imdb.com/title/tt0082096/)
+6. Kaze no tani no Naushika (Hayao Miyazaki): 9    (https://www.imdb.com/title/tt0087544/)
+7. Paris, Texas (Wim Wenders): 9    (https://www.imdb.com/title/tt0087884/)
+8. Blade Runner (Ridley Scott): 9    (https://www.imdb.com/title/tt0083658/)
+9. Der Himmel über Berlin (Wim Wenders): 9    (https://www.imdb.com/title/tt0093191/)
+10. Brazil (Terry Gilliam): 9    (https://www.imdb.com/title/tt0088846/)
 
-#========= Best of decade 1991-2000  (420 movies, your average=6.95) ============================
-1. Peter Gabriel's Secret World (François Girard): 10    (http://www.imdb.com/title/tt0111109/)
-2. Casino (Martin Scorsese): 10    (http://www.imdb.com/title/tt0112641/)
-3. The Big Lebowski (Joel Coen): 10    (http://www.imdb.com/title/tt0118715/)
-4. Underground (Emir Kusturica): 10    (http://www.imdb.com/title/tt0114787/)
-5. Dead Man (Jim Jarmusch): 10    (http://www.imdb.com/title/tt0112817/)
-6. Man Bites Dog (Rémy Belvaux, André Bonzel): 10    (http://www.imdb.com/title/tt0103905/)
-7. The Thin Red Line (Terrence Malick): 10    (http://www.imdb.com/title/tt0120863/)
-8. Ghost Dog: The Way of the Samurai (Jim Jarmusch): 10    (http://www.imdb.com/title/tt0165798/)
-9. The Bridges of Madison County (Clint Eastwood): 10    (http://www.imdb.com/title/tt0112579/)
-10. Voilà (Bruno Podalydès): 10    (http://www.imdb.com/title/tt0121080/)
-11. The Sopranos (): 9    (http://www.imdb.com/title/tt0141842/)
-12. Pulp Fiction (Quentin Tarantino): 9    (http://www.imdb.com/title/tt0110912/)
-13. Fight Club (David Fincher): 9    (http://www.imdb.com/title/tt0137523/)
-14. American History X (Tony Kaye): 9    (http://www.imdb.com/title/tt0120586/)
-15. Léon: The Professional (Luc Besson): 9    (http://www.imdb.com/title/tt0110413/)
+#========= Best of decade 1991-2000  (428 movies, your average=6.94) ============================
+1. Secret World Live (François Girard): 10    (https://www.imdb.com/title/tt0111109/)
+2. Casino (Martin Scorsese): 10    (https://www.imdb.com/title/tt0112641/)
+3. The Big Lebowski (Joel Coen, Ethan Coen): 10    (https://www.imdb.com/title/tt0118715/)
+4. Underground (Emir Kusturica): 10    (https://www.imdb.com/title/tt0114787/)
+5. The Bridges of Madison County (Clint Eastwood): 10    (https://www.imdb.com/title/tt0112579/)
+6. Dead Man (Jim Jarmusch): 10    (https://www.imdb.com/title/tt0112817/)
+7. The Thin Red Line (Terrence Malick): 10    (https://www.imdb.com/title/tt0120863/)
+8. C'est arrivé près de chez vous (Rémy Belvaux, André Bonzel, Benoît Poelvoorde): 10    (https://www.imdb.com/title/tt0103905/)
+9. Ghost Dog: The Way of the Samurai (Jim Jarmusch): 10    (https://www.imdb.com/title/tt0165798/)
+10. Voilà (Bruno Podalydès): 10    (https://www.imdb.com/title/tt0121080/)
 
-#========= Best of decade 2001-2010  (615 movies, your average=6.23) ============================
-1. Breaking Bad (): 10    (http://www.imdb.com/title/tt0903747/)
-2. Into Eternity: A Film for the Future (Michael Madsen): 10    (http://www.imdb.com/title/tt1194612/)
-3. Cave of Forgotten Dreams (Werner Herzog): 10    (http://www.imdb.com/title/tt1664894/)
-4. Certified Copy (Abbas Kiarostami): 10    (http://www.imdb.com/title/tt1020773/)
-5. Band of Brothers (): 9    (http://www.imdb.com/title/tt0185906/)
-6. The Wire (): 9    (http://www.imdb.com/title/tt0306414/)
-7. The Big Bang Theory (): 9    (http://www.imdb.com/title/tt0898266/)
-8. Terminator: The Sarah Connor Chronicles: Today Is the Day: Part 2 (Guy Norman Bee): 9    (http://www.imdb.com/title/tt1329930/)
-9. Treme (): 9    (http://www.imdb.com/title/tt1279972/)
-10. Bored to Death (): 9    (http://www.imdb.com/title/tt1255913/)
-11. Talk to Her (Pedro Almodóvar): 9    (http://www.imdb.com/title/tt0287467/)
-12. The Incredibles (Brad Bird): 9    (http://www.imdb.com/title/tt0317705/)
-13. The Wrestler (Darren Aronofsky): 9    (http://www.imdb.com/title/tt1125849/)
-14. Lost in Translation (Sofia Coppola): 9    (http://www.imdb.com/title/tt0335266/)
-15. Powder Keg (Alejandro González Iñárritu): 9    (http://www.imdb.com/title/tt0285930/)
+#========= Best of decade 2001-2010  (656 movies, your average=6.28) ============================
+1. Breaking Bad (): 10    (https://www.imdb.com/title/tt0903747/)
+2. Planet Earth (): 10    (https://www.imdb.com/title/tt0795176/)
+3. Treme (): 10    (https://www.imdb.com/title/tt1279972/)
+4. Cave of Forgotten Dreams (Werner Herzog): 10    (https://www.imdb.com/title/tt1664894/)
+5. Copie conforme (Abbas Kiarostami): 10    (https://www.imdb.com/title/tt1020773/)
+6. Band of Brothers (): 9    (https://www.imdb.com/title/tt0185906/)
+7. The Wire (): 9    (https://www.imdb.com/title/tt0306414/)
+8. Six Feet Under (): 9    (https://www.imdb.com/title/tt0248654/)
+9. Terminator: The Sarah Connor Chronicles: Today Is the Day: Part 2 (Guy Norman Bee): 9    (https://www.imdb.com/title/tt1329930/)
+10. The Big Bang Theory (): 9    (https://www.imdb.com/title/tt0898266/)
 
-#========= Best of decade 2011-2014  (56 movies, your average=6.32) ============================
-1. The Grand Budapest Hotel (Wes Anderson): 10    (http://www.imdb.com/title/tt2278388/)
-2. Dallas Buyers Club (Jean-Marc Vallée): 9    (http://www.imdb.com/title/tt0790636/)
-3. Äkta människor (): 9    (http://www.imdb.com/title/tt2180271/)
-4. Top of the Lake (): 9    (http://www.imdb.com/title/tt2103085/)
-5. Polisse (Maïwenn): 9    (http://www.imdb.com/title/tt1661420/)
-6. Urbanized (Gary Hustwit): 9    (http://www.imdb.com/title/tt1701976/)
-7. House of Cards (): 8    (http://www.imdb.com/title/tt1856010/)
-8. The Dark Knight Rises (Christopher Nolan): 8    (http://www.imdb.com/title/tt1345836/)
-9. Her (Spike Jonze): 8    (http://www.imdb.com/title/tt1798709/)
-10. Gravity (Alfonso Cuarón): 8    (http://www.imdb.com/title/tt1454468/)
-11. Nebraska (Alexander Payne): 8    (http://www.imdb.com/title/tt1821549/)
-12. Moonrise Kingdom (Wes Anderson): 8    (http://www.imdb.com/title/tt1748122/)
-13. Fastest (Mark Neale): 8    (http://www.imdb.com/title/tt1721677/)
-14. American Hustle (David O. Russell): 8    (http://www.imdb.com/title/tt1800241/)
-15. The Kid with a Bike (Jean-Pierre Dardenne, Luc Dardenne): 8    (http://www.imdb.com/title/tt1827512/)
+#========= Best of decade 2011-2020  (159 movies, your average=6.68) ============================
+1. The Grand Budapest Hotel (Wes Anderson): 10    (https://www.imdb.com/title/tt2278388/)
+2. True Detective (): 9    (https://www.imdb.com/title/tt2356777/)
+3. Fargo (): 9    (https://www.imdb.com/title/tt2802850/)
+4. The Leftovers (): 9    (https://www.imdb.com/title/tt2699128/)
+5. Wild Wild Country (): 9    (https://www.imdb.com/title/tt7768848/)
+6. Mad Max: Fury Road (George Miller): 9    (https://www.imdb.com/title/tt1392190/)
+7. Mommy (Xavier Dolan): 9    (https://www.imdb.com/title/tt3612616/)
+8. Dallas Buyers Club (Jean-Marc Vallée): 9    (https://www.imdb.com/title/tt0790636/)
+9. Demain (Cyril Dion, Mélanie Laurent): 9    (https://www.imdb.com/title/tt4449576/)
+10. Äkta människor (): 9    (https://www.imdb.com/title/tt2180271/)
